@@ -1,0 +1,73 @@
+---
+title: 'Lección 2'
+visible: true
+media_order: 'darsu_2_lexilista.mp3,darsu_2_misalli_jumle.mp3'
+---
+
+## Lista de vocabulario
+
+<audio controls>
+ <source src="/darsu/02/darsu_2_lexilista.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+* **mi** - yo
+* **bete** - hijo(s)/hija(s)
+* **somno** - dormir
+* **doxo** - leer
+* **danse** - bailar
+* **lala** - cantar
+* **yuxi** - jugar
+* **ergo** - trabajar
+* **pawbu** - correr
+* **anda** - caminar
+* **fley** - volar
+* **suyon** - nadar
+
+
+## Notas
+### Sin artículos
+
+Globasa no tiene artículos definidos ni indefinidos (las palabras _un/una_ y _el/la/los/las_ en español). En una lección posterior, aprenderá a enfatizar los artículos definidos cuando sea necesario.
+
+* **bwaw** - _perro(s)_, _un perro_ o _los perros_
+
+### Sin conjugación
+
+Globasa no tiene conjugación de verbos, lo que significa que los verbos no cambian según el sujeto (o realizador) de la oración. Por ejemplo, en español, el verbo _trabajar_ puede conjugarse como _yo trabajo_, _usted trabaja_, etc. En cambio, en Globasa sólo utilizamos **ergo**.
+
+* **ergo** - _trabajo_, _trabajas_, _trabaja_, _trabajamos_, etc.
+
+### Forma del verbo en el diccionario
+
+La forma del verbo que viene en el diccionario equivale al _presente de indicativo_ o al _presente progresivo_ en español.
+
+* **fley** - _vuela_, _está volando_, etc.
+
+## Ejemplos de oraciones
+
+<audio controls>
+ <source src="/darsu/02/darsu_2_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+**Mahi suyon.**   
+El pez/los peces nada(n), _o_ El pez/los peces está(n) nadando.
+
+**Mi doxo.**  
+Yo leo, _o_ Estoy leyendo.
+
+## Práctica de lectura y comprensión auditiva
+
+<audio controls>
+ <source src="/darsu/02/darsu_02_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Salom, doste! Mi ergo. Myaw somno. Bete doxo. Piu fley. Bwaw yuxi. Mahi suyon. Mama lala. Patre danse. Uma pawbu. Sodar anda. Xanti, nini.
+
+## Actividad de la lección
+
+_Cree sus propias oraciones utilizando los ejemplos de esta lección y los de Lección 1 como patrones de oraciones y la práctica de lectura como modelos._
+
+<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>

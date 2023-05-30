@@ -1,0 +1,100 @@
+---
+title: 'Lección 18'
+visible: true
+media_order: 'darsu_18_lexilista.mp3,darsu_18_misalli_jumle.mp3,darsu_18_doxoli_abyasa.mp3'
+---
+
+## Lista de vocabulario
+
+<audio controls>
+  <source src="/darsu/18/darsu_18_lexilista.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+* **ban** - algún, cierto/-a
+* **bante** - alguien
+* **banto** - algo
+* **bankwanti** - algo de, alguna cantidad de
+* **bannumer** - varios/-as, algunos/-as
+* **fe** - en (_con frases de tiempo_)
+* **mara** - vez, ocasión
+* (**fe**) **ban mara** - una vez (_en cierta ocasión_), había una vez
+* (**fe**) **duli mara** - a veces, en ocasiones
+* **mesaje** - mensaje
+* **neto** - red
+* **posta** - correo
+     * **netoposta** - correo electrónico
+* **adresu** - dirección
+     * **netoadresu** - dirección de correo electrónico
+* **eskri** - escritura; escribir
+* **gibe** - dar
+* **tas** - a, para (_marcador de destinatario_)
+* **irsal** - enviar
+* **maydo** - venta; vender
+* **jixi** - saber 
+* **kone** - conocer
+* **fikir** - pensamiento; pensar
+* **ki** - que (_conjunción_)
+* **kal** - vacío/-a
+
+## Notas
+### Marcador de destinatario _tas_
+
+El _destinatario_ (comúnmente conocido como _objeto indirecto_) se marca con la preposición **tas** (_a, para_). Siempre es obligatorio, lo que significa que nunca debe omitirse. El destinatario puede ir justo después del objeto directo o entre el verbo y el objeto directo.
+
+**Am gibe tas mi kamisa.**  
+Dame la camisa.
+
+**Am gibe kursi tas mi.**  
+Dame la silla.
+
+### _ki_
+
+La palabra **ki** es una conjunción que significa _que_. Siempre introduce una cláusula (una oración dentro de una oración).
+
+**Mi fikir ki yusu netoposta sen daymo lungo.**  
+Creo que tu correo electrónico es muy largo.
+
+En la oración anterior, _tu correo electrónico es muy largo_ es una cláusula, o una oración completa dentro de la oración más grande.
+
+### Palabras compuestas con _kal_
+
+La palabra **kal** (_vacío_) es lo contrario de **pul**. Al igual que **pul**, puede usarse como sufijo, con el significado _sin suficiente_ o _carente de_.
+
+_Rellen los espacios en blanco a continuación:_
+
+hambriento, con hambre (carente de comida): <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+sediento, con sed (carente de agua): <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+pobre (carente de dinero): <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+
+### Locuciones que denotan tiempo
+
+La palabra **fe** también se usa con expresiones de tiempo, pero suele ser opcional en dichos casos, como en (**fe**) **ban mara** o (**fe**) **duli mara**. En la locución **duli mara**, la palabra **duli** es una palabra derivada que usa el prefijo **du-**. En la Lección 19, aprenderá otra forma de utilizar **duli**.
+
+## Oraciones de ejemplo
+
+<audio controls>
+  <source src="/darsu/18/darsu_18_misalli_jumle.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+**Nini le gibe sesu roti tas yamkal manixu.**  
+El niño le dio su pan al hombre hambriento.
+
+**Mi fikir ki misu myaw sen suikal.**  
+Creo que mi gato tiene sed.
+
+## Práctica de lectura y comprensión auditiva
+
+<audio controls>
+  <source src="/darsu/18/darsu_18_doxoli_abyasa.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Mi ogar in Usa ji misu bete ogar in Espani. Mi irsal mesaje tas te duli mara. Te eskri tas mi lungo netoposta. Te loga ki Espani sen daymo meli. Te loga, "Kam yu vole na turi hinloka?" Mi fikir ki mi xa dao cel Espani cel na visita misu bete.
+
+## Actividad de la lección
+ 
+_Cree sus propias oraciones utilizando los ejemplos anteriores y los ejemplos de las lecciones anteriores como patrones de oraciones. Cuente una historia._
+
+<textarea width="100%" Spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>

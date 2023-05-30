@@ -1,0 +1,95 @@
+---
+title: 'Lesson 15'
+visible: true
+media_order: 'darsu_15_lexilista.mp3,darsu_15_misalli_jumle.mp3,darsu_15_doxoli_abyasa.mp3'
+---
+
+## Word List
+
+<audio controls>
+ <source src="/darsu/15/darsu_15_lexilista.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+* **am** - _imperative particle_
+* **okur** - happen, occur
+* **plasi** - put, place
+* **side** - sit, be sitting 
+* **porta** - carry, take
+* **tem** - about (_regarding_)
+* **fronta** - forehead
+ * **fe fronta de** - in front of 
+* **ruke** - back
+ * **fe ruke de** - behind (_in back of_)
+* **kapi** - head
+ * **fe kapi de** - on top of 
+* **peda** - foot
+ * **fe peda de** - at the bottom of 
+* **comen** - side
+ * **fe comen de** - beside, next to
+* **sofa** - sofa
+* **dixan** - floor
+
+[Quizlet Flash Cards](https://quizlet.com/562331011/globasa-101-lesson-15-flash-cards/) 
+
+## Notes
+### Phrasal Prepositions
+
+The word **fe** is used with a variety of phrasal prepositions such as the following. 
+
+* **fe fronta de** - in front of  
+* **fe comen de** - at the side of, beside, next to
+* **fe peda de** - at the bottom of  
+
+Other prepositions, such as **cel** and **of** may likewise be used at the beginning of phrasal prepositions.
+
+* **of kapi de** - from the top of  
+* **cel ruke de** - to the back of
+
+### Commands
+
+The verb particle **am** is used to express commands. It is placed at the beginning of a verb phrase, just as other verb particles are (**le**, **xa**, **na**). 
+
+The pronouns **yu** and **uyu** are typically omitted for second-person commands. 
+
+**Am no velosi pala. Am hanman pala.**   
+Don't speak fast. Speak slow. 
+
+**(Uyu) am lala ton mi.**  
+(You all), sing with me.
+
+With the first-person plural (**imi**) commands, **imi** must always be used.
+
+**Imi am oko filme.**  
+Let's watch a movie.
+
+## Example Sentences
+
+<audio controls>
+ <source src="/darsu/15/darsu_15_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+**Am plasi kursi fe ruke de sofa.**  
+Put the chair behind the sofa.
+
+**Am cudu kitabu of (kapi de) mesa.**  
+Take the book off/from (the top of) the table.
+
+**Imi pala tem Turki.**  
+We are talking about Turkey.
+
+## Reading and Listening Practice
+
+<audio controls>
+ <source src="/darsu/15/darsu_15_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Am plasi fenjan fe cay per mesa. Am no cudu glasu fe bira of mesa. Am plasi meli kamisa per bistar. Am no plasi day kursi in banyokamer. Am porta neo bistar cel ruke de somnokamer. Am cudu lama sofa of hotel. Am no plasi kitabu per dixan. 
+ 
+ ## Lesson Activity
+ 
+_Create your own sentences using the examples above, and examples from previous lessons, as sentence patterns. Tell a story._
+
+<textarea width="100%" spellcheck="false" placeholder="Type your own sentences here."></textarea>

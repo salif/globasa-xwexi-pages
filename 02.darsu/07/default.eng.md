@@ -1,0 +1,145 @@
+---
+title: 'Lesson 7'
+visible: true
+media_order: 'darsu_7_lexilista.mp3,darsu_7_misalli_jumle.mp3,darsu_07_doxoli_abyasa.mp3'
+---
+
+## Word List
+
+<audio controls>
+ <source src="/darsu/07/darsu_7_lexilista.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+* **imi** - we
+* **uyu** - you (_plural_)
+* **ete** - they (_animate_)
+* **oto** - they (_inanimate_)
+* **ke** - which, what
+	* **kete** - who, which one
+	* **keto** - what, which one
+* **loga** - say, tell
+* **cudu** - get, take, obtain, acquire
+* **idi** - go
+* **ata** - come
+* **cel** - to (_movement, destination, goal_)
+ * **cel na** - in order to
+ * **cel in** - into
+ * **cel ex** - out from, out of
+* **yen** - being (_human or animal_); gal, guy (_informally_)
+* **alim** - teach
+	* **alimyen** - teacher
+* **medis** - medicine (_practice_), medicate
+	* **medisyen** - physician
+	* **medisdom** - clinic
+* **polisi** - police
+	* **polisiyen** - police officer
+
+[Quizlet Flash Cards](https://quizlet.com/652346773/globasa-101-lesson-7-flash-cards/)
+
+## Notes
+
+### _ke_ vs _kete/keto_
+
+The word **ke**, like **hin** and **den**, must always be followed by either a noun or pronoun.
+
+* **ke medisyen?**    
+which physician?     
+**kete?**  
+who? _or_ which one?  
+
+* **ke kitabu?**    
+what book? _or_ which book?   
+**keto?**  
+what? _or_ which one?  
+
+### _hinete/hinoto, denete/denoto, keete/keoto_
+
+The words **ete** and **oto**, the plural counterparts of **te** and **to**, may also be attached to **hin**, **den** and **ke** in order to form the words **hinete**/**hinoto** (these; these ones), **denete**/**denoto** (those; those ones), **keete** (who; which people; which ones), **keoto** (what; what things; which ones). However, since **te** and **to** may be used with words denoting plurality, **-te/-to** may also be used when number is unknown, such as when asking _who_ and _what_. For this reason, **keete** and **keoto** are rarely used. 
+
+### Questions with _ke_
+
+Questions with **ke** have the same word order as their counterpart declarative sentences.
+
+**Medisyen yam keto?**  
+“The doctor eats what?”  
+What does the doctor eat?
+
+**Yu xa doxo ke kitabu?**       
+"You will read which/what book?"  
+What/which book will you read?  
+
+### _cel_
+
+The word **cel** is used only for denoting _movement _, _destination_, _target_ or _purpose_, never as the _recipient_ (commonly known as the _indirect object_) marker. In a subsequent lesson, you will learn the word that marks the _recipient_.  
+
+The phrase **cel na** means _in order to_. Much like in English, since **na** (seen in Lesson 4) marks verb phrases, it may be used alone to introduce purpose.
+
+**Polisiyen le idi cel kitabudom (cel) na doxo kitabu.**  
+The police officer went to the library (in order) to read a book. 
+
+The word **cel** may be paired with other prepositions: **cel in** (_into_) and **cel ex** (_out from, out of_). 
+
+**Polisiyen le pawbu cel in kitabudom.**  
+The police officer ran into the library.
+
+### Compound Words with _yen_
+
+The word **yen** typically refers to people, although it may technically denote _any life form_. It is often used to create compounds with nouns, verbs and adjectives.
+
+With noun/verb words:
+
+* **alim** (teach) - **alimyen** (teacher)
+* **polisi** (police) - **polisiyen** (police officer)
+
+With adj/adv words:
+
+* **juni** (young) - **juniyen** (a young being/person, a youth)
+* **bala** (strong) - **balayen** (a strong being/person)
+
+The words _man_ and _woman_ can also be expressed as **manyen** and **femyen**. Technically, **manyen** refers to any male (whether _boy_ or _man_) and **femyen** refers to any female (whether _girl_ or _woman_). However, since we would typically use **nini** for an underage human, **manyen** and **femyen** may be used not only when we're unsure of the person's age, but when we're referring specifically to an adult or a teenager (a young man/lady). By extension, **yen** may be used by itself to mean _gal_ or _guy_. 
+
+## Example Sentences
+
+<audio controls>
+ <source src="/darsu/07/darsu_7_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+**Den femyen sen medisyen.**  
+That lady is a doctor.
+
+**Alimyen idi cel eskol.**  
+The teacher goes to the school.
+
+**Polisiyen hare keto?**  
+What does the police officer have?
+
+## Reading and Listening Practice
+
+<audio controls>
+ <source src="/darsu/07/darsu_07_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Multi ixu idi cel day eskol. Multi te ata cel na xwexi na bon koki. Eskol hare juni alimyen.
+
+Xwexiyen loga, "Imi xa koki keto?"
+
+Alimyen loga, "Uyu xa koki neo yam."
+
+Xwexiyen loga, "Ke yam? Yam hare keto?"
+
+Alimyen loga, "Patato, bwaw ji uma."
+
+Gao xwexiyen sen polisiyen. Te no sen hox: "Keto?! Dento no sen yam! Bwaw ji uma sen meli! Ete sen doste!"
+
+Alimyen loga, "Fe lutuf, multi te suki na yam xosu bwaw ji uma. Kam yu aham?" 
+
+Polisiyen loga, "No! Ete no sen yam! Yu xa idi cel polisidom."
+
+## Lesson Activity
+
+_Create your own sentences using the examples above, and examples from previous lessons, as sentence patterns. Tell a story._
+
+<textarea width="100%" spellcheck="false" placeholder="Type your own sentences here."></textarea>

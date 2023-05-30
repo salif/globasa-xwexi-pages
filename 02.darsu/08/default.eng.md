@@ -1,0 +1,114 @@
+---
+title: 'Lesson 8'
+visible: true
+media_order: 'darsu_8_lexilista.mp3,darsu_8_misalli_jumle.mp3,darsu_08_doxoli_abyasa 01.mp3,darsu_08_doxoli_abyasa 02.mp3'
+---
+
+## Word List
+
+<audio controls>
+ <source src="/darsu/08/darsu_8_lexilista.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+* **de** - of (_belonging to_)
+* **loka** - location
+	* **keloka** - where 
+	* **hinloka** - here
+	* **denloka** - there
+* **per** - on (the surface of)
+* **bax** - under, below, beneath
+* **ton**  - (together) with
+* **fe** - at (_neutral position_) 
+* **fe inya** - inside
+* **fe exya** - outside 
+* **mesa** - table
+* **bistar** - bed
+* **kursi** - chair
+* **drevo**  - tree
+* **jabal** - mountain
+* **bahari** - sea
+* **nahir** - river
+
+[Quizlet Flash Cards](https://quizlet.com/557300190/globasa-101-lesson-8-flash-cards/)
+
+## Notes
+### Expressing Possession
+
+Nouns express possession using the preposition **de** (_of_). Note that **de** only denotes possession, while in English the word _of_ has many uses. In subsequent lessons, you will learn other words that translate as _of_ in English. 
+
+* **kitabu de nini**  
+the kid’s book
+
+### _ton_
+
+The preposition **ton** only means _together with_. It is never used to express _with_ in the sense of _by means of_ or in the sense of _having_.
+
+### _keloka, hinloka, denloka_
+
+The words **keloka**, **hinloka** and **denloka** also link to the subject using the verb **sen**.
+
+**Myaw sen keloka?**  
+"The cat is where?"  
+Where is the cat?
+
+**Myaw sen denloka.**  
+The cat is there.
+ 
+### Prepositional Phrases without Reference to Location
+
+In order to indicate position without reference to specific location, prepositions are turned into nouns by adding the suffix **-ya** to form prepositional phrases with **fe**.
+
+**Myaw somno fe inya.**    
+The cat is sleeping inside.
+
+**Fe inya, myaw somno.**  
+Inside, the cat is sleeping.
+
+### _fe_
+
+As seen in Lesson 3, the word **fe** is a preposition with a variety of uses. Note that when denoting location, Globasa typically translates _at_ as **in** (_in, at_), not **fe**: **in eskol** (_at school_), **in banko** (_at the bank_), etc. However, in some cases, **fe** is used where _at_ has a more neutral meaning: **fe mesa** (_at the table_). For the most part, **fe** is used in prepositional phrases that specify location by means of other words, such as **fe inya** (_inside_) and **fe exya** (_outside_). You will learn other such phrases in a subsequent lesson. 
+
+## Example Sentences
+
+<audio controls>
+ <source src="/darsu/08/darsu_8_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+**Eskol sen keloka?**   
+Where is the school?
+
+**Piu sen fe exya.**  
+The bird is outside. 
+
+**Bwaw de polisiyen sen day.**  
+The police officer's dog is big.
+
+## Reading and Listening Practice
+
+<audio controls>
+ <source src="/darsu/08/darsu_08_doxoli_abyasa 01.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Manixu ergo in bahari. Te sen mahiyen. Te hare ogar ton femixu. Femixu hare juni bete. Hin ogar no sen day. Ete no suki to.
+
+Ete sen in hin ogar. Manixu ji femixu sen fe mesa. Ete glu cay. Bete bon somno per bistar. Ete oko bete.
+
+<audio controls>
+ <source src="/darsu/08/darsu_08_doxoli_abyasa 02.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Femixu loga, "Mi vole neo ogar, har day somnokamer ji meli kokikamer." Manixu loga, "Mi aham, mas ogar xa sen keloka?" Femixu loga, "Kam yu suki jabal? Dento sen bon cel neo ogar." Manixu loga, "Si, mi suki. Mas mi vole ergo." Femixu loga, "Jabal hare nahir. Mahi sen in nahir. Yu xa cudu multi mahi." Manixu loga, "Mas, kam jabal xa hare eskol?"
+
+Bete ore ixu. Te le no somno!
+
+Bete loga, "Mi no vole na idi cel eskol! Mi vole na yuxi per drevo, ex bahari ji ex eskol!"
+
+## Lesson Activity
+
+_Create your own sentences using the examples above, and examples from previous lessons, as sentence patterns. Tell a story._
+
+<textarea width="100%" spellcheck="false" placeholder="Type your own sentences here."></textarea>

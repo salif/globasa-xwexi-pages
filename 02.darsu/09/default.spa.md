@@ -1,0 +1,130 @@
+---
+title: 'Lección 9'
+visible: true
+media_order: 'darsu_9_lexilista.mp3,darsu_9_misalli_jumle.mp3,darsu_09_doxoli_abyasa.mp3'
+---
+
+## Lista de vocabulario
+
+<audio controls>
+ <source src="/darsu/09/darsu_9_lexilista.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+* **-su** - _sufijo posesivo aplicado a los pronombres_
+* **se** - _pronombre reflexivo_
+* **max** - más (_seguido de un sustantivo/verbo_)
+	* **maxmo** - más (_seguido de un adj/adv_)
+* **min** - menos (_seguido de un sustantivo/verbo_)
+	* **minmo** - menos (_seguido de un adj/adv_)
+* **kom** -  que, de (_comparativo_)
+* **bur** - malo/-a, mal
+* **lil** - pequeño/-a, chico/-a
+* **colo** - feo/-a
+* **hanman** - lento/-a, despacio
+* **lama** - viejo/-a (_opuesto de nuevo/-a_)
+* **lao** - viejo/-a (_opuesto de joven_)
+* **hazuni** - triste
+* **kotor** - sucio/-a
+* **kurto** - corto, breve (_opuesto de largo_)
+* **cote** - corto, bajo (_opuesto de alto_)
+* **gami** - cónyuge, esposo/-a
+
+## Notas
+### Comparación
+
+La comparación del número, la cantidad o el grado de los sustantivos/verbos se expresa de la siguiente manera:
+
+* **max... kom...** - más... que...  
+* **min... kom...** - menos... que...
+
+**Polisiyen hare max bete kom musikayen.**  
+El policía tiene más hijos que el músico.
+
+**Alimyen yam min roti kom medisyen.**  
+El profesor come menos pan que el médico.
+
+Si **max** o **min** modifican el verbo, pueden aparecer antes o después del verbo.
+
+**Misu gami max doxo kom mi.** _o_ **Misu gami doxo max kom mi.**  
+Mi cónyuge lee más que yo.
+
+Los adjetivos/adverbios comparativos se expresan de la siguiente manera.
+
+* **maxmo... kom...** - más... que...  
+* **minmo... kom...** - menos... que...
+
+**maxmo meli kom...**  
+más bello que...    
+
+**minmo kotor kom...**  
+menos sucio que... 
+
+### Pronombre reflexivo _se_
+
+El pronombre reflexivo **se** se utiliza de la siguiente manera:
+
+**Manixu banyo se.**  
+El hombre se baña. _o_ El hombre se está bañando.
+
+En Globasa, **se** se puede utilizar de forma reflexiva con cualquier pronombre.
+
+**Kam yu lubi se.** _o_ **Kam yu lubi yu?**  
+¿Te amas (a ti mismo)?
+
+### Adjetivos posesivos
+
+Globasa convierte los pronombres personales en adjetivos posesivos añadiendo el sufijo **-su**.
+
+* **misu** - mi 
+* **yusu** - tu  
+* **tesu** - su (_de él/ella_)
+* **tosu** - su (_de ello_)
+* **sesu** - su (_reflexivo_)
+* **imisu** - nuestro  
+* **uyusu** - vuestro, su (_de ustedes_)  
+* **etesu** - su (_de ellos/-as_)  
+* **otosu** - su (_de ellos [inanimados]_)
+
+## Ejemplos de oraciones
+
+<audio controls>
+ <source src="/darsu/09/darsu_9_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+**Bwaw min somno kom myaw.**  
+El perro duerme menos que el gato.
+
+**Hin drevo sen maxmo lao kom den drevo.**  
+Este árbol es más viejo que ese árbol.
+
+**Misu doste suyon in bahari.**  
+Mi amigo nada en el mar.
+
+## Práctica de lectura y comprensión auditiva
+
+<audio controls>
+ <source src="/darsu/09/darsu_09_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Ogar de polisiyen sen maxmo lama kom ogar de medisyen, mas ogar de medisyen sen colo, kotor ji lil.
+
+Polisiyen loga, "Kam yusu gami sen maxmo lao kom misu gami?"    
+Medisyen loga, "No, misu gami sen minmo lao. Te sen juni."  
+
+Polisiyen loga, "Kam yusu gami sen maxmo cote kom misu gami?"    
+Medisyen loga, "No, misu gami sen minmo cote. Te sen gao."  
+
+Polisiyen loga, "Kam yusu gami max doxo kom misu gami?"  
+Medisyen loga, "No, misu gami no multi doxo. Te xosu doxo. Te no suki kitabu. Te suki filme ji musika."  
+
+Polisiyen loga, "Kam yusu gami maxmo bon danse kom misu gami?"    
+Medisyen loga, "No, misu gami bur danse. Yusu gami bon danse."  
+
+## Actividad de la lección
+
+_Cree sus propias oraciones utilizando los ejemplos anteriores y los ejemplos de las lecciones anteriores como patrones de oraciones. Cuente una historia._
+
+<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>

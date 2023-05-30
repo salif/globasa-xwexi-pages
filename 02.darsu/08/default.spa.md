@@ -1,0 +1,112 @@
+---
+title: 'Lección 8'
+visible: true
+media_order: 'darsu_8_lexilista.mp3,darsu_8_misalli_jumle.mp3,darsu_08_doxoli_abyasa 02.mp3,darsu_08_doxoli_abyasa 01.mp3'
+---
+
+## Lista de vocabulario
+
+<audio controls>
+ <source src="/darsu/08/darsu_8_lexilista.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+* **de** - de (_denota pertenencia_)
+* **loka** - ubicación
+	* **keloka** - dónde 
+	* **hinloka** - aquí
+	* **denloka** - allá
+* **per** - sobre (tocando la superficie)
+* **bax** - debajo, abajo, bajo
+* **ton**  - (en conjunto) con
+* **fe** - en (_posición neutral_) 
+* **fe inya** - adentro, en el interior
+* **fe exya** - afuera, en el exterior
+* **mesa** - mesa
+* **bistar** - cama
+* **kursi** - silla
+* **drevo**  - árbol
+* **jabal** - montaña
+* **bahari** - mar
+* **nahir** - río
+
+## Notas
+### Como expresar posesión
+
+Los sustantivos expresan la posesión mediante la preposición **de** (de). Tenga en cuenta que **de** sólo denota posesión, mientras que en español la palabra _de_ tiene muchos usos. En las siguientes lecciones, aprenderás otras palabras que se traducen como _de_ en español.
+
+* **kitabu de nini**  
+el libro del niño
+
+### _ton_
+
+La preposición **ton** sólo significa _junto con_. Nunca se utiliza para expresar _por medio de_ o en el sentido de _tener_.
+
+### _keloka, hinloka, denloka_
+
+Las palabras **keloka**, **hinloka** y **denloka** también se relacionan con el sujeto mediante el verbo **sen**.
+
+**Myaw sen keloka?**   
+"¿El gato está dónde?"  
+¿Dónde está el gato?
+
+**Myaw sen denloka.**    
+El gato está allá.
+ 
+### Frases preposicionales sin referencia al lugar
+
+Para indicar la posición sin referencia a un lugar concreto, las preposiciones se convierten en sustantivos añadiendo el sufijo **-ya** para formar frases preposicionales con **fe**.
+
+**Myaw somno fe inya.**  
+El gato duerme adentro.
+
+**Fe inya, myaw somno.**  
+Adentro, el gato duerme.
+
+### _fe_
+
+Como se ha visto en la lección 3, la palabra **fe** es una preposición con una variedad de usos. Observe que, cuando se trata de indicar un lugar, Globasa suele traducir _en_ como **in** (_en_, _dentro de_), no como **fe**: **in eskol** (_en la escuela_), **in banko** (_en el banco_), etc. Sin embargo, en algunos casos, se utiliza **fe** cuando _en_ tiene un significado más neutro: **fe mesa** (_en la mesa_ / _a la mesa_). En la mayoría de los casos, **fe** se utiliza en frases preposicionales que especifican la ubicación por medio de otras palabras, como **fe inya** (_dentro_ / _en el interior_) y **fe exya** (_fuera_ / _en el exterior_). Aprenderá otras frases de este tipo en una lección posterior.
+
+## Ejemplos de oraciones
+
+<audio controls>
+ <source src="/darsu/08/darsu_8_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+**Eskol sen keloka?**   
+¿Dónde está la escuela?
+
+**Piu sen fe exya.**  
+El pájaro está afuera.
+
+**Bwaw de polisiyen sen day.**  
+El perro del policía es grande.
+
+## Práctica de lectura y comprensión auditiva
+
+<audio controls>
+ <source src="/darsu/08/darsu_08_doxoli_abyasa 01.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Manixu ergo in bahari. Te sen mahiyen. Te hare ogar ton femixu. Femixu hare juni bete. Hin ogar no sen day. Ete no suki to.
+
+Ete sen in hin ogar. Manixu ji femixu sen fe mesa. Ete glu cay. Bete bon somno per bistar. Ete oko bete.
+
+<audio controls>
+ <source src="/darsu/08/darsu_08_doxoli_abyasa 02.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Femixu loga, "Mi vole neo ogar, har day somnokamer ji meli kokikamer." Manixu loga, "Mi aham, mas ogar xa sen keloka?" Femixu loga, "Kam yu suki jabal? Dento sen bon cel neo ogar." Manixu loga, "Si, mi suki. Mas mi vole ergo." Femixu loga, "Jabal hare nahir. Mahi sen in nahir. Yu xa cudu multi mahi." Manixu loga, "Mas, kam jabal xa hare eskol?"
+
+Bete ore ixu. Te le no somno!
+
+Bete loga, "Mi no vole na idi cel eskol! Mi vole na yuxi per drevo, ex bahari ji ex eskol!"
+
+## Actividad de la lección
+
+_Cree sus propias oraciones utilizando los ejemplos anteriores y los ejemplos de las lecciones anteriores como patrones de oraciones. Cuente una historia._
+
+<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>

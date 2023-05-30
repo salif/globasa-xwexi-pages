@@ -1,0 +1,42 @@
+---
+title: 'Lesson 1'
+visible: true
+---
+
+Nouveaux mots dans cette leçon:
+
+* salom - hi, hello
+* weda - bye
+* bwaw - dog(s) 
+* myaw - cat(s)
+* piu - bird(s)
+* uma - horse(s)
+* maci - fish
+* doste - friend(s)
+* nini - boy(s)/girl(s), kid(s)
+* sodar - brother/sister
+* matre - mother(s)
+* mama - mom(s)
+* patre - father(s)
+* papa - dad(s)
+
+## Gender
+
+In Globasa, only a handful of words, such as matre and patre, indicate gender. Otherwise, words denoting people are gender-neutral. In a subsequent lesson, you will learn how to distinguish between males and females using gender adjectives as prefixes. 
+ 
+## No Plural Nouns
+
+Globasa does not distinguish between singular and plural nouns. In a subsequent lesson, you will learn how to indicate plurality when necessary. 
+
+* doste - friend or friends
+
+## Lesson Activity
+
+Here is an example sentence in Globasa:
+
+> Salom, doste!   
+> Hello, friend(s)!
+
+_Create your own sentences using the example above as a sentence pattern._
+
+<textarea width="100%"></textarea>

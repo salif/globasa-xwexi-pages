@@ -1,0 +1,144 @@
+---
+title: 'Lección 5'
+visible: true
+media_order: 'darsu_5_lexilista.mp3,darsu_5_misalli_jumle.mp3'
+---
+
+## Lista de vocabulario
+
+<audio controls>
+ <source src="/darsu/05/darsu_5_lexilista.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+* **ji** - y (conj.)
+* **sen** - ser/estar
+* **te** - él, ella (_animado: cualquier forma de vida u objeto
+personificado_)
+* **hin** - este/-a, estos/-as
+  * **hinte** - éste/-a (_animado_)
+* **den** - ese/-a, esos/-as
+  * **dente** - ése, aquél (_animado_)
+* **ixu** - adulto  
+  * **femixu** - mujer  
+  * **manixu** - hombre
+* **bon** - bueno/-a, bien
+* **day** - grande
+* **bala** - fuerte
+* **meli** - bonito/-a, bello/-a
+* **velosi** - rápido/-a, veloz
+* **neo** - nuevo/-a
+* **juni** - joven
+* **hox** - feliz
+* **safe** - limpio/-a
+* **lungo** - largo/-a
+* **gao** - alto
+
+## Notas
+
+### Adjetivos
+
+Los adjetivos preceden a los sustantivos que modifican.
+
+* **safe myaw** - gato limpio
+* **neo kitabu** - libro nuevo
+* **lungo filme** - película larga
+
+### El verbo _sen_
+
+El verbo **sen** vincula al sujeto con frases adjetivas o nominales.
+
+Con frases adjetivas:
+
+**Kitabu sen neo.**  
+El libro es nuevo.
+
+**Filme sen lungo.**   
+La película es larga.
+
+**Uma sen day ji bala.**  
+El caballo es grande y fuerte.
+
+Con frases nominales:
+
+**Te sen mahi.**  
+(Ése) es un pez.
+
+**Te sen bon patre.**  
+Él es un buen padre.
+
+### _hin/den_
+
+Los demostrativos **hin** y **den** deben ir siempre seguidos de un sustantivo o pronombre. **Nunca van solos en frases nominales.**
+
+**Den piu sen day.**  
+Ese pájaro es grande.
+
+El pronombre **te**, que se une a los demostrativos **hin** y **den**, puede sustituir a un sustantivo animado: **hinte**/**dente**.
+
+**Dente sen day.**  
+Ése es grande.
+
+Como Globasa no tiene artículos (un/una, el/la), se pueden utilizar las palabras **hin** y **den** para expresar lo definitivo cuando sea necesario.
+
+**Den piu sen day.**  
+Ese pájaro es grande. _o_ El pájaro es grande.
+ 
+### Masculino y femenino
+
+Los adjetivos **fem** (femenino) y **man** (masculino) pueden utilizarse como cuasiprefijos para distinguir el género. Normalmente no se indica el género, pero si es necesario distinguir, los siguientes son algunos ejemplos:
+
+* **femnini** - _niña_  
+**mannini** - _niño_
+
+* **fembete** - _hija_  
+**manbete** - _hijo_
+
+* **femuma** - _yegua_ (_caballo de género femenino_)  
+**manuma** - _semental_ (_caballo de género masculino_)
+
+* **femdoste** - _amiga_  
+**mandoste** - _amigo_ 
+
+### Sustantivos/verbos
+
+Globasa tiene muchos sustantivos/verbos, palabras que pueden funcionar como sustantivo o como verbo. Los verbos introducidos en las lecciones 2, 3 y 4 son en realidad sustantivos/verbos.
+
+* **yam** - _comida_ o _comer_
+* **oko** - _ojo_ o _ver_
+* **ore** - _oído/oreja_ u _oír_
+* **lala** -  _canción_ o _cantar_
+* **fley** - _vuelo_ o _volar_
+
+## Ejemplos de oraciones
+
+<audio controls>
+ <source src="/darsu/05/darsu_5_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+**Juni femixu somno.**  
+La mujer joven duerme.
+
+**Sodar ore bon musika.**  
+Los hermanos escuchan buena música.
+
+**Hin lala sen meli.**  
+Esta canción es bonita.
+
+## Práctica de lectura y comprensión auditiva
+
+<audio controls>
+ <source src="/darsu/05/darsu_05_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Mi hare neo kitabu. Hin kitabu sen bon. Mi suki na doxo kitabu. Bwaw sen day ji bala. Hin bwaw hare bete. Juni bwaw yuxi ji pawbu. Te no sen safe. Mama no sen hox. Bete glu sui. Te somno. Mama sen hox. 
+
+Yu hare lungo kitabu. Den kitabu no sen bon. Yu no suki na doxo den kitabu. Gao manixu hare uma. Uma sen velosi. Manixu hare femdoste. Doste sen juni ji meli. Manixu suki na oko filme. Femixu no suki filme. Femixu suki na lala ji danse. Manixu no suki musika. Femixu no lubi te.
+
+## Actividad de la lección
+
+_Escriba una historia utilizando los ejemplos de oraciones de esta lección y de las anteriores._
+
+<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>

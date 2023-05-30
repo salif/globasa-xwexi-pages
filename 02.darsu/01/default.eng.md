@@ -1,0 +1,73 @@
+---
+title: 'Lesson 1'
+visible: true
+media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3,darsu_01_doxoli_abyasa.mp3'
+---
+
+Review [Alphabet and Pronunciation](/gramati/abece-ji-lafuzu) before starting the following lessons.
+
+## Word List
+<audio controls>
+ <source src="/darsu/01/darsu_1_lexilista.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+* **salom** - hi, hello
+* **weda** - (good)bye
+* **xanti** - peace (_hello, bye_)
+* **bwaw** - dog(s) 
+* **myaw** - cat(s)
+* **piu** - bird(s)
+* **uma** - horse(s)
+* **mahi** - fish(es)
+* **doste** - friend(s)
+* **nini** - boy(s)/girl(s), kid(s)
+* **sodar** - brother(s)/sister(s), sibling(s)
+* **matre** - mother(s)
+* **mama** - mom(s)
+* **patre** - father(s)
+* **papa** - dad(s)
+
+[Quizlet Flash Cards](https://quizlet.com/555796313/globasa-101-lesson-1-flash-cards/)
+
+## Notes
+### Gender
+
+In Globasa, only a handful of words, such as **matre** and **patre**, indicate gender. Otherwise, words denoting people are gender-neutral. In a subsequent lesson, you will learn how to distinguish between males and females using gender adjectives as prefixes. 
+ 
+### No Plural Nouns
+
+Globasa does not distinguish between singular and plural nouns. In a subsequent lesson, you will learn how to indicate singularity or plurality when necessary. 
+
+* **doste** - _friend_ or _friends_
+
+### _xanti_
+
+The word **xanti** means _peace_, but it can also be used to say _hello_ or _bye_. 
+
+## Example Sentences
+<audio controls>
+ <source src="/darsu/01/darsu_1_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+**Salom, doste!**  
+Hello, friend(s)!
+
+**Weda, uma!**  
+Bye, horse(s)!
+
+## Reading and Listening Practice
+
+<audio controls>
+ <source src="/darsu/01/darsu_01_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Salom, bwaw! Weda, papa! Xanti, uma! Weda, sodar! Xanti, doste! Salom, nini! Weda, matre! Salom, mahi! Xanti, piu! Weda, myaw!
+
+## Lesson Activity
+
+_Create your own sentences using the examples above as sentence patterns and the reading practice as a model._
+
+<textarea width="100%" spellcheck="false" placeholder="Type your own sentences here."></textarea>

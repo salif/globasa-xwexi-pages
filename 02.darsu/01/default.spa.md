@@ -1,0 +1,72 @@
+---
+title: 'Lección 1'
+visible: true
+media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3'
+---
+
+Repase [Alfabeto y pronunciación](/gramati/abece-ji-lafuzu) antes de empezar las siguientes lecciones.
+
+## Lista de vocabulario
+<audio controls>
+ <source src="/darsu/01/darsu_1_lexilista.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+* **salom** - hola, saludos
+* **weda** - adiós
+* **xanti** - paz (_hola o adiós_)
+* **bwaw** - perro(s) 
+* **myaw** - gato(s)
+* **piu** - ave(s), párajo(s)
+* **uma** - caballo(s)
+* **mahi** - pez, peces
+* **doste** - amigo(s)/amiga(s)
+* **nini** - niño(s)/niña(s)
+* **sodar** - hermano(s)/hermana(s)
+* **matre** - madre(s)
+* **mama** - mamá(s)
+* **patre** - padre(s)
+* **papa** - papá(s)
+
+## Notas
+### Género
+
+En Globasa, sólo un puñado de palabras, como **matre** y **patre**, indican el género. De lo contrario, las palabras que denotan a las personas son de género neutro. En una lección posterior, aprenderá a distinguir entre hombres y mujeres utilizando adjetivos de género como prefijos.
+ 
+### Sin sustantivo plural
+
+Globasa no distingue entre sustantivos singulares y plurales. En una lección posterior, aprenderá a indicar la singularidad o la pluralidad cuando sea necesario.
+
+* **doste** - _amigo(s), amiga(s)_
+
+### _xanti_
+
+La palabra **xanti** significa _paz_, pero también puede usarse para decir _hola_ o _adiós_.
+
+## Ejemplos de oraciones
+
+<audio controls>
+ <source src="/darsu/01/darsu_1_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+**Salom, doste!**  
+¡Hola, amigo(s)/amiga(s)!
+
+**Weda, uma!**  
+¡Adiós, caballo(s)!
+
+## Práctica de lectura y comprensión auditiva
+
+<audio controls>
+ <source src="/darsu/01/darsu_01_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Salom, bwaw! Weda, papa! Xanti, uma! Weda, sodar! Xanti, doste! Salom, nini! Weda, matre! Salom, mahi! Xanti, piu! Weda, myaw!
+
+## Actividad de la lección
+
+_Cree sus propias oraciones utilizando los ejemplos anteriores como patrones de oraciones y la práctica de lectura como modelos._
+
+<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>

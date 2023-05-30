@@ -1,0 +1,124 @@
+---
+title: 'Lección 19'
+visible: true
+media_order: 'darsu_19_lexilista.mp3,darsu_19_misalli_jumle.mp3,darsu_19_doxoli_abyasa.mp3'
+---
+
+## Lista de vocabulario
+
+<audio controls>
+  <source src="/darsu/19/darsu_19_lexilista.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+* **watu** - tiempo
+* **kewatu** - cuándo
+* **moywatu** - siempre
+* **nilwatu** - nunca
+* **haji** - todavía
+* **no haji** - ya no
+* **uje** - ya
+* **no uje** - todavía no
+* **dur** - durante
+* **durki** - mientras que (_+ cláusula_)
+* **dur na** - mientras (_+ locución verbal_)
+* **pimpan** - a menudo, frecuente(mente)
+* **nadir** - rara vez, raro/-a
+* **din** - día
+* **nundin** - hoy
+* **jaledin** - ayer
+* **jaxadin** - mañana
+* **sabedin** - semana
+* **lefe** - antes, hace
+* **xafe** - después, en (_después de algún tiempo_)
+* **soba** - (la) mañana
+* **axam** - (la) tarde
+* **noce** - (la) noche
+* **total** - entero, todo/-a el/la
+* **nyan** - año
+
+## Notas
+### _nun_
+
+La partícula verbal **nun** se usa para expresar el momento presente. Por lo general, se omite a menos que se desee enfatizar que la actividad se está llevando a cabo actualmente.
+
+### Pasado, presente y futuro
+
+Las partículas de tiempo verbal (**nun, le, xa**) se pueden convertir en sustantivos abstractos agregando **-ya**, las cuales se pueden usar en locuciones preposicionales con **fe**. Tenga en cuenta que **fe** es obligatorio en estas frases.
+
+* **fe nunya** - en el presente, ahora
+* **fe leya** - en el pasado, anteriormente
+* **fe xaya** - en el futuro, más tarde
+
+### Ahora y entonces
+
+Aunque **fe nunya** es la forma más común de expresar _ahora_, también se usa **hinwatu**. La expresión **hinwatu**, sin embargo, contrasta con **denwatu** (_entonces, en aquel momento_).
+
+### Palabras compuestas con _nun_, _le_ y _xa_
+
+Las partículas verbales **nun**, **le** y **xa** se usan como cuasiprefijos en un número específico y limitado de palabras, principalmente aquellas que aparecen en la lista de palabras de esta lección.
+
+### El prefijo _ja-_
+
+El prefijo **ja-** significa _inmediatamente adyacente_. Como se puede ver en esta lección, **ja-** se usa en las palabras **jaledin** (_ayer_) y **jaxadin** (_mañana_).
+
+### _lefe_ y _xafe_
+
+Las preposiciones **lefe** (_antes_) y **xafe** (_después_) se componen de los prefijos de tiempo verbal **le** y **xa** más la preposición multipropósito **fe**. También se pueden usar para expresar _hace_ y _en_ (_después de algún tiempo_).
+
+**Misu gami le irsal tas yu netoposta lefe tiga din.**   
+Mi esposa le envió un correo electrónico hace tres días.
+
+**Yu abil na xwexi Globasa xafe un nyan.**  
+Puedes aprender Globasa en un año.
+
+### Días de la semana
+
+Los días de la semana se expresan como palabras derivadas utilizando el método astronómico internacional agregando **din** (_día_) como cuasisufijo.
+
+Lunes - **Lunadin** (**Luna** - Luna de la Tierra)  
+Martes - **Marihidin** (**Marihi** - Marte)  
+Miércoles - **Bududin** (**Budu** - Mercurio)  
+Jueves - **Muxtaridin** (**Muxtari** - Júpiter)  
+Viernes - **Zuhuradin** (**Zuhura** - Venus)  
+Sábado - **Xanidin** (**Xani** - Saturno)  
+Domingo - **Soladin** (**Sola** - Sol de la Tierra)  
+
+Para expresar locuciones como _los lunes_, se usa la palabra **duli**, vista en la Lección 18: (**fe**) **duli Lunadin**, (**fe**) **duli Marihidin**, etc.
+
+### Palabras compuestos sustantivo-sustantivo
+
+Como se ha visto anteriormente con palabras como **dom**, **kamer**, **dukan** y **din**, las palabras compuestas _sustantivo-sustantivo_ se pueden formar libremente en Globasa usando cualquier sustantivo.
+
+_Rellene los espacios en blanco a continuación:_
+
+desayuno (_comida de la mañana_): <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+cena (_comida de la tarde/noche_): <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+
+## Oraciones de ejemplo
+
+<audio controls>
+  <source src="/darsu/19/darsu_19_misalli_jumle.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+**Yu le turi en Barati kewatu?**  
+¿Cuándo viajaste a la India?
+
+**Mi xa koki axamyam durki yu idi cel dukan.**  
+Prepararé la cena mientras tú vas a la tienda.
+
+## Práctica de lectura y comprensión auditiva
+
+<audio controls>
+  <source src="/darsu/19/darsu_19_doxoli_abyasa.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Mi nadir koki, mas mi xa koki axamyam jaxadin. Nundin, mi musi na idi cel bazar. Imi haja risi, mahi ji vino. Misu gami loga ki misu yam sen daymo bon, mas mi fikir ki te koki maxmo bon kom mi. Durki mi koki, misu gami xa oko filme.
+
+## Actividad de la lección
+
+_Cree sus propias oraciones utilizando los ejemplos anteriores y los ejemplos de las lecciones anteriores como patrones de oraciones. Cuente una historia._
+
+<textarea width="100%" Spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>

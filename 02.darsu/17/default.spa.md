@@ -1,0 +1,108 @@
+---
+title: 'Lección 17'
+visible: true
+media_order: 'darsu_17_lexilista.mp3,darsu_17_misalli_jumle.mp3,darsu_17_doxoli_abyasa.mp3'
+---
+
+## Lista de vocabulario
+
+<audio controls>
+  <source src="/darsu/17/darsu_17_lexilista.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+* **hay** - haber (hay)
+* **barix** - lluvia; llover
+* **taluji** - nieve; nevar
+* **intre** - entre
+* **fol** - a lo largo de, según
+* **wey** - alrededor
+* **supra** - arriba de
+* **infra** - abajo de
+* **tras** - al otro lado
+* **ner** - cerca
+  * **ner fe** - cerca de
+* **teli** - lejos, remoto
+  * **teli fe** - lejos de
+* **daymo** - muy
+* **lilmo** - un poco (_adverbio de grado_)
+
+## Notas
+### _hay_
+
+La palabra **hay** expresa _haber_, y puede utilizarse además en referencia al ambiente como se puede apreciar en los siguientes ejemplos.
+ 
+**To barix.** o **Hay barix.**  
+Está lloviendo. (Hay lluvia.)
+
+**To taluji.** o **Hay taluji.**  
+Está nevando. (Hay nieve.)
+
+**To sen termopul.** o **Hay termo.**  
+Hace calor. (Hay calor.)
+
+**To sen bardipul.** o **Hay bardi.**  
+Hace frío. (Hay frío.)
+
+### Palabras compuestas con adjetivos como cuasiprefijos
+
+Muchos adjetivos pueden usarse como cuasiprefijos para formar palabras compuestas. Las palabras con cuasiprefijos adjetivos adquieren un significado más específico que el que tendría un sustantivo modificado con dicho adjetivo.
+
+Por ejemplo, el adjetivo **day** (_grande_) se puede utilizar como un cuasiprefijo aumentativo para derivar palabras que denotan un aumento de tamaño, edad, grado, cantidad o volumen en comparación con la raíz.
+
+_Rellene los espacios en blanco a continuación:_
+ 
+genial, excelente: <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+gigante: <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+diminuto: <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+gritar: <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+abuela: <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+
+Asimismo, la palabra **lil** (_pequeño_) se puede utilizar para derivar palabras que denotan una reducción en tamaño, grado, cantidad o volumen en comparación con la raíz.
+
+_Rellene los espacios en blanco a continuación:_
+
+susurro: <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+siesta: <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+=llovizna: <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+nieto/-a: <textarea width="100%" Spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+
+### Adverbios de grado
+
+La palabra **daymo** es un adverbio de grado que significa _muy_.
+
+* **daymo hazuni** - muy triste
+
+La palabra **lilmo**, lo contrario de **daymo**, es un adverbio de grado que significa _un poco_ y se utiliza para modificar adjetivos u otros adverbios.
+ 
+* **lilmo hazuni** - un poco triste
+
+En lecciones anteriores hemos visto otras palabras que agregan **-mo**. Como podemos ver, los adjetivo/adverbios (**max**, **min**, **kufi**, **day**, **lil**) que modifican otros adjetivo/adverbios deben agregar **-mo**: **maxmo**, **minmo**, **kufimo**, **daymo**, **lilmo**.
+
+## Oraciones de ejemplo
+
+<audio controls>
+  <source src="/darsu/17/darsu_17_misalli_jumle.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+**Hay termo fe exya.**  
+Hace calor afuera.
+
+**Hay multi drevo fol nahir.**  
+Hay muchos árboles a lo largo del río.
+
+## Práctica de lectura y comprensión auditiva
+
+<audio controls>
+  <source src="/darsu/17/darsu_17_doxoli_abyasa.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Misu xaher sen daymo kijawi. Hay multi drevo per jabal. Hay multi barix mas xosu taluji. Ner fe gao jabal hay nahir. Multi insan suyon in den bardipul nahir. Mi no abil na bon suyon. Mi suki na pawbu per jabal eger no hay barix.
+
+## Actividad de la lección
+
+_Cree sus propias oraciones usando los ejemplos anteriores y ejemplos de lecciones anteriores como patrones de oraciones. Cuente una historia._
+
+<textarea width="100%" Spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>

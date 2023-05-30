@@ -1,0 +1,71 @@
+---
+title: 'Lección 3'
+visible: true
+media_order: 'darsu_3_lexilista.mp3,darsu_3_misalli_jumle.mp3'
+---
+
+## Lista de vocabulario
+
+<audio controls>
+ <source src="/darsu/03/darsu_3_lexilista.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+* **yu** - tú, vos, usted
+* **fe lutuf** - por favor
+* **xukra** - gracias, agradecer
+* **yam** - comer
+* **roti** - pan
+* **risi** - arroz
+* **supa** - sopa
+* **salada** - ensalada
+* **jubin** - queso
+* **pingo** - manzana
+* **banana** - plátano
+* **patato** - patata, papa
+* **kitabu** - libro
+* **hare** - tener
+
+## Notas
+### _fe lutuf_
+
+La palabra **lutuf** significa amabilidad y la palabra **fe** es una preposición con un significado general e indefinido. La expresión **fe lutuf** significa aproximadamente _por amabilidad_.
+
+### Orden de las palabras SVO
+
+El orden típico de las palabras en Globasa es _sujeto-verbo-objeto_, igual que en español.
+
+**Bwaw yam jubin.**  
+El perro come queso.
+ 
+En la oración anterior, **bwaw** es el _sujeto_ (_entidad que está comiendo_), **yam** es el _verbo_ (_la acción que realiza el sujeto_) y **jubin** es el _objeto_ (_entidad u objeto que se come_).
+
+## Ejemplos de oraciones
+
+<audio controls>
+ <source src="/darsu/03/darsu_3_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+**Roti, fe lutuf. Xukra.**  
+Pan, por favor. Gracias.
+
+**Mi yam patato.**  
+Yo como patata/papa.
+
+## Práctica de lectura y comprensión auditiva
+
+<audio controls>
+ <source src="/darsu/03/darsu_03_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Xanti, sodar! Supa, fe lutuf. Xukra. Weda, sodar!
+
+Salom, doste! Mi hare myaw. Yu hare bwaw. Nini hare piu. Papa hare mahi. Myaw yam jubin. Mahi yam salada. Mi yam risi. Piu yam pingo. Yu yam banana. Nini yam roti. Papa yam patato. Bwaw yam kitabu. Xanti, doste!
+
+## Actividad de la lección
+
+_Cree sus propias oraciones utilizando los ejemplos de esta lección y de las anteriores como patrones de oraciones._
+
+<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>

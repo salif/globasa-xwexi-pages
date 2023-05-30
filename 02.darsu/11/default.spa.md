@@ -1,0 +1,152 @@
+---
+title: 'Lección 11'
+visible: true
+media_order: 'darsu_11_lexilista.mp3,darsu_11_misalli_jumle.mp3'
+---
+
+## Lista de vocabulario
+
+<audio controls>
+ <source src="/darsu/11/darsu_11_lexilista.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+* **or** - o (conj.)
+* **ogar (in)** - hogar, vivienda, lugar de residencia; habitar, morar, residir (en),
+vivir (en)
+* **yon** - con (usando), mediante, por
+* **pala (yon/in)** - conversar, hablar (en)
+* **dexa** - país
+* **Engli** - Inglaterra
+* **Espani** - España
+* **Nipon** - Japon
+* **Franse** - Francia
+* **Turki** - Turquía
+* **Usa** - Estados Unidos de América
+* **Mexiko** - México
+* **Barati** - India
+* **Cungwo** - China
+* **Rusi** - Rusia
+* **Masri** - Egipto
+* **Brazil** - Brasil
+* **dolo** - calle, camino
+* **basa** - idioma/lengua
+* **-sa** - (_sufijo_) idioma
+* **-li** - (_sufijo_) de, relativo a
+
+## Notas
+### Sufijo _-sa_
+
+Muchas lenguas derivan de palabras que denotan países añadiendo el sufijo -**sa** (de **basa** - idioma).
+
+_Rellene los espacios en blanco a continuación:_
+
+inglés: **Englisa**  
+
+español: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+japonés: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+francés: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+turco: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+ruso: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+
+Los nombres de las lenguas también pueden utilizarse como verbos:
+
+**Mi Englisa ji Globasa.**  
+Me comunico (hablo y entiendo y/o leo y escribo) en español y en Globasa.
+
+### _pala (in/yon)_
+
+La palabra **pala** (_hablar_) puede usarse de forma transitiva, sin preposición, o intransitiva (con **in** o **yon**) como podemos ver en el ejemplo a continuación:
+
+**Mi pala (in/yon) Englisa ji Globasa.**    
+Hablo (en) español y (en) Globasa.
+
+### Diferencia entre _ogar_,  _ogar in_ y _ogar fe_
+
+La palabra **ogar** (_casa_) puede utilizarse como verbo con el significado _habitar_, _morar_, _residir_ o _vivir_ (en).
+
+Se utiliza de forma transitiva, sin preposición, cuando el objeto del verbo se refiere a la vivienda o al hogar.
+
+**Mi ogar lil ogar.**  
+Vivo en una casa pequeña.
+ 
+La preposición **fe** se utiliza para referirse a la dirección de la vivienda.
+
+**Mi ogar fe Dolo Day Drevo.**  
+Vivo en la calle Árbol Grande.
+
+La preposición **in** se utiliza para referirse a la ubicación de la vivienda (ciudad, país, etc.), así como para referirse a la vivienda o a la dirección de la misma.
+
+**Mi ogar in lil ogar, in Dolo Day Drevo, in Nipon.**  
+Vivo en una pequeña casa, en la calle Árbol Grande, en Japón.
+
+### Sufijo _-li_
+
+Uno de los sufijos utilizados en Globasa para derivar adjetivos de sustantivos es -**li**. A grandes rasgos, significa _de_, o _relativo a_.
+
+_Rellene los espacios en blanco a continuación:_
+ 
+té inglés: **Englili cay**  
+
+arroz español: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+árbol japonés: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+pan francés: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+café turco: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>  
+película estadounidense: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea> 
+música mexicana: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+
+### Nacionalidades con _yen_
+
+Como se ha visto anteriormente, la palabra **yen** se utiliza para designar a personas.
+
+_Rellene los espacios en blanco a continuación:_
+
+un inglés: **Engliyen**  
+
+un español: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+un japonés: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+un francés: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+un turco: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>  
+un estadounidense: <textarea width="100%" spellcheck="false" placeholder="Escriba su respuesta aquí."></textarea>
+
+### Preguntas con dos puntos
+
+Las preguntas con dos puntos en Globasa son las siguientes.
+
+**Yu suki keto: kafe or cay?**  
+"¿Te gusta qué: café o té?"  
+¿Te gusta el café o el té?
+
+## Ejemplos de oraciones
+
+<audio controls>
+ <source src="/darsu/11/darsu_11_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+**Yu ogar keloka?**   
+¿Dónde vives?
+
+**Yu pala (in/yon) ke basa?**  
+¿Qué idioma(s) hablas?
+
+**Yu pala keto: Fransesa or Turkisa?**  
+¿Hablas francés o turco?
+
+**Mi pala Espanisa ji Globasa.**  
+Yo hablo español y globasa.
+
+## Práctica de lectura y comprensión auditiva
+
+<audio controls>
+ <source src="/darsu/11/darsu_11_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Misu doste ogar in Rusi. Te pala Rusisa ji Fransesa. Tesu gami no pala Fransesa mas te vole na xwexi to. Ete vole na idi cel Franse ton sesu dua bete. Bete no vole na xwexi Fransesa. Ete vole na idi cel Nipon. 
+ 
+## Actividad de la lección
+
+_Cree sus propias oraciones utilizando los ejemplos anteriores y los ejemplos de las lecciones anteriores como patrones de oraciones. Cuente una historia._
+
+<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>

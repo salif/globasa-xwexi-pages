@@ -1,0 +1,93 @@
+---
+title: 'Lección 15'
+visible: true
+media_order: 'darsu_15_lexilista.mp3,darsu_15_misalli_jumle.mp3'
+---
+
+## Lista de vocabulario
+
+<audio controls>
+  <source src="/darsu/15/darsu_15_lexilista.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+* **am** - _partícula imperativa_
+* **okur** - suceder, ocurrir
+* **plasi** - poner, colocar
+* **side** - sentarse, estar sentado
+* **porta** - llevar
+* **tem** - sobre, acerca de, con respecto a
+* **fronta** - frente
+  * **fe fronta de** - frente a, en frente de
+* **ruke** - espalda
+  * **fe ruke de** - detrás de, atrás de
+* **kapi** - cabeza
+  * **fe kapi de** - encima de
+* **peda** - pie
+  * **fe peda de** - al pie de
+* **comen** - lado
+  * **fe comen de** - al lado de, junto a
+* **sofa** - sofá
+* **dixan** - piso
+
+## Notas
+### Preposiciones frasales
+
+La palabra **fe** se utiliza con una variedad de preposiciones frasales como las siguientes.
+
+* **fe fronta de** - en frente de, frente a  
+* **fe comen de** - al lado de, junto a  
+* **fe peda de** - al pie de
+
+Otras preposiciones, como **cel** y **of**, también se pueden utilizar al comienzo de las preposiciones frasales.
+
+* **of kapi de** - desde la cima de  
+* **cel ruke de** - hacia la parte trasera de
+
+### Mandatos
+
+La partícula verbal **am** se utiliza para expresar mandatos. Se coloca al comienzo de una frase verbal, al igual que otras partículas verbales (**le**, **xa**, **na**).
+
+Los pronombres **yu** y **uyu** generalmente se omiten para los mandatos en segunda persona.
+
+**Am no velosi pala. Am hanman pala.**  
+No hables rápido. Habla despacio.
+
+**(Uyu) am lala ton mi.**  
+(Todos vosotros/ustedes), cantéis/canten conmigo.
+
+Con los mandatos en primera persona del plural (**imi**), siempre debe utilizarse **imi**.
+
+**Imi am oko filme.**  
+Veamos una película.
+
+## Ejemplos de oraciones
+
+<audio controls>
+  <source src="/darsu/15/darsu_15_misalli_jumle.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+**Am plasi kursi fe ruke de sofa.**  
+Pon la silla detrás del sofá.
+
+**Am cudu kitabu of (kapi de) mesa.**  
+Toma el libro de (la parte superior de) la mesa.
+
+**Imi pala tem Turki.**  
+Estamos hablando sobre Turquía.
+
+## Práctica de lectura y comprensión auditiva
+
+<audio controls>
+  <source src="/darsu/15/darsu_15_doxoli_abyasa.mp3" type="audio/mp3" />
+  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+</audio>
+
+Am plasi fenjan fe cay per mesa. Am no cudu glasu fe bira of mesa. Am plasi meli kamisa per bistar. Am no plasi day kursi in banyokamer. Am porta neo bistar cel ruke de somnokamer. Am cudu lama sofa of hotel. Am no plasi kitabu per dixan.
+ 
+  ## Actividad de la lección
+ 
+_Cree sus propias oraciones usando los ejemplos anteriores y ejemplos de lecciones anteriores como patrones de oraciones. Cuente una historia._
+
+<textarea width="100%" Spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>

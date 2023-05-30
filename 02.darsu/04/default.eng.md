@@ -1,0 +1,140 @@
+---
+title: 'Lesson 4'
+visible: true
+media_order: 'darsu_4_lexilista.mp3,darsu_4_misalli_jumle.mp3,darsu_04_doxoli_abyasa 01.mp3,darsu_04_doxoli_abyasa 02.mp3,darsu_04_doxoli_abyasa 03.mp3,darsu_04_doxoli_abyasa 04.mp3,darsu_04_doxoli_abyasa 05.mp3,darsu_04_doxoli_abyasa 06.mp3'
+---
+
+## Word List
+
+<audio controls>
+ <source src="/darsu/04/darsu_4_lexilista.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+* **kam** - _yes/no question particle_
+* **si** - yes
+* **no** - no, not, do not, don't, does not, doesn't
+* **aham** - understand
+* **suki** - like
+* **lubi** - love
+* **vole** - want
+* **na** - to (_infinitive verb marker_)
+* **oko** - see, look, watch
+* **ore** - hear, listen to
+* **glu** - drink
+* **filme** - film, movie
+* **musika** - music
+* **sui** - water
+* **kafe** - coffee
+* **cay** - tea
+* **jusu** - juice
+
+[Quizlet Flash Cards](https://quizlet.com/556029159/globasa-101-lesson-4-flash-cards/)
+
+## Notes
+### Yes/No Questions
+
+Statements are turned into a yes/no questions simply by adding **kam** at the beginning of the sentence. The following example sentences show a statement followed by its counterpart yes/no question. 
+
+**Nini oko filme.**  
+The boy is watching a movie.
+
+**Kam nini oko filme?**  
+Is the boy watching a movie?
+
+### Negation 
+
+The word **no** precedes the word being negated, such as the verb.
+
+**Myaw no glu cay.**  
+Cats don't drink tea.
+
+### Infinitive Verbs
+
+The infinitive verb form is marked using the particle **na** followed by the verb. It is always used between any two verbs.  
+
+**Kam yu suki na oko filme?**  
+Do you like to watch movies?
+
+### Invariable Pronoun Form
+
+Pronouns retain the same form regardless of the function they play in a sentence. In English, I/me, she/her, and he/him are pronouns that change form. In Globasa, **mi** means both _I_ or _me_.
+
+**Mi lubi yu.**  
+I love you.
+
+**Yu lubi mi.**  
+You love me.
+
+## Example Sentences
+
+<audio controls>
+ <source src="/darsu/04/darsu_4_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+**Kam patre suki na yam salada?**  
+Does the father like to eat salad?
+
+**Si, patre suki na yam salada.**  
+Yes, the father likes to eat salad.
+
+**No, patre no suki na yam salada.**  
+No, the father doesn't like to eat salad.
+
+## Reading and Listening Practice
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 01.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Xanti, doste. Kafe, fe lutuf! Xukra, doste. Mi suki kafe!
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 02.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Salom, mama. Cay, fe lutuf! Xukra, mama! Mi suki cay!
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 03.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Papa: Salom, bete! Kam yu glu sui?  
+Bete: Xanti, papa. No, mi no suki sui. Mi suki na glu jusu.  
+Papa: Kam yu yam roti?  
+Bete: Si, mi suki na yam roti.
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 04.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Omar: Xanti, sodar! Kam yu ore musika?  
+Marta: Salom, sodar. No, mi no ore musika, mi oko filme. Kam yu doxo kitabu?  
+Omar: No, mi no doxo kitabu. Mi ore musika.
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 05.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Doste: Kam yu aham lala?  
+Doste: Si, mi aham lala: Uma fley, kam no?
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 06.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Mama: Kam yu lubi mi?  
+Papa: Si, mi lubi yu. 
+
+## Lesson Activity
+
+_Create your own dialogues using the example sentences in this and previous lessons._
+
+<textarea width="100%" spellcheck="false" placeholder="Type your own sentences here."></textarea>

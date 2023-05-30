@@ -1,0 +1,145 @@
+---
+title: 'Lesson 5'
+visible: true
+media_order: 'darsu_5_lexilista.mp3,darsu_5_misalli_jumle.mp3,darsu_05_doxoli_abyasa.mp3'
+---
+
+## Word List
+
+<audio controls>
+ <source src="/darsu/05/darsu_5_lexilista.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+* **ji** - and
+* **sen** - be (_am, is, are_)
+* **te** - he, she (_animate: any life form or personified object_)
+* **hin** - this, these
+  * **hinte** - this, this one (_animate_)
+* **den** - that, those
+  * **dente** - that, that one (_animate_)
+* **ixu** - adult
+  * **femixu** - woman
+  * **manixu** - man
+* **bon** - good
+* **day** - big, large
+* **bala** - strong
+* **meli** - beautiful, pretty
+* **velosi** - fast, quick
+* **neo** - new
+* **juni** - young
+* **hox** - happy, glad
+* **safe** - clean
+* **lungo** - long 
+* **gao** - tall, high
+
+[Quizlet Flash Cards](https://quizlet.com/556030832/globasa-101-lesson-5-flash-cards/)
+
+## Notes
+
+### Adjectives
+
+Adjectives precede the nouns they modify.
+
+* **safe myaw** - clean cat
+* **neo kitabu** - new book
+* **lungo filme** - long film
+
+### The verb _sen_
+
+The verb **sen** links the subject to adjective phrases or noun phrases.
+
+With adjective phrases: 
+
+**Kitabu sen neo.**  
+The book is new.
+
+**Filme sen lungo.**   
+The film is long.
+
+**Uma sen day ji bala.**  
+The horse is big and strong.
+
+With noun phrases:
+
+**Te sen mahi.**  
+It's a fish.
+
+**Te sen bon patre.**  
+He's a good father. 
+
+### _hin/den_
+
+The demonstratives **hin** and **den** must always be followed by a noun or pronoun. **They never stand alone in noun phrases.** 
+
+**Den piu sen day.**  
+That bird is big.
+
+The pronoun **te**, which is attached to the demonstratives **hin** and **den**, may replace an animate noun: **hinte**/**dente**.
+
+**Dente sen day.**  
+That (one) is big. 
+
+Since Globasa doesn't have articles (_a, the_), the words **hin** and **den** may be used to express definiteness when necessary. 
+
+**Den piu sen day.**  
+That bird is big. _or_ The bird is big. 
+ 
+### Male and Female
+
+The adjectives **fem** (female) and **man** (male) may be used as quasi-prefixes to distinguish gender. Normally gender is not indicated, but if you need to distinguish gender here are some examples:
+
+* **femnini** - _girl_  
+**mannini** - _boy_
+
+* **fembete** - _daughter_  
+**manbete** - _son_
+
+* **femuma** - _mare_ (_female horse_)  
+**manuma** - _stallion_ (_male horse_)
+
+* **femdoste** - _female friend_  
+**mandoste** - _male friend_ 
+
+### Noun/Verbs
+
+Globasa has many _noun/verbs_, words that can function as either noun or verb. The verbs introduced in lessons 2, 3 and 4 are actually _noun/verbs_. 
+
+* **yam** - _meal_ or _eat_
+* **oko** - _eye_ or _see_
+* **ore** - _ear_ or _hear_
+* **lala** - _song_ or _sing_
+* **fley** - _flight_ or _fly_
+
+## Example Sentences
+
+<audio controls>
+ <source src="/darsu/05/darsu_5_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+**Juni femixu somno.**  
+The young woman is sleeping.
+
+**Sodar ore bon musika.**  
+The sibling listens to good music.
+
+**Hin lala sen meli.**  
+This song is beautiful.
+
+## Reading and Listening Practice
+
+<audio controls>
+ <source src="/darsu/05/darsu_05_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Your user agent does not support the HTML5 Audio element.</p>
+</audio>
+
+Mi hare neo kitabu. Hin kitabu sen bon. Mi suki na doxo kitabu. Bwaw sen day ji bala. Hin bwaw hare bete. Juni bwaw yuxi ji pawbu. Te no sen safe. Mama no sen hox. Bete glu sui. Te somno. Mama sen hox. 
+
+Yu hare lungo kitabu. Den kitabu no sen bon. Yu no suki na doxo den kitabu. Gao manixu hare uma. Uma sen velosi. Manixu hare femdoste. Doste sen juni ji meli. Manixu suki na oko filme. Femixu no suki filme. Femixu suki na lala ji danse. Manixu no suki musika. Femixu no lubi te.
+
+## Lesson Activity
+
+_Write a story using the example sentences in this and previous lessons._
+
+<textarea width="100%" spellcheck="false" placeholder="Type your own sentences here."></textarea>
