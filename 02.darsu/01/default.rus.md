@@ -4,9 +4,9 @@ visible: true
 media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3,darsu_01_doxoli_abyasa.mp3'
 ---
 
-Перед началом следующих уроков рекомендуем просмотреть [Алфавит и произношение](/gramati/abece-ji-lafuzu).
+Перед началом следующих уроков рекомендуем ознакомиться с [Алфавит и произношение](/gramati/abece-ji-lafuzu).
 
-## Word List
+## Список слов
 <audio controls>
  <source src="/darsu/01/darsu_1_lexilista.mp3" type="audio/mp3" />
  <p>Ваше устройство не поддерживает HTML5 аудио.</p>
@@ -33,9 +33,9 @@ media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3,darsu_01_doxoli_ab
 ## Примечания
 ### Пол
 
-В глобасе лишь несколько слов, таких как **matre** и **patre**, обозначают пол. Другие слова, обозначающие людей, гендерно-нейтральны. На следующем уроке вы научитесь различать мужской и женский род, используя прилагательные рода в качестве префиксов.
+В глобасе лишь несколько слов, таких как **matre** и **patre**, обозначают пол. Другие слова, обозначающие людей, гендерно-нейтральны. На следующем уроке вы научитесь различать мужской и женский пол, используя прилагательные рода в качестве префиксов.
  
-### Множественное число существительных
+### Нет множественного числа у существительных
 
 Глобаса не различает существительные в единственном и множественном числе. На следующем уроке вы научитесь указывать единичность или множественность, когда это необходимо.
 
@@ -45,7 +45,7 @@ media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3,darsu_01_doxoli_ab
 
 Слово **xanti** означает _добра вам_, но также оно может быть использовано, чтобы сказать _здравствуй(те)_ или _до свидания_. 
 
-## Example Sentences
+## Примеры выражений
 <audio controls>
  <source src="/darsu/01/darsu_1_misalli_jumle.mp3" type="audio/mp3" />
  <p>Ваше устройство не поддерживает HTML5 аудио.</p>
@@ -57,7 +57,7 @@ media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3,darsu_01_doxoli_ab
 **Weda, uma!**  
 Пока, лошадь/лошади!
 
-## Reading and Listening Practice
+## Практика чтения и аудирования
 
 <audio controls>
  <source src="/darsu/01/darsu_01_doxoli_abyasa.mp3" type="audio/mp3" />
@@ -66,7 +66,7 @@ media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3,darsu_01_doxoli_ab
 
 Salom, bwaw! Weda, papa! Xanti, uma! Weda, sodar! Xanti, doste! Salom, nini! Weda, matre! Salom, mahi! Xanti, piu! Weda, myaw!
 
-## Lesson Activity
+## Дополнительно
 
 _Придумайте свои собственные предложения, используя приведенные выше примеры в качестве шаблонов._
 
