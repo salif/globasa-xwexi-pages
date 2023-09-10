@@ -24,7 +24,7 @@ media_order: 'darsu_6_misalli_jumle.mp3,darsu_06_doxoli_abyasa.mp3,darsu_06_lexi
 * **xosu** - немного, мало
 * **xwexi** - изучать
 * **dom** - место
-* **kamer** - room
+* **kamer** - комната
 * **koki** - готовить
 	* **kokikamer** - кухня
 * **banyo** - ванна; купаться
