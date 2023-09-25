@@ -119,27 +119,10 @@ Where is the cat?
 **Filme sen kewatu?**  
 When is the movie?
 
-In informal language, an _unmodified_ copula (other than negated with **no**) may be optionally omitted when linking adjective phrases, prepositional phrases and **-loka/-watu** correlatives. 
+In informal language, the copula may be omitted when linking adjective phrases.
 
-**Myaw (sen) keloka?**  
-Where is the cat?
-
-**Myaw (sen) in sanduku.**  
-The cat is in the box.
-
-**Kam uma (sen) perfetomo syahe?**  
-Is the horse perfectly black?
-
-**No, uma no (sen) perfetomo syahe.**  
-No, the horse is not perfectly black. 
-
-Compare with the following sentences with a modified copula with verb markers or adverbs. In these sentences, the copula is always obligatory.
-
-**Myaw le sen in sanduku.**  
-The cat was in the box.
-
-**Uma duli mara sen perfetomo syahe.**  
-Horses sometimes are perfectly black.
+**Uma (sen) perfetomo syahe.**   
+The horse is perfectly black. 
 
 ## Infinitive Verb Phrases <a id="nafalelexili_jumlemon"></a>
 

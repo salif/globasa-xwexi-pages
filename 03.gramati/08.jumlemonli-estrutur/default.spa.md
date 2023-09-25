@@ -111,7 +111,7 @@ Mi trabajo es lento.
 
 ### Cuantificador + Pronombre = Sintagma nominal completo
 
-**Dua trasbasayen ergo velosi mas _un te_ ergo hanman.**  
+**Dua basataytiyen ergo velosi mas _un te_ ergo hanman.**  
 Dos traductores trabajan rápido pero _uno_ trabaja despacio.  
 
 Sin el pronombre **te**, la segunda parte de la oración diría:  

@@ -111,7 +111,7 @@ My work/job is slow.
 
 ### Quantifier + Pronoun = Complete Noun Phrase
 
-**Dua trasbasayen ergo velosi mas _un te_ ergo hanman.**  
+**Dua basataytiyen ergo velosi mas _un te_ ergo hanman.**  
 Two translators work quickly but _one_ works slowly.
 
 Without the pronoun **te**, the second part of the sentence would read:  

@@ -113,33 +113,16 @@ El verbo **sen** (_ser/estar_), conocido como _cópula_, funciona como marcador 
 
 Las palabras de interrogación **keloka** y **kewatu** así como todos sus correlativos también se vinculan con sujetos usando la _cópula_.
 
-**¿Myaw sen keloka?**   
-¿Donde está el gato?
+**Myaw sen keloka?**   
+¿Dónde está el gato?
 
 **Filme sen kewatu?**  
 ¿Cuándo es la película?
 
-En el lenguaje informal, una cópula _no modificada_ (a menos que sólo sea negada con **no**) puede omitirse opcionalmente al vincular sintagmas adjetivos, sintagmas preposicionales y correlativos **-loka/-watu**.
+En el lenguaje informal, la cópula puede omitirse al vincular sintagmas adjetivos.
 
-**¿Myaw (sen) keloka?**    
-¿Donde está el gato?
-
-**Myaw (sen) en sanduku.**    
-El gato está en la caja.
-
-**Kam uma (sen) perfetomo syahe?**    
-¿Es el caballo perfectamente negro?
-
-**No, uma no (sen) perfetomo syahe.**    
-No, el caballo no es perfectamente negro.
-
-Compare con las siguientes oraciones con una cópula modificada con marcadores verbales o adverbios. En estas oraciones, la cópula siempre es obligatoria.
-
-**Myaw le sen en sanduku.**    
-El gato estaba en la caja.
-
-**Uma duli mara sen perfetomo syahe.**    
-Los caballos a veces son perfectamente negros.
+**Uma (sen) perfetomo syahe.**  
+El caballo es perfectamente negro.
 
 ## Sintagmas verbales en infinitivo <a id="nafalelexili_jumlemon"></a>
 
