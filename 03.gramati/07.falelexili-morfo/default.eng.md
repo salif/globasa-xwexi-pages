@@ -181,10 +181,12 @@ The passive voice is expressed using the prefix **be-**.
 
 _Etymology of **be-**: Mandarin (被 “bèi”), English (be), Norwegian (ble)_
 
-| Present Passive | &nbsp; | Past Passive | &nbsp; | Future Passive | &nbsp;
+| Passive Voice
 |
-| Markers | Sample Sentences | Markers | Sample Sentences | Markers | Sample Sentences
-| **(nun) be-**<br /><br /> | **Pingo beyam mi.**<br />The apple is eaten by me. | **le be-**<br /><br /> | **Pingo le beyam mi.**<br />The apple was eaten by me. | **xa be-**<br /><br /> | **Pingo xa beyam mi.**<br />The apple will be eaten by me.
+| Verb Form | Markers | Sample Sentences
+| Present Passive<br /><br /> | **(nun) be-**<br /><br /> | **Pingo beyam mi.**<br />The apple is eaten by me.
+| Past Passive<br /><br /> | **le be-**<br /><br /> | **Pingo le beyam mi.**<br />The apple was eaten by me.
+| Future Passive<br /><br /> | **xa be-**<br /><br /> | **Pingo xa beyam mi.**<br />The apple will be eaten by me.
 
 Although the passive mood can technically also be used with all the compound tenses, in practice it is most often used with the general present, past and future tenses, as illustrated above.
 
@@ -203,10 +205,11 @@ In Globasa, commands (_imperative mood_) and exhortation (_jussive mood_) are bo
 _The particle **am** is truncated from **amiru** (command)  
 Etymology of **amiru**: Arabic (أمر “amr”), Turkish (emir), Swahili (amri, -amuru)_
 
-| Imperative | &nbsp; | Jussive | &nbsp;
+| Imperative and Jussive Moods
 |
-| Marker | Sample Sentences | Marker | Sample Sentences
-| **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **(Yu) Am yam!**<br />Eat!<br /><br />**(Uyu) Am yam!**<br />(You all) eat!<br /><br />**Imi am yam!**<br />Let’s eat! | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **Te am yam.**<br />May she eat.<br /><br />**Mi am yam.**<br />May I eat.
+| Verb Form | Markers | Sample Sentences
+| Imperative Mood<br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **(Yu) Am yam!**<br />Eat!<br /><br />**(Uyu) Am yam!**<br />(You all) eat!<br /><br />**Imi am yam!**<br />Let’s eat!
+| Jussive Mood<br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **Te am yam.**<br />May she eat.<br /><br />**Mi am yam.**<br />May I eat.
 
 ### Imperative Mood
 
