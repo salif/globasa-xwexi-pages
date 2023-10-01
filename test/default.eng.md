@@ -30,6 +30,7 @@ Wiki MP3:
 Globasa MP3:
 <audio preload="auto" controls><source src="/gramati/abece-ji-lafuzu/maux.mp3" type="audio/mpeg" /></audio>
 
+## Proper Way
 
 | Simple Past Tenses |||
 | --- | --- | --- |
@@ -37,16 +38,14 @@ Globasa MP3:
 | General Past<br /><br /> | **le**<br /><br /> | **Mi le yam pingo.**<br />I ate the apple.
 | Continuous/Habitual Past<br /><br /> | **le du-**<br /><br /> | **Mi le duyam pingo.**<br />I used to eat apples.
 
-| Simple Past Tenses |||
-| Verb Form | Markers | Sample Sentences
-| ---: | :---: | :--- |
-| General Past<br /><br /> | **le**<br /><br /> | **Mi le yam pingo.**<br />I ate the apple.
-| Continuous/Habitual Past<br /><br /> | **le du-**<br /><br /> | **Mi le duyam pingo.**<br />I used to eat apples.
 
+## Current way
 
+| Compound Past Tenses
+|
 | Verb Form | Markers | Sample Sentences
-| ---: | :---: | :--- |
-| General Past<br /><br /> | **le**<br /><br /> | **Mi le yam pingo.**<br />I ate the apple.
-| Continuous/Habitual Past<br /><br /> | **le du-**<br /><br /> | **Mi le duyam pingo.**<br />I used to eat apples.
+| Past Active<br /><br /> | **le nun**<br /><br /> | **Mi le nun yam pingo.**<br />I was eating the apple.
+| Past Completed<br /><br /> | **le le**<br /><br /> | **Mi le le yam pingo.**<br />I had eaten the apple.
+| Past Prospective<br /><br /> | **le xa**<br /><br /> | **Mi le xa yam pingo.**<br />I was going to eat the apple.
 
 ---
