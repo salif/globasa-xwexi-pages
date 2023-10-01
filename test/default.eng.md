@@ -30,4 +30,23 @@ Wiki MP3:
 Globasa MP3:
 <audio preload="auto" controls><source src="/gramati/abece-ji-lafuzu/maux.mp3" type="audio/mpeg" /></audio>
 
+
+| Simple Past Tenses |||
+| --- | --- | --- |
+| Verb Form | Markers | Sample Sentences
+| General Past<br /><br /> | **le**<br /><br /> | **Mi le yam pingo.**<br />I ate the apple.
+| Continuous/Habitual Past<br /><br /> | **le du-**<br /><br /> | **Mi le duyam pingo.**<br />I used to eat apples.
+
+| Simple Past Tenses |||
+| Verb Form | Markers | Sample Sentences
+| ---: | :---: | :--- |
+| General Past<br /><br /> | **le**<br /><br /> | **Mi le yam pingo.**<br />I ate the apple.
+| Continuous/Habitual Past<br /><br /> | **le du-**<br /><br /> | **Mi le duyam pingo.**<br />I used to eat apples.
+
+
+| Verb Form | Markers | Sample Sentences
+| ---: | :---: | :--- |
+| General Past<br /><br /> | **le**<br /><br /> | **Mi le yam pingo.**<br />I ate the apple.
+| Continuous/Habitual Past<br /><br /> | **le du-**<br /><br /> | **Mi le duyam pingo.**<br />I used to eat apples.
+
 ---
