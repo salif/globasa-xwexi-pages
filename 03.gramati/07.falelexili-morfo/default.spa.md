@@ -210,8 +210,8 @@ Etimología de **amiru**: árabe (أمر “amr”), turco (emir), swahili (amri
 | Modos Imperativo y Yusivo
 |
 | Forma verbal | Marcador | Ejemplos de oraciones
-| Imperativo<br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **(Yu) Am yam!**<br />¡Come!, ¡Coma!<br /><br />**(Uyu) Am yam!**<br />¡Comed!, ¡Coman!<br /><br />**Imi am yam!**<br />¡Comamos!
-| Yusivo<br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **Te am yam.**<br />Que él/ella coma.<br /><br />**Mi am yam.**<br />Que yo coma.
+| Imperativo<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **(Yu) Am yam!**<br />¡Come!, ¡Coma!<br /><br />**(Uyu) Am yam!**<br />¡Comed!, ¡Coman!<br /><br />**Imi am yam!**<br />¡Comamos!
+| Yusivo<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **Te am yam.**<br />Que él/ella coma.<br /><br />**Mi am yam.**<br />Que yo coma.
 
 ### Modo imperativo
 
