@@ -208,8 +208,8 @@ Etymology of **amiru**: Arabic (أمر “amr”), Turkish (emir), Swahili (amri
 | Imperative and Jussive Moods
 |
 | Verb Form | Markers | Sample Sentences
-| Imperative Mood<br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **(Yu) Am yam!**<br />Eat!<br /><br />**(Uyu) Am yam!**<br />(You all) eat!<br /><br />**Imi am yam!**<br />Let’s eat!
-| Jussive Mood<br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **Te am yam.**<br />May she eat.<br /><br />**Mi am yam.**<br />May I eat.
+| Imperative Mood<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **(Yu) Am yam!**<br />Eat!<br /><br />**(Uyu) Am yam!**<br />(You all) eat!<br /><br />**Imi am yam!**<br />Let’s eat!
+| Jussive Mood<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **Te am yam.**<br />May she eat.<br /><br />**Mi am yam.**<br />May I eat.
 
 ### Imperative Mood
 
