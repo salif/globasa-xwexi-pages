@@ -183,10 +183,12 @@ La voz pasiva se expresa con el prefijo **be-**.
 
 _Etimología de **be-**: mandarín (被 “bèi”), inglés (be), noruego (ble)_
 
-| Presente Pasivo | &nbsp; | Pasado Pasivo | &nbsp; | Futuro Pasivo | &nbsp;
+| Voz pasiva
 |
-| Marcadores | Ejemplos de oraciones | Marcadores | Ejemplos de oraciones | Marcadores | Ejemplos de oraciones
-| **(nun) be-**<br /><br /> | **Pingo beyam mi.**<br />La manzana se come por mí. | **le be-**<br /><br /> | **Pingo le beyam mi.**<br />La manzana se comió  por mí.  | **xa be-**<br /><br /> | **Pingo xa beyam mi.**<br />La manzana se comerá por mí. 
+| Forma verbal | Marcadores | Ejemplos de oraciones
+| Presente Pasivo<br /><br /> | **(nun) be-**<br /><br /> | **Pingo beyam mi.**<br />La manzana se come por mí.
+| Pasado Pasivo<br /><br /> | **le be-**<br /><br /> | **Pingo le beyam mi.**<br />La manzana se comió  por mí.
+| Futuro Pasivo<br /><br /> | **xa be-**<br /><br /> | **Pingo xa beyam mi.**<br />La manzana se comerá por mí.
 
 Aunque técnicamente el modo pasivo también se puede expresar con todos los tiempos compuestos, en la práctica se usa más a menudo con los tiempos generales presente, pasado y futuro, como se muestra arriba.
 
@@ -205,10 +207,11 @@ En Globasa, las órdenes (_modo imperativo_) y las exhortaciones (_modo yusivo_)
 _La partícula **am** se trunca de **amiru** (ordenar)  
 Etimología de **amiru**: árabe (أمر “amr”), turco (emir), swahili (amri, -amuru)_
 
-| Imperativo | &nbsp; | Yusivo | &nbsp;
+| Modos Imperativo y Yusivo
 |
-| Marcador | Ejemplos de oraciones | Marcador | Ejemplos de oraciones
-| **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **¡(Yu) am yam!**<br />¡Come!, ¡Coma!<br /><br />**¡(Uyu) am yam!**<br />¡Comed!, ¡Coman!<br /><br />**¡Imi am yam!**<br />¡Comamos! | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **Te am yam.**<br />Que él/ella coma.<br /><br />**Mi am yam.**<br />Que yo coma.
+| Forma verbal | Marcador | Ejemplos de oraciones
+| Imperativo<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **(Yu) Am yam!**<br />¡Come!, ¡Coma!<br /><br />**(Uyu) Am yam!**<br />¡Comed!, ¡Coman!<br /><br />**Imi am yam!**<br />¡Comamos!
+| Yusivo<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **Te am yam.**<br />Que él/ella coma.<br /><br />**Mi am yam.**<br />Que yo coma.
 
 ### Modo imperativo
 
