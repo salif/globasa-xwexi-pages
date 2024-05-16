@@ -5,6 +5,13 @@
 4. [Common Phrases and Expressions](./04.pimpan-logaxey.default.eng.md)
 5. [More Resources](./05.max-resurso.default.eng.md)
 
+### български
+1. [Относно Глобаса](./01.default.default.bul.md)
+2. [Уроци за начинаещи](./02.darsu.default.bul.md)
+3. [Граматика](./03.gramati.default.bul.md)
+4. [Често срещани фрази и изрази](./04.pimpan-logaxey.default.bul.md)
+5. [Още ресурси](./05.max-resurso.default.bul.md)
+
 ### español
 1. [Sobre Globasa](./01.default.default.spa.md)
 2. [Lecciones para principiantes](./02.darsu.default.spa.md)
