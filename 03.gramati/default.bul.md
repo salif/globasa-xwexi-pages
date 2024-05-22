@@ -3,9 +3,9 @@ title: Граматика
 media_order: 'BUL_Kompleto Gramati fe Globasa_Mesi 07 2023.pdf,ENG_Kompleto Gramati fe Globasa_Mesi 07 2023.pdf,SPA_Kompleto Gramati fe Globasa_Mesi 07 2023.pdf'
 ---
 
-Изтеглете [Пълната граматика на Глобаса](BUL_Kompleto%20Gramati%20fe%20Globasa_Mesi%2007%202023.pdf) като PDF файл.
+Изтеглете [Пълната граматика на глобаса](BUL_Kompleto%20Gramati%20fe%20Globasa_Mesi%2007%202023.pdf) като PDF файл.
 
-Пълна граматика на Глобаса:
+Пълна граматика на глобаса:
 
 * [Азбука и произношение](abece-ji-lafuzu)
 * [Съдържателни думи: съществителни, глаголи, прилагателни и наречия](inharelexi)

@@ -557,7 +557,7 @@ media_order: 'bon_axam.mp3,bon_noce.mp3,bon_nuru.mp3,bon_soba.mp3,bonaxam.mp3,bo
 </audio>
 
 * **Kam yu (pala) Globasa?**  
-Говориш ли Глобаса?
+Говориш ли глобаса?
 
 <audio controls>
  <source src="/pimpan-logaxey/Kam_yu_pala_globasa.mp3" type="audio/mp3" />
@@ -613,7 +613,7 @@ media_order: 'bon_axam.mp3,bon_noce.mp3,bon_nuru.mp3,bon_soba.mp3,bonaxam.mp3,bo
 </audio>
 
 * **Ren loga... kemaner (in Globasa)?**  
-Как се казва... (на Глобаса)?
+Как се казва... (на глобаса)?
 
 <audio controls>
  <source src="/pimpan-logaxey/Ren_loga_kemaner.mp3" type="audio/mp3" />
@@ -621,7 +621,7 @@ media_order: 'bon_axam.mp3,bon_noce.mp3,bon_nuru.mp3,bon_soba.mp3,bonaxam.mp3,bo
 </audio>
 
 **In Globasa, ren loga...**  
-(На Глобаса), се казва... 
+(На глобаса), се казва... 
 
 <audio controls>
  <source src="/pimpan-logaxey/In_globasa_ren_loga.mp3" type="audio/mp3" />

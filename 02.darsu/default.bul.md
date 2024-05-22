@@ -3,7 +3,7 @@ title: 'Уроци за начинаещи'
 media_order: 'SPA_Darsulari tas Xoruyen_Mesi 04 2023.pdf,ENG_Darsulari tas Xoruyen_Mesi 04 2023.pdf,BUL_Darsulari tas Xoruyen_Mesi 04 2023.pdf'
 ---
 
-Изтеглете [Уроците по Глобаса за начинаещи](BUL_Darsulari%20tas%20Xoruyen_Mesi%2004%202023.pdf) като PDF файл.
+Изтеглете [Уроците по глобаса за начинаещи](BUL_Darsulari%20tas%20Xoruyen_Mesi%2004%202023.pdf) като PDF файл.
 
 Започнете с [Урок&nbsp;1](01). В страничното меню ще виждате отметка за всеки прегледан урок, за да ви помогне да следите напредъка си.
 
