@@ -1,0 +1,143 @@
+---
+title: 'Урок 5'
+visible: true
+media_order: 'darsu_5_lexilista.mp3,darsu_5_misalli_jumle.mp3,darsu_05_doxoli_abyasa.mp3'
+---
+
+## Списък с думи
+
+<audio controls>
+ <source src="/darsu/05/darsu_5_lexilista.mp3" type="audio/mp3" />
+ <p>Вашият потребителски агент не поддържа HTML5 аудио елемента.</p>
+</audio>
+
+* **ji** - и
+* **sen** - бъда (_съм, си, е, сме, сте, са_)
+* **te** - той, тя (_одушев.: всяка форма на живот или олицетворен предмет_)
+* **hin** - този, тази, това, тези
+  * **hinte** - този, тази (_одушев._)
+* **den** - онзи, онази, онова, онези
+  * **dente** - онзи, онази (_одушев._)
+* **ixu** - възрастен
+  * **femixu** - жена
+  * **manixu** - мъж
+* **bon** - добър
+* **day** - голям
+* **bala** - силен
+* **meli** - красив, хубав
+* **velosi** - бърз
+* **neo** - нов
+* **juni** - млад
+* **hox** - щастлив, доволен
+* **safe** - чист
+* **lungo** - дълъг
+* **gao** - висок
+
+## Бележки
+
+### Прилагателни
+
+Прилагателните предхождат съществителните, които променят.
+
+* **safe myaw** - чиста котка
+* **neo kitabu** - нова книга
+* **lungo filme** - дълъг филм
+
+### Глаголът _sen_
+
+Глаголът **sen** свързва субекта с прилагателни или съществителни.
+
+С прилагателни:
+
+**Kitabu sen neo.**  
+Книгата е нова.
+
+**Filme sen lungo.**   
+Филмът е дълъг.
+
+**Uma sen day ji bala.**  
+Конят е голям и силен.
+
+Със съществителни:
+
+**Te sen mahi.**  
+Тя е риба.
+
+**Te sen bon patre.**  
+Той е добър баща.
+
+### _hin/den_
+
+Демонстративите **hin** и **den** винаги трябва да бъдат последвани от съществително или местоимение. **Те никога не стоят самостоятелно в съществителните фрази.**
+
+**Den piu sen day.**  
+Онази птица е голяма.
+
+Местоимението **te**, което е прикрепено към **hin** и **den**, може да замени одушевено съществително: **hinte**/**dente**.
+
+**Dente sen day.**  
+Онова е голямо.
+
+Тъй като в глобаса няма членуване, думите **hin** и **den** могат да се използват за изразяване на определеност, когато е необходимо.
+
+**Den piu sen day.**  
+Онази птица е голяма. _или_ Птицата е голяма. 
+ 
+### Мъже и жени
+
+Прилагателните **fem** (женски) и **man** (мъжки) могат да се използват като квази-представки за разграничаване на пола. Обикновено полът не се посочва, но ако трябва да разграничите пола, ето няколко примера:
+
+* **femnini** - _момиче_  
+**mannini** - _момче_
+
+* **fembete** - _дъщеря_  
+**manbete** - _син_
+
+* **femuma** - _кобила_ (_женски кон_)  
+**manuma** - _жребец_ (_мъжки кон_)
+
+* **femdoste** - _приятелка_  
+**mandoste** - _приятел мъж_ 
+
+### Съществителни/глаголи
+
+В глобаса има много _съществителни/глаголи_, които могат да функционират като съществително или глагол. Глаголите, представени в уроци 2, 3 и 4, всъщност са _съществителни/глаголи_.
+
+* **yam** - _храна_ или _ям_
+* **oko** - _око_ или _виждам_
+* **ore** - _ухо_ или _чувам_
+* **lala** - _песен_ или _пея_
+* **fley** - _полет_ или _летя_
+
+## Примерни изречения
+
+<audio controls>
+ <source src="/darsu/05/darsu_5_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Вашият потребителски агент не поддържа HTML5 аудио елемента.</p>
+</audio>
+
+**Juni femixu somno.**  
+Младата жена спи.
+
+**Sodar ore bon musika.**  
+Братът/сестрата слуша хубава музика.
+
+**Hin lala sen meli.**  
+Тази песен е красива.
+
+## Упражнение за четене и слушане
+
+<audio controls>
+ <source src="/darsu/05/darsu_05_doxoli_abyasa.mp3" type="audio/mp3" />
+ <p>Вашият потребителски агент не поддържа HTML5 аудио елемента.</p>
+</audio>
+
+Mi hare neo kitabu. Hin kitabu sen bon. Mi suki na doxo kitabu. Bwaw sen day ji bala. Hin bwaw hare bete. Juni bwaw yuxi ji pawbu. Te no sen safe. Mama no sen hox. Bete glu sui. Te somno. Mama sen hox. 
+
+Yu hare lungo kitabu. Den kitabu no sen bon. Yu no suki na doxo den kitabu. Gao manixu hare uma. Uma sen velosi. Manixu hare femdoste. Doste sen juni ji meli. Manixu suki na oko filme. Femixu no suki filme. Femixu suki na lala ji danse. Manixu no suki musika. Femixu no lubi te.
+
+## Дейност
+
+_Напишете история, като използвате примерните изречения от този и предишните уроци._
+
+<textarea width="100%" spellcheck="false" placeholder="Напишете тук ваши собствени изречения."></textarea>
