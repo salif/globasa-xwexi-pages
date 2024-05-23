@@ -6,7 +6,7 @@
 5. [More Resources](./05.max-resurso.default.eng.md)
 
 ### български
-1. [Относно Глобаса](./01.default.default.bul.md)
+1. [Относно глобаса](./01.default.default.bul.md)
 2. [Уроци за начинаещи](./02.darsu.default.bul.md)
 3. [Граматика](./03.gramati.default.bul.md)
 4. [Често срещани фрази и изрази](./04.pimpan-logaxey.default.bul.md)

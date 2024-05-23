@@ -1,7 +1,13 @@
-## Globasa
+# basa:
 
-basa; language:
+## [English](./01.default.default.eng.md)
+## [български](./01.default.default.bul.md)
+## [español](./01.default.default.spa.md)
 
-- [English](./01.default.default.eng.md)
-- [български](./01.default.default.bul.md)
-- [español](./01.default.default.spa.md)
+* [salif.github.io/globasa-xwexi-pages](https://salif.github.io/globasa-xwexi-pages/)
+* [codeberg.org/salif/globasa-xwexi-pages/wiki](https://codeberg.org/salif/globasa-xwexi-pages/wiki)
+* [github.com/salif/globasa-xwexi-pages](https://github.com/salif/globasa-xwexi-pages)
+
+---
+
+* [Sidebar](./_Sidebar.md)
