@@ -1,0 +1,138 @@
+---
+title: 'Урок 4'
+visible: true
+media_order: 'darsu_4_lexilista.mp3,darsu_4_misalli_jumle.mp3,darsu_04_doxoli_abyasa 01.mp3,darsu_04_doxoli_abyasa 02.mp3,darsu_04_doxoli_abyasa 03.mp3,darsu_04_doxoli_abyasa 04.mp3,darsu_04_doxoli_abyasa 05.mp3,darsu_04_doxoli_abyasa 06.mp3'
+---
+
+## Списък с думи
+
+<audio controls>
+ <source src="/darsu/04/darsu_4_lexilista.mp3" type="audio/mp3" />
+ <p>Вашият потребителски агент не поддържа HTML5 аудио елемента.</p>
+</audio>
+
+* **kam** - дали, _въпрос с да/не_
+* **si** - да
+* **no** - не, не правя
+* **aham** - разбирам
+* **suki** - харесвам
+* **lubi** - обичам
+* **vole** - искам
+* **na** - да (_за инфинитив на глагола_)
+* **oko** - виждам, гледам, наблюдавам
+* **ore** - чувам, слушам
+* **glu** - пия
+* **filme** - филм
+* **musika** - музика
+* **sui** - вода
+* **kafe** - кафе
+* **cay** - чай
+* **jusu** - сок
+
+## Бележки
+### Въпроси с да/не
+
+Твърденията се превръщат във въпроси с да/не чрез добавяне на **kam** в началото на изречението. Следните примерни изречения показват твърдение, последвано от съответстващ въпрос с да/не.
+
+**Nini oko filme.**  
+Момчето гледа филм.
+
+**Kam nini oko filme?**  
+Момчето гледа ли филм?
+
+### Отрицание 
+
+Думата **no** предхожда думата, която се отрича, например глагола.
+
+**Myaw no glu cay.**  
+Котките не пият чай.
+
+### Инфинитив
+
+Инфинитивната глаголна форма се отбелязва с частицата **na**, последвана от глагола. Винаги се използва между всеки два глагола.
+
+**Kam yu suki na oko filme?**  
+Обичаш ли да гледаш филми?
+
+### Местоименията не се изменят
+
+Местоименията запазват една и съща форма независимо от функцията, която изпълняват в изречението. В глобаса, **mi** означава както _аз_, така и _мен_.
+
+**Mi lubi yu.**  
+Аз обичам теб.
+
+**Yu lubi mi.**  
+Ти обичаш мен.
+
+## Примерни изречения
+
+<audio controls>
+ <source src="/darsu/04/darsu_4_misalli_jumle.mp3" type="audio/mp3" />
+ <p>Вашият потребителски агент не поддържа HTML5 аудио елемента.</p>
+</audio>
+
+**Kam patre suki na yam salada?**  
+Бащата обича ли да яде салата?
+
+**Si, patre suki na yam salada.**  
+Да, бащата обича да яде салата.
+
+**No, patre no suki na yam salada.**  
+Не, бащата не обича да яде салата.
+
+## Упражнение за четене и слушане
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 01.mp3" type="audio/mp3" />
+ <p>Вашият потребителски агент не поддържа HTML5 аудио елемента.</p>
+</audio>
+
+Xanti, doste. Kafe, fe lutuf! Xukra, doste. Mi suki kafe!
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 02.mp3" type="audio/mp3" />
+ <p>Вашият потребителски агент не поддържа HTML5 аудио елемента.</p>
+</audio>
+
+Salom, mama. Cay, fe lutuf! Xukra, mama! Mi suki cay!
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 03.mp3" type="audio/mp3" />
+ <p>Вашият потребителски агент не поддържа HTML5 аудио елемента.</p>
+</audio>
+
+Papa: Salom, bete! Kam yu glu sui?  
+Bete: Xanti, papa. No, mi no suki sui. Mi suki na glu jusu.  
+Papa: Kam yu yam roti?  
+Bete: Si, mi suki na yam roti.
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 04.mp3" type="audio/mp3" />
+ <p>Вашият потребителски агент не поддържа HTML5 аудио елемента.</p>
+</audio>
+
+Omar: Xanti, sodar! Kam yu ore musika?  
+Marta: Salom, sodar. No, mi no ore musika, mi oko filme. Kam yu doxo kitabu?  
+Omar: No, mi no doxo kitabu. Mi ore musika.
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 05.mp3" type="audio/mp3" />
+ <p>Вашият потребителски агент не поддържа HTML5 аудио елемента.</p>
+</audio>
+
+Doste: Kam yu aham lala?  
+Doste: Si, mi aham lala: Uma fley, kam no?
+
+<audio controls>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa 06.mp3" type="audio/mp3" />
+ <p>Вашият потребителски агент не поддържа HTML5 аудио елемента.</p>
+</audio>
+
+Mama: Kam yu lubi mi?  
+Papa: Si, mi lubi yu. 
+
+## Дейност
+
+_Създайте свои собствени диалози, като използвате примерните изречения от този и предишните уроци._
+
+<textarea width="100%" spellcheck="false" placeholder="Напишете тук ваши собствени изречения."></textarea>
