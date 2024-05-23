@@ -25,8 +25,8 @@ visible: true
 16 - **des sisa**  
 17 - **des sabe**  
 18 - **des oco**  
-19 - **des nue**
- 
+19 - **des nue**  
+
 20 - **duades**  
 30 - **tigades**  
 40 - **caredes**  
@@ -57,12 +57,12 @@ visible: true
 9000 - **nue kilo**
 
 1 x 10^6 (1 000 000) - **mega**  
-1 X 10^9 (1 000 000 000) - **giga**   
+1 X 10^9 (1 000 000 000) - **giga**  
 1 X 10^12 (1 000 000 000 000) - **tera**  
 
 По-големи числа могат да бъдат изразени чрез комбиниране на **kilo**, **mega**, **giga** и **tera**.
 
-1 x 10^15 - **kilo tera**    
+1 x 10^15 - **kilo tera**  
 1 x 10^18 - **mega tera**  
 1 x 10^21 - **giga tera**  
 1 x 10^24 - **tera tera**  
@@ -104,9 +104,9 @@ visible: true
 
 Използват се също и следните. 
 
-1 X 10^-1 (една десета от): **deci** (**un ofdes fe**)   
-1 X 10^-2 (една стотна от): **centi** (**un ofcen fe**)    
-1 X 10^-3 (една хилядна от): **mili** (**un ofkilo fe**)    
+1 X 10^-1 (една десета от): **deci** (**un ofdes fe**)  
+1 X 10^-2 (една стотна от): **centi** (**un ofcen fe**)  
+1 X 10^-3 (една хилядна от): **mili** (**un ofkilo fe**)  
 1 X 10^-6 (една милионна от): **mikro** (**un ofmega fe**)  
 1 X 10^-9 (една милиардна от): **nano** (**un ofgiga fe**)  
 1 X 10^-12 (една трилионна от): **piko** (**un oftera fe**)
@@ -116,16 +116,16 @@ visible: true
 Използват се цели числа и дробни числа като представки.
 
 **metro** - метър  
-**desmetro** - декаметър    
-**cenmetro** - хектометър    
+**desmetro** - декаметър  
+**cenmetro** - хектометър  
 **kilometro** - километър  
 
-**decimetro** - дециметър    
-**centimetro** - сантиметър    
-**milimetro** - милиметър   
+**decimetro** - дециметър  
+**centimetro** - сантиметър  
+**milimetro** - милиметър  
 
 **gramo** - грам  
-**kilogramo** - килограм    
+**kilogramo** - килограм  
 **miligramo** - милиграм  
 
 **litro** - литър  
