@@ -1,0 +1,29 @@
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+title: "globasa-xwexi"
+description: "Content of pages for xwexi.globasa.net including Bulgarian translation"
+repository: salif/globasa-xwexi-pages
+
+defaults:
+  - scope:
+      path: "*.bul.md"
+    values:
+      lang: "bg"
+  - scope:
+      path: "*.eng.md"
+    values:
+      lang: "en"
+  - scope:
+      path: "*.spa.md"
+    values:
+      lang: "es"
+  - scope:
+      path: "*.epo.md"
+    values:
+      lang: "eo"
+  - scope:
+      path: "*.fra.md"
+    values:
+      lang: "fr"
