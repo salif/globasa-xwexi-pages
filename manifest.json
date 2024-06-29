@@ -5,7 +5,7 @@
 	"start_url": "./index.html",
 	"display": "standalone",
 	"background_color": "#ffffff",
-	"description": "Series of lessons and a complete grammar for Globasa, including Bulgarian translation.",
+	"description": "Series of lessons for Globasa language, including Bulgarian translation.",
 	"icons": [
 		{
 			"src": "./icon-192.png",
