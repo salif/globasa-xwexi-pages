@@ -8,19 +8,22 @@ exclude:
   - Home.md
 
 title: "globasa-xwexi"
-description: "Series of lessons for Globasa language, including Bulgarian translation."
+description: "Series of lessons for Globasa language, translated into several languages"
 baseurl: "/globasa-xwexi-pages"
 repository: salif/globasa-xwexi-pages
+lang: en
 
 defaults:
   - scope:
       path: "*.bul.md"
     values:
       lang: "bg"
+      description: "Научете глобаса, новосъздаден, истински международен спомагателен език."
   - scope:
       path: "*.eng.md"
     values:
       lang: "en"
+      description: "Learn Globasa, a newly constructed, truly international auxiliary language."
   - scope:
       path: "*.spa.md"
     values:
@@ -37,3 +40,4 @@ defaults:
       path: "*.rus.md"
     values:
       lang: "ru"
+      description: "Изучайте глобаса, новый плановый и по-настоящему международный язык общения."
