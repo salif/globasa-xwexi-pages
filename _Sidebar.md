@@ -1,4 +1,4 @@
-### English
+### english
 1. [About Globasa](./01.default.default.eng.md)
 2. [Lessons for Beginners](./02.darsu.default.eng.md)
 3. [Grammar](https://salif.github.io/gramati-fe-globasa/eng/)
@@ -18,3 +18,10 @@
 3. [Gramática](https://xwexi.globasa.net/spa/gramati)
 4. [Frases y expresiones comunes](./04.pimpan-logaxey.default.spa.md)
 5. [Más recursos](./05.max-resurso.default.spa.md)
+
+### русский
+1. [](./01.default.default.rus.md)
+2. [](./02.darsu.default.rus.md)
+3. [](https://salif.github.io/gramati-fe-globasa/)
+4. [](./04.pimpan-logaxey.default.rus.md)
+5. [](./05.max-resurso.default.rus.md)

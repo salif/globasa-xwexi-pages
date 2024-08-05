@@ -2,8 +2,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Home.md
+
 title: "globasa-xwexi"
 description: "Series of lessons for Globasa language, including Bulgarian translation."
+baseurl: "/globasa-xwexi-pages"
 repository: salif/globasa-xwexi-pages
 
 defaults:
@@ -27,3 +33,7 @@ defaults:
       path: "*.fra.md"
     values:
       lang: "fr"
+  - scope:
+      path: "*.rus.md"
+    values:
+      lang: "ru"
