@@ -20,8 +20,6 @@
 5. [Más recursos](./05.max-resurso.default.spa.md)
 
 ### русский
-1. [](./01.default.default.rus.md)
-2. [](./02.darsu.default.rus.md)
-3. [](https://salif.github.io/gramati-fe-globasa/)
-4. [](./04.pimpan-logaxey.default.rus.md)
-5. [](./05.max-resurso.default.rus.md)
+1. [О глобаса](./01.default.default.rus.md)
+2. [Уроки для начинающих](./02.darsu.default.rus.md)
+3. [Грамматика](https://salif.github.io/gramati-fe-globasa/)
