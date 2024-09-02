@@ -15,7 +15,7 @@
 ### español
 1. [Sobre Globasa](./01.default.default.spa.md)
 2. [Lecciones para principiantes](./02.darsu.default.spa.md)
-3. [Gramática](https://xwexi.globasa.net/spa/gramati)
+3. [Gramática](https://salif.github.io/gramati-fe-globasa/spa/)
 4. [Frases y expresiones comunes](./04.pimpan-logaxey.default.spa.md)
 5. [Más recursos](./05.max-resurso.default.spa.md)
 
