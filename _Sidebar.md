@@ -8,7 +8,7 @@
 ### български
 1. [Относно глобаса](./01.default.default.bul.md)
 2. [Уроци за начинаещи](./02.darsu.default.bul.md)
-3. [Граматика](https://salif.github.io/gramati-fe-globasa/)
+3. [Граматика](https://salif.github.io/gramati-fe-globasa/bg-gemini/)
 4. [Често срещани фрази и изрази](./04.pimpan-logaxey.default.bul.md)
 5. [Още ресурси](./05.max-resurso.default.bul.md)
 
@@ -22,4 +22,4 @@
 ### русский
 1. [О глобаса](./01.default.default.rus.md)
 2. [Уроки для начинающих](./02.darsu.default.rus.md)
-3. [Грамматика](https://salif.github.io/gramati-fe-globasa/)
+3. [Грамматика](https://salif.github.io/gramati-fe-globasa/ru-gemini/)

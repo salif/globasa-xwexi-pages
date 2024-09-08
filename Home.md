@@ -9,7 +9,8 @@
 
 **linkutul**:
 
-* [salif.github.io/globasa-xwexi-pages](https://salif.github.io/globasa-xwexi-pages/)
-* [codeberg.org/salif/globasa-xwexi-pages/wiki](https://codeberg.org/salif/globasa-xwexi-pages/wiki)
-* [github.com/salif/globasa-xwexi-pages](https://github.com/salif/globasa-xwexi-pages)
+* [netodom](https://salif.github.io/globasa-xwexi-pages/)
+* [wiki](https://codeberg.org/salif/globasa-xwexi-pages/wiki)
+* [github](https://github.com/salif/globasa-xwexi-pages)
+* [gramati](https://salif.github.io/gramati-fe-globasa/)
 * [xwexi.globasa.net](https://xwexi.globasa.net)
