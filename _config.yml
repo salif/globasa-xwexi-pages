@@ -5,9 +5,8 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - Home.md
 
-title: "globasa-xwexi"
+title: "Globasa-Xwexi"
 description: "Series of lessons for Globasa language, translated into several languages"
 baseurl: "/globasa-xwexi-pages"
 repository: salif/globasa-xwexi-pages

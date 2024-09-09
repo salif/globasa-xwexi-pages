@@ -1,9 +1,14 @@
+---
+title: 'Globasa-Xwexi'
+permalink: /
+---
+
 ## basa:
 
-### [english](./01.default.default.eng.md)
-### [español](./01.default.default.spa.md)
-### [български](./01.default.default.bul.md)
-### [русский](./01.default.default.rus.md)
+### [english 🏴󠁧󠁢󠁥󠁮󠁧󠁿](./01.default.default.eng.md)
+### [español 🇪🇸](./01.default.default.spa.md)
+### [български 🇧🇬](./01.default.default.bul.md)
+### [русский 🇷🇺](./01.default.default.rus.md)
 
 ***
 
