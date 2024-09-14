@@ -1,6 +1,6 @@
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
@@ -9,10 +9,23 @@ exclude:
 title: "Globasa-Xwexi"
 description: "Series of lessons for Globasa language, translated into several languages"
 baseurl: "/globasa-xwexi-pages"
-repository: salif/globasa-xwexi-pages
+repository: "salif/globasa-xwexi-pages"
 lang: en
 
+author:
+  name: "Salif Mehmed"
+  url: "https://salif.eu"
+
+social:
+  name: "Globasa-Xwexi"
+  links:
+    - https://bsky.app/profile/globasa.salif.eu
+
 defaults:
+  - scope:
+      path: ""
+    values:
+      image: "assets/Globasa-Xwexi-1000.png"
   - scope:
       path: "*.bul.md"
     values:

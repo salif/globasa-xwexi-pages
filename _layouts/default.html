@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
-    <link rel="manifest" href="./manifest.json" />
+    <link rel="manifest" href="{{ '/manifest.json' | relative_url }}" />
+    <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/Globasa-Xwexi-192.png' | relative_url }}" />
+    <link rel="icon" type="image/png" sizes="512x512" href="{{ '/assets/Globasa-Xwexi-512.png' | relative_url }}" />
     {% if jekyll.environment == "production" %}
     <script data-goatcounter="https://sgi.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     {% endif %}
@@ -26,7 +28,7 @@
       {% include sidebar.ru.html %}
       {% endif %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        <a href="https://codeberg.org/salif/globasa-xwexi-pages/wiki/{{ page.name }}">wiki</a>
+        <a href="https://codeberg.org/salif/globasa-xwexi/wiki/{{ page.name }}">wiki</a>
       </div>
     </div>
     {% include style.html %}

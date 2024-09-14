@@ -1,6 +1,7 @@
 ---
 title: 'Globasa-Xwexi'
 permalink: /
+lang: glb
 ---
 
 ## basa:
@@ -15,7 +16,8 @@ permalink: /
 **linkutul**:
 
 * [netodom](https://salif.github.io/globasa-xwexi-pages/)
-* [wiki](https://codeberg.org/salif/globasa-xwexi-pages/wiki)
-* [github](https://github.com/salif/globasa-xwexi-pages)
+* [wiki](https://codeberg.org/salif/globasa-xwexi/wiki)
+* [folo](https://bsky.app/profile/globasa.salif.eu)
+* [github](https://github.com/salif/globasa-xwexi-pages/tree/main)
 * [gramati](https://salif.github.io/gramati-fe-globasa/)
 * [xwexi.globasa.net](https://xwexi.globasa.net)
