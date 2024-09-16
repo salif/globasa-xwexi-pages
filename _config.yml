@@ -1,8 +1,13 @@
 plugins:
+  - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
 
 exclude:
+  - .git/
+  - .sass-cache/
+  - .jekyll-cache/
+  - .bundle/
   - Gemfile
   - Gemfile.lock
 
@@ -24,32 +29,16 @@ social:
 defaults:
   - scope:
       path: ""
+      type: "pages"
     values:
       image: "assets/Globasa-Xwexi-1000.png"
   - scope:
-      path: "*.bul.md"
-    values:
-      lang: "bg"
-      description: "Научете глобаса, новосъздаден, истински международен спомагателен език."
-  - scope:
-      path: "*.eng.md"
+      path: "./*.eng.md"
+      type: "pages"
     values:
       lang: "en"
-      description: "Learn Globasa, a newly constructed, truly international auxiliary language."
   - scope:
-      path: "*.spa.md"
+      path: "./*.spa.md"
+      type: "pages"
     values:
       lang: "es"
-  - scope:
-      path: "*.epo.md"
-    values:
-      lang: "eo"
-  - scope:
-      path: "*.fra.md"
-    values:
-      lang: "fr"
-  - scope:
-      path: "*.rus.md"
-    values:
-      lang: "ru"
-      description: "Изучайте глобаса, новый плановый и по-настоящему международный язык общения."

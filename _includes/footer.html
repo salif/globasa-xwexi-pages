@@ -1,0 +1,17 @@
+{% unless page.lang == "glb" %}
+{% include_cached sidebar.{{ page.lang }}.html %}
+<style>
+	.sidebar {
+		border: 0;
+		border-top: 0.25em solid #e1e4e8;
+		padding-left: 1em;
+		padding-top: 2em;
+		margin-top: 3em;
+	}
+</style>
+{% endunless %}
+<div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+	<a href="https://codeberg.org/salif/globasa-xwexi/wiki/{{ page.name }}">wiki</a>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+<script>anchors.add();</script>
