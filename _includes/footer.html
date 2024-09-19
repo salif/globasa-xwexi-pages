@@ -1,12 +1,20 @@
-{% unless page.lang == "glb" %}
+{% unless page.url == "/" %}
+<div class="my-sidebar">
 {% include_cached sidebar.{{ page.lang }}.html %}
+</div>
 <style>
-	.sidebar {
+	.my-sidebar {
 		border: 0;
 		border-top: 0.25em solid #e1e4e8;
 		padding-left: 1em;
 		padding-top: 2em;
 		margin-top: 3em;
+	}
+
+	@media (prefers-color-scheme: dark) {
+		.my-sidebar {
+			border-top: 0.25em solid #585b70;
+		}
 	}
 </style>
 {% endunless %}

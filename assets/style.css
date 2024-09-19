@@ -1,8 +1,4 @@
 @media (prefers-color-scheme: dark) {
-	.sidebar {
-		border-top: 0.25em solid #585b70;
-	}
-
 	body {
 		color: #cdd6f4;
 		background-color: #1e1e2e;
@@ -31,4 +27,26 @@
 		background-color: #585b70;
 	}
 
+	.markdown-body table tbody th,
+	.markdown-body table td {
+		border: 1px solid #11111b;
+	}
+
+	.markdown-body table thead th,
+	.markdown-body table thead td {
+		border: 1px solid #181825;
+	}
+
+	.markdown-body table tr {
+		background-color: #1e1e2e;
+		border-top: 1px solid #11111b;
+	}
+
+	.markdown-body table thead tr {
+		background-color: #181825;
+	}
+
+	.markdown-body table tr:nth-child(2n) {
+		background-color: #181825;
+	}
 }
