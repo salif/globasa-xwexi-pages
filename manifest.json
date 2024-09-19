@@ -1,32 +1,33 @@
 {
 	"name": "Globasa-Xwexi",
 	"short_name": "Globasa-Xwexi",
-	"id": "globasa-xwexi",
 	"start_url": "./index.html",
+	"id": "/globasa-xwexi-pages/index.html",
+	"scope": "/globasa-xwexi-pages/",
 	"display": "standalone",
 	"background_color": "#ffffff",
 	"description": "Series of lessons for Globasa language, including Bulgarian translation.",
 	"icons": [
 		{
-			"src": "./assets/Globasa-Xwexi-192.png",
+			"src": "./assets/icon-192x192.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "./assets/Globasa-Xwexi-512.png",
+			"src": "./assets/icon-512x512.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}
 	],
 	"screenshots": [
 		{
-			"src": "./assets/Globasa-Xwexi-512.png",
+			"src": "./assets/icon-512x512.png",
 			"sizes": "512x512",
 			"type": "image/png",
 			"label": "icon"
 		},
 		{
-			"src": "./assets/Globasa-Xwexi-512.png",
+			"src": "./assets/icon-512x512.png",
 			"sizes": "512x512",
 			"type": "image/png",
 			"form_factor": "wide",
