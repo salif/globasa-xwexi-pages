@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang }}">
+<html lang="{{ page.lang | default: site.lang }}" dir="{{ page.lang_dir | default: 'ltr' }}">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 {% seo %}
-{% include_cached head-custom.html %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
-    <link rel="stylesheet" href="{{ './assets/style.css?v=' | append: site.github.build_revision | relative_url }}" />
+    <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/icon-192x192.png' | relative_url }}" />
+    <link rel="icon" type="image/png" sizes="512x512" href="{{ '/assets/icon-512x512.png' | relative_url }}" />
+    <link rel="manifest" href="{{ '/manifest.json' | relative_url }}" />
+    <script async src="{{ '/assets/script.min.js?v=240928' | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=240928' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/assets/custom.css?v=240928' | relative_url }}" />
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
