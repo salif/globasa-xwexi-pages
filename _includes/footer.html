@@ -1,6 +1,6 @@
 {% unless page.url == "/" %}
 <div class="my-sidebar border-top" style="padding-left:1em;padding-top:1.5em;margin-top:2em;">
-{% include_cached sidebar.{{ page.lang }}.html %}
+{% include_cached sidebar.{{ page.lang | default: 'en' }}.html %}
 </div>
 {% endunless %}
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">

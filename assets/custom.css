@@ -34,50 +34,26 @@
 	--sc-dark-preformatted: #ccc;
 	--sc-dark-disabled: #111;
 
-	color-scheme: var(--color-scheme, light);
+	color-scheme: var(--color-scheme, light dark);
+
+	--bg: light-dark(var(--light-bg), var(--ctp-mocha-base));
+	--text: light-dark(var(--light-text), var(--ctp-mocha-text));
+	--links: light-dark(var(--light-links), var(--ctp-mocha-blue));
+	--gray-border: light-dark(var(--light-gray-border), var(--ctp-mocha-surface2));
+	--border: light-dark(var(--light-border), var(--ctp-mocha-surface2));
+	--table-header-bg: light-dark(var(--light-table-header-bg), var(--ctp-mocha-mantle));
+	--table-tr-border: light-dark(var(--light-table-tr-border), var(--table-header-bg));
+	--table-td-border: light-dark(var(--light-table-td-border), var(--ctp-mocha-surface0));
 }
 
-.theme-light,
-body:has(#theme-switch-light:checked),
-body:has(#theme-switch-auto:checked) {
+:root.theme-light,
+:root:has(#theme-switch-light:checked) {
 	--color-scheme: light;
-	--bg: var(--light-bg);
-	--text: var(--light-text);
-	--links: var(--light-links);
-	--gray-border: var(--light-gray-border);
-	--border: var(--light-border);
-	--table-header-bg: var(--light-table-header-bg);
-	--table-tr-border: var(--light-table-tr-border);
-	--table-td-border: var(--light-table-td-border);
 }
 
-.theme-dark,
+:root.theme-dark,
 body:has(#theme-switch-dark:checked) {
 	--color-scheme: dark;
-	--bg: var(--ctp-mocha-base);
-	--text: var(--ctp-mocha-text);
-	--links: var(--ctp-mocha-blue);
-	--gray-border: var(--ctp-mocha-surface2);
-	--border: var(--ctp-mocha-surface2);
-	--table-header-bg: var(--ctp-mocha-mantle);
-	--table-tr-border: var(--table-header-bg);
-	--table-td-border: var(--ctp-mocha-surface0);
-}
-
-@media (prefers-color-scheme: dark) {
-
-	/* .theme-dark */
-	body:has(#theme-switch-auto:checked) {
-		--color-scheme: dark;
-		--bg: var(--ctp-mocha-base);
-		--text: var(--ctp-mocha-text);
-		--links: var(--ctp-mocha-blue);
-		--gray-border: var(--ctp-mocha-surface2);
-		--border: var(--ctp-mocha-surface2);
-		--table-header-bg: var(--ctp-mocha-mantle);
-		--table-tr-border: var(--table-header-bg);
-		--table-td-border: var(--ctp-mocha-surface0);
-	}
 }
 
 .theme-sc-light,

@@ -12,6 +12,12 @@ function set_theme(e) {
 		} else if (theme === "theme-dark") {
 			theme = "theme-light";
 		} else if (theme === "theme-light") {
+			theme = "theme-sc-auto";
+		} else if (theme === "theme-sc-auto") {
+			theme = "theme-sc-dark";
+		} else if (theme === "theme-sc-dark") {
+			theme = "theme-sc-light";
+		} else if (theme === "theme-sc-light") {
 			theme = "theme-auto";
 		} else {
 			theme = "theme-auto";
@@ -21,14 +27,20 @@ function set_theme(e) {
 		} else {
 			localStorage.setItem(theme_key, theme);
 		}
-		this.textContent = "Kolor (" + theme.substring(6) + ")";
+		if (this.textContent.startsWith("Kolor")) {
+			this.textContent = theme === "theme-auto" ? "Kolor" :
+				"Kolor (" + theme.substring(6) + ")";
+		}
 	}
 	if (theme === "theme-auto") {
 		theme = window.matchMedia("(prefers-color-scheme: dark)").matches ?
 			"theme-dark" : "theme-light";
+	} else if (theme === "theme-sc-auto") {
+		theme = window.matchMedia("(prefers-color-scheme: dark)").matches ?
+			"theme-sc-dark" : "theme-sc-light";
 	}
 	if (!document.documentElement.classList.contains(theme)) {
-		document.documentElement.classList.remove("theme-dark", "theme-light");
+		document.documentElement.classList.remove("theme-dark", "theme-light", "theme-sc-dark", "theme-sc-light");
 		document.documentElement.classList.add(theme);
 	}
 	return false;
