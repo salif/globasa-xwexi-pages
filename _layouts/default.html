@@ -9,9 +9,13 @@
     <link rel="icon" type="image/png" sizes="512x512" href="{{ '/assets/icon-512x512.png' | relative_url }}" />
     <link rel="manifest" href="{{ '/manifest.json' | relative_url }}" />
     <style>:root {color-scheme: light dark;}</style>
-    <script async src="{{ '/assets/script.min.js?v=240928' | relative_url }}"></script>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=240928' | relative_url }}" />
-    <link rel="stylesheet" href="{{ '/assets/custom.css?v=240928' | relative_url }}" />
+    {%- if jekyll.environment == "production" %}
+    <script async src="{{ '/assets/script.min.js?v=241001' | relative_url }}"></script>
+    {%- else %}
+    <script async src="{{ '/assets/script.src.js' | relative_url }}"></script>
+    {%- endif %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=241001' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/assets/custom.css?v=241001' | relative_url }}" />
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">

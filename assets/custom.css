@@ -34,6 +34,12 @@
 	--sc-dark-preformatted: #ccc;
 	--sc-dark-disabled: #111;
 
+	--rust-bg: hsl(60, 9%, 87%);
+	--rust-text: #262625;
+	--rust-links: #2b79a2;
+
+	--midnight-bg: #000000;
+
 	color-scheme: var(--color-scheme, light dark);
 
 	--bg: light-dark(var(--light-bg), var(--ctp-mocha-base));
@@ -46,18 +52,18 @@
 	--table-td-border: light-dark(var(--light-table-td-border), var(--ctp-mocha-surface0));
 }
 
-:root.theme-light,
+.theme-light,
 :root:has(#theme-switch-light:checked) {
 	--color-scheme: light;
 }
 
-:root.theme-dark,
-body:has(#theme-switch-dark:checked) {
+.theme-dark,
+:root:has(#theme-switch-dark:checked) {
 	--color-scheme: dark;
 }
 
 .theme-sc-light,
-body:has(#theme-switch-sc-light:checked) {
+:root:has(#theme-switch-sc-light:checked) {
 	--color-scheme: light;
 	--bg: var(--sc-light-bg);
 	--text: var(--sc-light-text);
@@ -65,11 +71,39 @@ body:has(#theme-switch-sc-light:checked) {
 }
 
 .theme-sc-dark,
-body:has(#theme-switch-sc-dark:checked) {
+:root:has(#theme-switch-sc-dark:checked) {
 	--color-scheme: dark;
 	--bg: var(--sc-dark-bg);
 	--text: var(--sc-dark-text);
 	--links: var(--sc-dark-accent);
+}
+
+.theme-rust,
+:root:has(#theme-switch-rust:checked) {
+	--color-scheme: light;
+	--bg: var(--rust-bg);
+	--text: var(--rust-text);
+	--links: var(--rust-links);
+}
+
+.theme-midnight,
+:root:has(#theme-switch-midnight:checked) {
+	--color-scheme: dark;
+	--bg: var(--midnight-bg);
+	--text: var(--midnight-text);
+	--links: var(--midnight-links);
+}
+
+#theme-switch {
+	font-family: inherit;
+	font-size: inherit;
+	border: 1px solid var(--bg);
+	background-color: var(--bg);
+	color: var(--text);
+}
+
+#theme-switch:hover {
+	border-color: var(--text);
 }
 
 body {

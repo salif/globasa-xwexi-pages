@@ -1,45 +1,22 @@
 {% unless page.url == "/" %}
-<div class="my-sidebar border-top" style="padding-left:1em;padding-top:1.5em;margin-top:2em;">
+<div class="my-sidebar border-top"
+	style="padding-left:1em;padding-top:1.5em;margin-top:2em;">
 {% include_cached sidebar.{{ page.lang | default: 'en' }}.html %}
 </div>
 {% endunless %}
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-	<a href="https://codeberg.org/salif/globasa-xwexi/wiki/{{ page.name }}">Wiki</a> &#8226; <a
-		href="#theme-switch-link" id="theme-switch-link">Kolor</a>
-	<noscript> &#8226; Mode: <input id="theme-switch-auto" type="radio" name="theme-switch" checked="checked">
-		<label for="theme-switch-auto">Auto</label>
-		<input id="theme-switch-dark" type="radio" name="theme-switch">
-		<label for="theme-switch-dark">Dark</label>
-		<input id="theme-switch-light" type="radio" name="theme-switch">
-		<label for="theme-switch-light">Light</label>
-		<input id="theme-switch-sc-dark" type="radio" name="theme-switch">
-		<label for="theme-switch-sc-dark">Dark SC</label>
-		<input id="theme-switch-sc-light" type="radio" name="theme-switch">
-		<label for="theme-switch-sc-light">Light SC</label>
-		<style>
-			/* beautify ignore:start */
-			input[name="theme-switch"],
-			input[name="theme-switch"]+label {
-				display: none;}
-			input[name="theme-switch"]+label {
-				user-select: none; cursor: pointer;}
-			input[name="theme-switch"]:checked,
-			input[name="theme-switch"]:checked+label {
-				display: unset;}
-			body:has(#theme-switch-auto:checked) {
-				#theme-switch-dark,#theme-switch-dark+label {display: unset;}}
-			body:has(#theme-switch-dark:checked) {
-				#theme-switch-light,#theme-switch-light+label {display: unset;}}
-			body:has(#theme-switch-light:checked) {
-				#theme-switch-sc-dark,#theme-switch-sc-dark+label {display: unset;}}
-			body:has(#theme-switch-sc-dark:checked) {
-				#theme-switch-sc-light,#theme-switch-sc-light+label {display: unset;}}
-			body:has(#theme-switch-sc-light:checked) {
-				#theme-switch-auto,#theme-switch-auto+label {display: unset;}}
-			/* beautify ignore:end */
-		</style>
-	</noscript>
+	<a href="https://codeberg.org/salif/globasa-xwexi/wiki/{{ page.name }}">Wiki</a> &#8226; 
+	<select id="theme-switch" aria-label="Choose a theme">
+		<option id="theme-switch-auto" value="theme-auto">Theme: Auto</option>
+		<option id="theme-switch-light" value="theme-light">Theme: Light</option>
+		<option id="theme-switch-dark" value="theme-dark">Theme: Dark</option>
+		<option id="theme-switch-rust" value="theme-rust">Theme: Rust</option>
+		<option id="theme-switch-midnight" value="theme-midnight">Theme: Midnight</option>
+		<option id="theme-switch-sc-auto" value="theme-sc-auto">Theme: SC Auto</option>
+		<option id="theme-switch-sc-light" value="theme-sc-light">Theme: SC Light</option>
+		<option id="theme-switch-sc-dark" value="theme-sc-dark">Theme: SC Dark</option>
+	</select>
 </div>
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
 	integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-<script>window.addEventListener("load", function () { anchors.add() })</script>
+<script>window.addEventListener("load", function () { anchors.add(); });</script>
