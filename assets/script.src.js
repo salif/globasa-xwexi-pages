@@ -14,7 +14,10 @@
 				option_switch.selected = "selected";
 			}
 		} else if (eln === theme_switch_link_id) {
+			console.debug("defl is", defl);
 			document.getElementById(eln).textContent = defl + ": " + theme.substring(6);
+		} else {
+			console.debug("eln is", eln);
 		}
 	}
 
@@ -29,21 +32,19 @@
 				return theme;
 			}
 		}
-		if (theme === "theme-sc-auto") {
-			theme = window.matchMedia("(prefers-color-scheme: dark)").matches ?
-				"theme-sc-dark" : "theme-sc-light";
-		}
-		if (!document.documentElement.classList.contains(theme)) {
-			document.documentElement.classList.remove("theme-light", "theme-dark", "theme-rust", "theme-midnight", "theme-sc-auto",
-				"theme-sc-light", "theme-sc-dark");
-			if (theme !== "theme-auto") {
-				document.documentElement.classList.add(theme);
+		document.documentElement.classList.remove("theme-light", "theme-dark", "theme-midnight", "theme-sc-auto",
+			"theme-sc-light", "theme-sc-dark");
+		if (theme !== "theme-auto") {
+			document.documentElement.classList.add(theme);
+			if (theme === "theme-sc-light" || theme === "theme-sc-dark") {
+				document.documentElement.classList.add("theme-sc-auto");
 			}
 		}
 		return theme;
 	}
 
 	var theme = set_theme(null);
+	console.debug("localStorage theme is", theme);
 
 	window.addEventListener("DOMContentLoaded", function () {
 		var el_theme_switch = document.getElementById(theme_switch_id);
@@ -60,11 +61,12 @@
 				}
 				set_theme(theme);
 			});
+		} else {
+			console.debug("el_theme_switch is null");
 		}
 
 		if (null !== el_theme_switch_link) {
 			var defl = el_theme_switch_link.textContent;
-			console.log(theme)
 			show_theme(theme, theme_switch_link_id, defl);
 			el_theme_switch_link.addEventListener("click", function (e) {
 				e.preventDefault();
@@ -80,24 +82,16 @@
 						theme = "theme-midnight";
 						break;
 					case "theme-midnight":
-						theme = "theme-rust";
-						break;
-					case "theme-rust":
 						theme = "theme-sc-auto";
 						break;
 					case "theme-sc-auto":
-						theme = "theme-sc-dark";
-						break;
-					case "theme-sc-dark":
-						theme = "theme-sc-light";
-						break;
-					case "theme-sc-light":
 						theme = "theme-auto";
 						break;
 					default:
 						theme = "theme-dark";
 						break;
 				}
+				console.debug("new theme is", theme);
 				if (theme === "theme-auto") {
 					window.localStorage.removeItem(theme_key);
 				} else {
@@ -106,6 +100,8 @@
 				show_theme(set_theme(theme), theme_switch_link_id, defl);
 				return false;
 			});
+		} else {
+			console.debug("el_theme_switch_link is null");
 		}
 
 		if (window.location.hostname === "salif.github.io") {
@@ -114,7 +110,7 @@
 				e_.setAttribute(n_, t_); e_.src = u_; r_.parentNode.insertBefore(e_, r_);
 			})(document, 'script', 'https://gc.zgo.at/count.js', 'data-goatcounter', 'https://sgi.goatcounter.com/count');
 		}
-	})
+	});
 
 })();
 
