@@ -6,16 +6,14 @@ slug: clases-de-palabras
 
 ## Palabras de contenido
 
+
+* **benjilexi** _(b)_ - sustantivo/verbo _(s/v)_
 * **[falelexi](/gramati/inharelexi#falelexili_klase)** _(f)_ - verbo  _(v)_
- * **linkuli falelexi** _(f.lin)_ - verbo copulativo _(v.cop)_
- * **ojetoli falelexi** _(f.oj)_ - verbo transitivo _(v.tr)_
- * **nenojetoli falelexi** _(f.nenoj)_ - verbo intransitivo _(v.intr)_
- * **oroojetoli falelexi** _(f.oro)_ - [verbo ambitransitivo](https://globalwikionline.com/detial/en/Ambitransitive_verb) _(v.ambi)_
-<ul>
- * **aksyonli orofalelexi** _(f.oro.a)_ - verbo ambitransitivo agentivo  _(v.ambi.a)_
- * **beaksyonli orofalelexi** _(f.oro.b)_ - verbo ambitransitivo paciente _(v.ambi.p)_ 
-</ul>
- * **sahayli falelexi** _(f.sah)_ - verbo auxiliar _(v.aux)_
+ * **linkuli falelexi** _(b.lin)_ - verbo copulativo _(v.cop)_
+ * **ojetoli falelexi** _(b.oj)_ - verbo transitivo _(v.tr)_
+ * **nenojetoli falelexi** _(b.nenoj)_ - verbo intransitivo _(v.intr)_
+ * **oroojetoli falelexi** _(b.oro)_ - [verbo ambitransitivo](https://globalwikionline.com/detial/en/Ambitransitive_verb) (paciente) _(v.ambi)_
+ * **sahayli falelexi** _(b.sah)_ - verbo auxiliar _(v.aux)_
 * **manerlexi** _(m)_ - adverbio _(adv)_
 * **namelexi** _(n)_ - sustantivo _(s)_
  * **pornamelexi** _(pn)_ - pronombre _(pron)_
@@ -26,6 +24,7 @@ slug: clases-de-palabras
 * **sifalexi** _(s)_ - adjetivo _(adj)_
  * **suyali sifalexi** _(su s)_ - adjetivo posesivo _(adj pos)_
 * **tosifulexi** _(t)_ - adjetivo/adverbio _(adj/adv)_
+ * **suli tosifulexi** _(su t)_ - adjectivo/adverbio propio _(adj/adv prop)_
 
 ## Palabras funcionales
 

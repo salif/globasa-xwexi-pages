@@ -221,7 +221,7 @@ The _jussive mood_ is similar in meaning to the _imperative mood_ but is used fo
 
 The jussive mood can also function as a _mandative subjunctive_ within subordinate clauses. The _mandative subjunctive_ expresses a demand, requirement, request, recommendation or suggestion.
 
-**Mi vole ki te am safegi sesu kamera.**  
+**Mi vole ki te am safegi sesu kamer.**  
 I want him to clean his room.
 
 **Mi peti ki imi am xorata jaldi.**  

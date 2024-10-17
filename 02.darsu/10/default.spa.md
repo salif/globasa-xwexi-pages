@@ -104,7 +104,7 @@ Todos bailan.
  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
 
-Plu myaw sen in ergodom de etesu matre. Matre vole na ore moy sesu bete.
+Plu myaw sen in ergodom de sesu matre. Matre vole na ore moy sesu bete.
 
 Matre loga, "Uyu le ergo fe keto?"  
 Myaw un loga, "Mi le polisi. Mi le anda ji oko moyloka."    

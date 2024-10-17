@@ -5,16 +5,13 @@ visible: true
 
 ## Content Words
 
+* **benjilexi** _(b)_ - noun/verb _(n/v)_
 * **[falelexi](/gramati/inharelexi#falelexili_klase)** _(f)_ - verb _(v)_
- * **linkuli falelexi** _(f.lin)_ - copula _(v.cop)_
- * **ojetoli falelexi** _(f.oj)_ - transitive verb _(v.tr)_
- * **nenojetoli falelexi** _(f.nenoj)_ - intransitive verb _(v.intr)_
- * **oroojetoli falelexi** _(f.oro)_ - ambitransitive verb _(v.ambi)_
-<ul>
- * **aksyonli orofalelexi** _(f.oro.a)_ - agentive ambitransitive verb _(v.ambi.a)_
- * **beaksyonli orofalelexi** _(f.oro.b)_ - patientive ambitransitive verb _(v.ambi.p)_ 
-</ul>
- * **sahayli falelexi** _(f.sah)_ - auxiliary verb _(v.aux)_
+ * **linkuli falelexi** _(b.lin)_ - copula _(v.cop)_
+ * **ojetoli falelexi** _(b.oj)_ - transitive verb _(v.tr)_
+ * **nenojetoli falelexi** _(b.nenoj)_ - intransitive verb _(v.intr)_
+ * **oroojetoli falelexi** _(b.oro)_ - (patientive) ambitransitive verb _(v.ambi)_
+ * **sahayli falelexi** _(b.sah)_ - auxiliary verb _(v.aux)_
 * **manerlexi** _(m)_ - adverb _(adv)_
 * **namelexi** _(n)_ - noun _(n)_
  * **pornamelexi** _(pn)_ - pronoun _(pron)_
@@ -25,6 +22,7 @@ visible: true
 * **sifalexi** _(s)_ - adjective _(adj)_
  * **suyali sifalexi** _(su s)_ - possessive adjective _(poss adj)_
 * **tosifulexi** _(t)_ - adjective/adverb _(adj/adv)_
+ * **suli tosifulexi** _(su t)_ - proper adjective/adverb _(prop adj/adv)_
 
 ## Function Words
 

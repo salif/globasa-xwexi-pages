@@ -223,7 +223,7 @@ El _modo yusivo_ tiene un significado similar al _modo imperativo_ pero se usa p
 
 El modo yusivo también puede funcionar como un _subjuntivo mandativo_ dentro de oraciones subordinadas. El _subjuntivo mandativo_ expresa una demanda, requerimiento, petición, recomendación o sugerencia.
 
-**Mi vole ki te am safegi sesu kamera.**  
+**Mi vole ki te am safegi sesu kamer.**  
 Quiero que limpie su habitación.
 
 **Mi peti ki imi am xorata jaldi.**  

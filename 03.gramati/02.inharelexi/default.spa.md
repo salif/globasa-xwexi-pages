@@ -206,105 +206,175 @@ El orden de estas frases puede cambiar de lugar:
 **Mi max jixi, folki mi max doxo.**  
 Sé más, cuanto/entre más leo.
 
-### Categorías verbales <a id="falelexili_klase"></a>
+### Categorías de verbos <a id="falelexili_klase"></a>
 
-Los verbos se definen en el diccionario como _auxiliar_, _copulativo_, _transitivo_, _intransitivo_, _ambitransitivo agentivo_ o _ambitransitivo paciente_.
+Los verbos se definen en el diccionario como _auxiliares_, _copulativos_, _transitivos_, _intransitivos_ o _ambitransitivos_.
 
 #### Verbos auxiliares
 
-Los verbos auxiliares van inmediatamente seguidos de otro verbo, que puede ser omitido. En Globasa sólo hay tres verbos auxiliares: **abil** (poder), **ingay** (deber), **musi** (deber, tener que). 
+Los verbos auxiliares van seguidos inmediatamente de otro verbo, el cual puede omitirse. En Globasa sólo hay tres verbos auxiliares: **abil** (poder), **ingay** (debería), **musi** (deber, tener que).
 
 #### Verbos copulativos
 
-Los verbos copulativos unen el sujeto con su complemento. Sólo hay un puñado de verbos copulativos: **sen** (ser), **sencu** (llegar a ser, volverse), **sengi** (hacer que), **kwasisen** (parecer). 
+Los verbos copulativos vinculan el sujeto con su complemento. Actualmente hay 12 verbos copulativos: **sen** (ser), **xorsen** (convertirse, ponerse), **sencu** (convertirse, ponerse), **sengi** (hacer que sea), **kwasisen** (parecer), **okocu** (verse), **orecu** (oírse), **nasacu** (oler), **xetocu** (saber), **pifucu** (sentirse al tacto), **hisicu** (sentirse físicamente), **ganjoncu** (sentirse emocionalmente).
 
 #### Verbos transitivos
 
-Los verbos transitivos llevan complemento directo y rara vez lo omiten: **haja** (necesitar), **bujo** (capturar, atrapar), **gibe** (dar). 
+Los verbos transitivos llevan complemento directo: **haja** (necesitar), **bujo** (atrapar, capturar), **gibe** (dar). Sin embargo, ciertos verbos transitivos a veces o con frecuencia omiten el complemento directo: **doxo** (leer), **yam** (comer).
 
 #### Verbos intransitivos
 
-Los verbos intransitivos nunca llevan complemento directo: **idi** (ir), **konduta** (comportarse), **loka** (estar localizado). 
-
-#### Verbos ambitransitivos agentivos
-
-Los [verbos ambitransitivos agentivos](https://en.wikipedia.org/wiki/Ambitransitive_verb#Agentive) son verbos transitivos que a menudo omiten su complemento directo: **yam** (comer), **doxo** (leer), **lala** (cantar), **pawbu** (correr), **somno** (dormir), **haha** (reír). 
-
-**Mi yam (patato).**  
-Estoy comiendo (patatas).
-
-**Yu doxo (makale).**  
-Estás leyendo (un artículo).
-
-**Te lala (meli lala).**  
-Ella está cantando (un linda canción).
-
-**Imi le pawbu (maraton).**  
-Corrimos (un/una maratón). 
+Los verbos intransitivos no llevan complemento directo: **idi** (ir), **konduta** (comportarse), **loka** (estar situado). Sin embargo, ciertos verbos etiquetados como intransitivos pueden utilizarse como verbos transitivos con la misma palabra sustantivo/verbo repetida como complemento directo, o igualmente con un nombre propio o categoría de dicho sustantivo.
 
 **Mi le somno (lungo somno).**  
 Dormí (un largo sueño).
 
 **Yu le haha (sotipul haha).**  
-Reíste (con risa fuerte). 
+Te reíste (una risa fuerte).
 
-#### Verbos ambitransitivos pacientes
+**Te xa lala (Hox Xencudin).**  
+Ella cantará (Feliz cumpleaños).
 
-Los [verbos ambitransitivos pacientes](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) son verbos en los que tanto el sujeto de la interpretación intransitiva como el complemento directo de la interpretación transitiva experimentan la misma acción/estado del verbo. La interpretación intransitiva de estos verbos puede llevar **-cu** opcionalmente y la interpretación transitiva puede llevar **-gi** opcionalmente. 
+**Te danse (tango).**  
+Él baila (tango).
 
-* **esto(cu)** - parar (_llegar a un parada_)  
-**esto(gi)** - parar (_hacer parar_)
+En teoría, todos los verbos intransitivos pueden usarse de forma transitiva con el uso opcional de **-gi**, aunque puede ser una mejor práctica aplicar **-gi** en la mayoría de los casos.
+
+**Kam yu fley(gi) hawanavi?**  
+¿Vuelas aviones?
+
+**Mi xa sampo(gi) bwaw fe axam.**  
+Pasearé al perro por la noche.
+
+#### Verbos ambitransitivos
+
+Los [verbos ambitransitivos](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) en Globasa son verbos para los cuales tanto el sujeto del significado intransitivo como el complemento directo del significado transitivo experimentan la misma acción o el mismo estado del verbo. Al significado intransitivo de estos verbos puede aplicársele opcionalmente **-cu** y el significado transitivo puede aplicársele opcionalmente **-gi**. Hay tres subcategorías de verbos ambitransitivos: verbos de sentimiento, verbos sin agente y verbos de posición/ubicación o movimiento.
+
+_Verbos de sentimiento_
+
+Los verbos ambitransitivos que denotan un sentimiento significan _sentir [sustantivo raíz] o hacer sentir [sustantivo raíz]_.  
+
+* **interes(cu)** - estar/sentirse interesado (sentir interés)  
+**interes(gi)** - interesar (hacer sentir interés)
+
+**Mi interes(cu) tem basalogi.**  
+Estoy interesado en la lingüística.
+
+**Basalogi interes(gi) mi.**  
+La lingüística me interesa.
+
+* **pilo(cu)** - estar/sentirse cansado (sentir fatiga)  
+**pilo(gi)** - cansar (hacer sentir fatiga)
+
+**Te pilo(cu).**  
+Ella está (o se siente) cansada.
+
+**Tesu ergo pilo(gi) te.**  
+Su trabajo la cansa.
+
+El prefijo **xor-** puede utilizarse con verbos de sentimiento para expresar la siguiente distinción:
+
+**Mi le interes tem basalogi lefe multi nyan.**  
+Estuve interesado en la lingüística hace muchos años.
+
+**Te le pilo dur na ergo.**  
+Ella estaba cansada mientras trabajaba.
+
+en comparación con:
+
+**Mi le xorinteres tem basalogi lefe multi nyan.**  
+Me interesé por la lingüística hace muchos años.
+
+**Te le xorpilo dur na ergo.**  
+Ella se cansó mientras trabajaba.
+
+_Verbos sin agente_
+
+En el significado intransitivo de los verbos ambitransitivos sin agente, la acción es algo que le sucede al sujeto en lugar de algo que el sujeto realiza.
+
+* **kasiru(cu)** - romper (_romperse_)  
+**kasiru(gi)** - romper (_causa de romper_)  
+
+**Janela le kasiru(cu).**  
+La ventana se rompió.
+
+**Mi le kasiru(gi) janela.**  
+Rompí la ventana.
+
+* **buka(cu)** - abrir (_abrirse_)  
+**buka(gi)** - abrir (_hacer abrir_)  
+
+**Dwer le buka(cu).**  
+La puerta se abrió.
+
+**Mi le buka(gi) dwer.**  
+Abrí la puerta.
+
+_Verbos de posición/ubicación o movimiento_
+
+En la significado intransitivo de los verbos ambitransitivos de posición/ubicación o movimiento, el sujeto es a la vez agente y paciente.
+
+* **esto(cu)** - parar (_detenerse_)  
+**esto(gi)** - parar (_hacer parar o hacer parar_)
 
 **Am esto(cu)!**  
-¡Para!
+¡Detente!
 
 **Am esto(gi) mobil!**  
-¡Para el auto!
-  
-* **harka(cu)** - moverse (_hacer un movimiento_)  
-**harka(gi)** - mover (_hacer que se mueva_)
+¡Detén el coche!
+
+* **harka(cu)** - mover (_hacer un movimiento_)  
+**harka(gi)** - mover (_hacer mover_)
 
 **Am no harka(cu)!**  
 ¡No te muevas!
 
 **Mi le harka(gi) yusu kursi.**  
-Moví tu silla. 
+He movido tu silla.
 
-* **kasiru(cu)** - romperse  
-**kasiru(gi)** - romper (_hacer que se rompa_)
+Los tres verbos de esta subcategoría a continuación también utilizan **xor-** como se ha visto anteriormente para hacer una distinción similar en el significado:
 
-**Janela le kasiru(cu).**  
-La ventana se rompió. 
+* **side(cu)** - estar sentado, sentarse  
+**side(gi)** - sentar  
 
-**Mi le kasiru(gi) janela.**  
-Rompí la ventana.
+**Te side(cu) fe fronta de darsu-kamer.**  
+Está sentado al frente de la clase.  
 
-* **buka(cu)** - abrirse  
-**buka(gi)** - abrir (_hacer que se abra_)
+**Am side(gi) bebe per hin kursi.**  
+Sienta al bebé en esta silla.
 
-**Dwer le buka(cu).**   
-La puerta se abrió.
+* **xorside(cu)** - sentarse (tomar asiento)
 
-**Mi le buka(gi) dwer.**   
-Abrí la puerta.
+**Am xorside per sofa.**  
+Siéntate en el sofá.
 
-* **sokutu(cu)** - caer(se)  
-**sokutu(gi)** - dejar caer, tumbar  
+* **estay(cu)** - estar de pie, estar parado  
+**estay(gi)** - poner de pie, pararse, incorporarse
 
-**Kitabu le sokutu(cu).**    
-El libro se cayó. 
+**Yu estay(cu) per misu kamisa.**    
+Estás parado sobre mi camisa.
 
-**Mi le sokutu(gi) kitabu.**    
-Dejé caer el libro.
+**Am estay(gi) bebe.**  
+Pon al bebé de pie.
 
-* **resta(cu)** - quedarse, permanecer  
-**resta(gi)** - dejar (atrás)
+* **xorestay(cu)** - ponerse de pie
 
-**Am resta(cu) in ogar.**    
-Quédate en casa. 
+**Mi le xorestay denwatu hu te le inidi kamer.**  
+Me puse de pie cuando ella entró al cuarto.
 
-**Am resta(gi) kamisa in bao.**  
-Deja la camisa en la bolsa.
+* **leta(cu)** - estar acostado, acostarse, yacer  
+**leta(gi)** - acostar  
+
+**Myaw leta(cu) per dixan.**   
+El gato yace en el piso.
+
+**Mi xa leta(gi) bwaw per bistar.**    
+Voy a acostar al perro en la cama.
+
+* **xorleta(cu)** - acostarse
+
+**Am no xorleta per sofa.**  
+No te acuestes en el sofá. 
 
 ## Adjetivos/Adverbios
 
@@ -431,9 +501,6 @@ En algunos casos, el sustantivo concreto o contable se utiliza como verbo y el s
 * **imaje** - imagen(_sustantivo concreto_), imaginar (_verbo_)  
 **imajeya** - imaginación (_sustantivo abstracto_)
 
-* **magneto** - imán (_sustantivo concreto_), atraer (_verbo_)  
-**magnetoya** - atracción (_sustantivo abstracto_)
-
 * **turi** - viaje (_sustantivo contable_), viajar (_verbo_)  
 **turiya** - turismo (_sustantivo no contable_)
 
@@ -474,7 +541,7 @@ Etimología de **dure**: inglés, francés, alemán y español_
 
 ### Sufijo nominal/verbal -gi <a id="xafefikso_-gi"></a>
 
-El sufijo **-gi** puede aplicarse a adjetivos, verbos y sustantivos.
+El sufijo **-gi** puede aplicarse a adjetivos, sustantivos y verbos.
 
 #### Adjetivos
 
@@ -489,16 +556,6 @@ El sufijo **-gi** convierte los adjetivos en verbos transitivos.
 * **mor** - muerto  
 **morgi** - matar
 
-#### Verbos
-
-El sufijo **-gi** también se utiliza para convertir los verbos intransitivos, transitivos o ambitransitivos agentivos en verbos causativos (como se ve abajo) o se utiliza opcionalmente en verbos ambitransitivos pacientes (como se ve arriba, en [Categorías verbales](/gramati/inharelexi#falelexili_klase)).
-
-* **haha** - reír  
-**hahagi** - hacer reír (_hacer reír, causar/provocar risa_)
-
-* **yam** - comer  
-**yamgi** - alimentar (_hacer comer_)
-
 #### Sustantivos
 
 El sufijo **-gi** significa _hacer, transformar en_ cuando se añade a los sustantivos. 
@@ -512,9 +569,19 @@ El sufijo **-gi** significa _hacer, transformar en_ cuando se añade a los susta
 _El sufijo **-gi** se trunca de **gibe** (dar).  
 Etimología de **gibe**: inglés (give), alemán (geben, gibt) y mandarín (给 “gěi”)_
 
+#### Verbos
+
+El sufijo **-gi** también se utiliza para convertir los verbos intransitivos, transitivos o ambitransitivos agentivos en verbos causativos (como se ve abajo) o se utiliza opcionalmente en verbos ambitransitivos pacientes (como se ve arriba, en [Categorías verbales](/gramati/inharelexi#falelexili_klase)).
+
+* **haha** - reír  
+**hahagi** - hacer reír (_hacer reír, causar/provocar risa_)
+
+* **yam** - comer  
+**yamgi** - alimentar (_hacer comer_)
+
 ### Sufijo nominal/verbal -cu <a id="xafefikso_-cu"></a>
 
-El sufijo **-cu** se puede aplicar a adjetivos, verbos y sustantivos.
+El sufijo **-cu** puede aplicarse a adjetivos y sustantivos, además de a verbos, como se ha visto anteriormente en [Categorías de verbos](/gramati/inharelexi#falelexili_klase).
 
 #### Adjetivos
 
@@ -525,16 +592,6 @@ El sufijo **-cu** (volverse, convertirse, ponerse) convierte adjetivos en verbos
 
 * **mor** - muerto   
 **morcu** - morir (_convertirse en un muerto_)
-
-#### Verbos
-
-El sufijo **-cu**  puede también ser opcionalmente aplicado a verbos ambitransitivos pacientes (como se ve arriba, en [Categorías verbales](//gramati/inharelexi#falelexili_klase)) aunque en ciertos casos **-cu** se requiere para hacer una distinción.
-
-* **gami** - esposo/a (_sustantivo_); casarse (con) (_verbo_)  
-**gamicu** - boda (_sustantivo_); casarse (_verbo_)
-
-* **side** - sentarse (_estar sentado o hacer sentarse_), asiento  
-**sidecu** - sentarse (_tomar asiento_)
 
 #### Sustantivos
 
@@ -573,8 +630,8 @@ _Etimología of **-li**: francés (-el, -elle), español (-al), inglés (-al, -l
 
 La palabra **pul** significa _lleno_. Sin embargo, como sufijo **-pul** significa _con suficiente o más que suficiente_.
 
-* **jawgu** - cuidar, tener cuidado  
-**jawgupul** - cuidadoso
+* **humor** - humor
+**humorpul** - chistoso, gracioso
 
 * **hatari** - peligro   
 **hataripul** - peligroso

@@ -7,15 +7,11 @@ slug: vortospecoj
 ## Enhavaj Vortoj
 
 * **[falelexi](/gramati/inharelexi#falelexili_klase)** _(f)_ - verbo _(v)_
- * **linkuli falelexi** _(f.lin)_ - ligverbo _(v.lig)_
- * **ojetoli falelexi** _(f.oj)_ - transitiva verbo _(v.tr)_
- * **nenojetoli falelexi** _(f.nenoj)_ - netransitiva verbo _(v.netr)_
- * **oroojetoli falelexi** _(f.oro)_ - ambaŭtransitiva verbo _(v.amb)_
-<ul>
- * **aksyonli orofalelexi** _(f.oro.a)_ - aganta ambaŭtransitiva verbo _(v.amb.anta)_
- * **beaksyonli orofalelexi** _(f.oro.b)_ - agata ambaŭtransitiva verbo _(v.amb.ata)_ 
-</ul>
- * **sahayli falelexi** _(f.sah)_ - helpverbo _(v.help)_
+ * **linkuli falelexi** _(b.lin)_ - ligverbo _(v.lig)_
+ * **ojetoli falelexi** _(b.oj)_ - transitiva verbo _(v.tr)_
+ * **nenojetoli falelexi** _(b.nenoj)_ - netransitiva verbo _(v.netr)_
+ * **oroojetoli falelexi** _(b.oro)_ - (agata) ambaŭtransitiva verbo _(v.amb)_
+ * **sahayli falelexi** _(b.sah)_ - helpverbo _(v.help)_
 * **manerlexi** _(m)_ - adverbo _(adv)_
 * **namelexi** _(n)_ - substantivo _(s)_
  * **pornamelexi** _(pn)_ - pronomo _(pron)_
@@ -26,6 +22,7 @@ slug: vortospecoj
 * **sifalexi** _(s)_ - adjektivo _(adj)_
  * **suyali sifalexi** _(su s)_ - posedaj adjektivoj _(pos adj)_
 * **tosifulexi** _(t)_ - adjektivo/adverbo _(adj/adv)_
+ * **suli tosifulexi** _(su t)_ - propra adjektivo/adverbo _(prop adj/adv)_
 
 ## Funkciaj Vortoj
 

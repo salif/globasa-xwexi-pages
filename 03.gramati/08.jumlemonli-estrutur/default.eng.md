@@ -426,9 +426,9 @@ I don't like _the person you chose_.
 
 ## Non-relative Modifying Clauses
 
-Nouns are sometimes modified with clauses that are not relative, in other words, clauses that are not resumptive. In these clauses, either **hu** or **feki** may be used to introduce the clause.
+Nouns are sometimes modified with clauses that are not relative, in other words, clauses without a resumptive element. These clauses are introduced using **feki**.
 
-**Singa begude idey _hu/feki maux ger abil na sahay te_.**  
+**Singa begude idey _feki maux ger abil na sahay te_.**  
 The lion was tickled by the idea _that the mouse could help him_.
 
 ## Clauses with _feki_ instead of Relative Clauses with _hu_
