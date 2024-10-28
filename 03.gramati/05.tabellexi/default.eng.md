@@ -340,7 +340,7 @@ I saw how much rice you bought.
 "You have how many children?"  
 How many children do you have?
 
-(2) **Mi jixipel ku yu hare kenumer bete.**    
+(2) **Mi jixivole ku yu hare kenumer bete.**    
 "I wonder this: _You have how many children?_."  
 I wonder how many children you have.  
 
@@ -380,7 +380,7 @@ I know why you didn't go to the party.
 "You fixed the car how?"  
 How did you fix the car?
 
-(2) **Mi jixipel ku yu le xuli mobil kemaner.**    
+(2) **Mi jixivole ku yu le xuli mobil kemaner.**    
 I wonder this: _You fixed the car how?_."   
 I wonder how you fixed the car.  
 

@@ -342,7 +342,7 @@ Vi cuánto arroz compraste.
 "¿Tú tienes cuántos hijos?"  
 ¿Cuántos hijos tienes?
 
-(2) **Mi jixipel ku yu hare kenumer bete.**  
+(2) **Mi jixivole ku yu hare kenumer bete.**  
 "Me pregunto esto: _¿Tú tienes cuántos hijos?_".  
 Me pregunto cuántos hijos tienes. 
 
@@ -382,7 +382,7 @@ Yo sé por qué no fuiste a la fiesta.
 "¿Arreglaste el auto cómo?"  
 ¿Cómo arreglaste el auto?
 
-(2) **Mi jixipel ku yu le xuli mobil kemaner.**  
+(2) **Mi jixivole ku yu le xuli mobil kemaner.**  
 Me pregunto esto: _¿Arreglaste el carro cómo?_”.  
 Me pregunto cómo arreglaste el coche.
 

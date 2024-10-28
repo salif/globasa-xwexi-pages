@@ -3,9 +3,9 @@ title: Gramática
 media_order: 'ENG_Kompleto Gramati fe Globasa_Mesi 11 2023.pdf,SPA_Kompleto Gramati fe Globasa_Mesi 11 2023.pdf'
 ---
 
-Descargue el PDF de [_Gramática completa de Globasa_](SPA_Kompleto%20Gramati%20fe%20Globasa_Mesi%2009%202024.pdf).
+Descargue el PDF de [_Gramática completa del Globasa_](SPA_Kompleto%20Gramati%20fe%20Globasa_Mesi%2010%202024.pdf).
 
-Gramática completa de Globasa:
+Gramática completa del Globasa:
 * [Alfabeto y pronunciación](abece-ji-lafuzu)
 * [Palabras de contenido: Sustantivos, verbos, adjetivos y adverbios](inharelexi)
 * [Palabras de función: Conjunciones, preposiciones y adverbios de función](gramatilexi)

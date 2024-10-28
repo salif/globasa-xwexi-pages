@@ -1,9 +1,9 @@
 ---
 title: Grammar
-media_order: 'ENG_Kompleto Gramati fe Globasa_Mesi 09 2024.pdf,SPA_Kompleto Gramati fe Globasa_Mesi 09 2024.pdf'
+media_order: 'ENG_Kompleto Gramati fe Globasa_Mesi 10 2024.pdf,SPA_Kompleto Gramati fe Globasa_Mesi 10 2024.pdf'
 ---
 
-Download the [Complete Globasa Grammar](ENG_Kompleto%20Gramati%20fe%20Globasa_Mesi%2009%202024.pdf) PDF.
+Download the [Complete Globasa Grammar](ENG_Kompleto%20Gramati%20fe%20Globasa_Mesi%2010%202024.pdf) PDF.
 
 Complete Globasa Grammar:
 

@@ -630,7 +630,7 @@ _Etymology of **-li**: French (-el, -elle), Spanish (-al), English (-al, -ly), G
 
 The word **pul** means _full_. However, as a suffix **-pul** means _with enough or more than enough_.
 
-* **humor** - humor
+* **humor** - humor  
 **humorpul** - humorous, funny
 
 * **hatari** - danger  
