@@ -330,7 +330,7 @@ Consulte las reglas fonotácticas para palabras ordinarias.
 
 La coda en nombres propios puede terminar en cualquier consonante: **Madrid** (Madrid), etc. También pueden constar de hasta dos consonantes, incluso en la posición final de palabra: **Polska** (Polonia), **Budapest** (Budapest), etc.
 
-Las oclusivas dobles (coda-inicio) están permitidas en nombres propios: **vodka** (vodka), **futbol** (futbol), etc. Sin embargo, las oclusivas dobles que difieren sólo en la sonoridad no están permitidas y deben reducirse a una consonante o agregar una vocal epentética.
+Las oclusivas dobles (coda-inicio) están permitidas en nombres propios: **vodka** (vodka), **futbal** (futbol americano), etc. Sin embargo, las oclusivas dobles que difieren sólo en la sonoridad no están permitidas y deben reducirse a una consonante o agregar una vocal epentética.
 
 ### Advertencia con _w_ e _y_
 

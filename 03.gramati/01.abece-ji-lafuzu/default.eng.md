@@ -334,7 +334,7 @@ See phonotactic rules for ordinary words above.
 
 ### Coda
 
-The coda for proper nouns may end in any consonant: **Madrid** (Madrid), etc. They may also consist of up to two consonants, including in word-final position: **Polska** (Poland), **Budapest** (Budapest), etc. Coda-onset double stops are allowed in proper nouns: **vodka** (vodka), **futbol** (soccer, football), etc. However, double stops that differ only in voicing are not allowed and must either be reduced to one consonant or add an epenthetic vowel.  
+The coda for proper nouns may end in any consonant: **Madrid** (Madrid), etc. They may also consist of up to two consonants, including in word-final position: **Polska** (Poland), **Budapest** (Budapest), etc. Coda-onset double stops are allowed in proper nouns: **vodka** (vodka), **futbal** (American football), etc. However, double stops that differ only in voicing are not allowed and must either be reduced to one consonant or add an epenthetic vowel.  
 
 ### Caveat with w and y
 

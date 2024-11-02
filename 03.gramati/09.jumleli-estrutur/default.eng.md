@@ -164,7 +164,7 @@ The goal is to win.
 
 In these sentences, subject infinitive verb phrases may be moved to the end of the sentence. However, the pronoun **to** must take the place of the infinitive verb phrase and a comma must be added before relocated phrase.
 
-**Na sen nensabar sen problem.**   
+**Na sen nensabar sen problema.**   
 To be impatient is a problem.    
 _or_  
 **To sen problem, na sen nensabar.**   

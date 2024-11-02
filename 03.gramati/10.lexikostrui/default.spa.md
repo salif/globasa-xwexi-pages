@@ -20,7 +20,7 @@ Los prefijos no modifican la clase de palabra en las palabra con afijos. En camb
 
 ## Prefijos
 
-* **aw-:** no aquí o no allí [**awsenti** - ausente]
+* **aw-:** no aquí o no allí
  * **awidi** - irse (_idi_ - _ir_); **awglu** - bebérse (_glu_ - _beber_); **awpel** - ahuyentar (_pel_ - _impulsar/empujar, impulso/ímpetu_)
 * **awto-:** auto- (_automático_) [**awtomati** - automático]
  * **awtosahigi** - autocorrección (_sahi - correcto; sahigi - corregir_)
@@ -38,7 +38,7 @@ Los prefijos no modifican la clase de palabra en las palabra con afijos. En camb
  * **nenmuhim** - sin importancia (_muhim_ - _importante_); **nenkompleto** - incompleto (_kompleto_ - _completo_); **nenible** - imposible (_ible - posible_); **okonenible** - invisible (_oko - ver_); **imanunenible** - increíble (_imanu - creer_); **nensomno** - insomnio (_somno_ - _sleep_)
 * **pos-:** opuesto [**opos** - opuesto]
  * **possahay** - obstaculizar (_sahay_ - _ayuda_); **possukses** - fracaso (_sukses_ - _éxito_); **posdongwi** - no estar de acuerdo (_dongwi_ - _estar de acuerdo_); **posgami** - divorcio (_gami_ - _cónyuge/casarse_)
-* **pre:** aquí/allí, presente (los opuesto de _ausente_) [**presenti** - presente]
+* **pre:** aquí/allí, presente (lo opuesto de _ausente_)
  * **preata** - llegar (_ata_ - _venir_); **preporta** - traer, llevar (_porta_ - _llevar, trasladar_)
 * **ri-:** re- (otra vez)
  * **rieskri** - reescribir (_eskri_ - _escribir_); **riadresu** - reenviar (_adresu_ - _dirección_); **ridoxo** - releer (_doxo_ - _leer_)
@@ -87,7 +87,7 @@ Los prefijos no modifican la clase de palabra en las palabra con afijos. En camb
 * **entre:** entre, inter-
  * **intrenasyonli** - internacional (_nasyon_ - _nación_); **intrepala** - conversación (_pala_ - _hablar_); **intreaksyon** - interactuar/interacción (_aksyon_ - _actuar/acción_); **intrediskusi** - diálogo (_diskusi_ - _discutir_)
 * **le:** pasado
- * **lefe** - antes (_fe - en_)
+ * **lefe** - antes (_fe - at_); **legami** - ex cónyuge (_gami_ - _cónyuge_); **lepresidiyen** - ex presidente (_presidi_ - _presidir_)
 * **lefe:** pre-, anterior-
  * **lefeoko** - prever (_oko - ver_); **lefeloga** - predecir (_loga - decir_)
 * **moy:** cada, todo
@@ -119,8 +119,6 @@ Los prefijos no modifican la clase de palabra en las palabra con afijos. En camb
 ## Palabras adj/adv como cuasiprefijos en palabras compuestas
 
 Se pueden usar muchos adjetivos/adverbios para crear palabras compuestas. La siguiente lista incluye los adjetivos/adverbios de mayor uso en palabras compuestas.
-
-Los adjetivos/adverbios raíz generalmente se adjuntan a la palabra raíz principal, creando así palabras compuestas. En cambio, los adjetivos/adverbios derivados con **-li** (**leli**) generalmente se expresan como palabras separadas, creando así palabras cuasicompuestas.
 
 * **bon:** bueno; _en palabras compuestas:_ eu-, objetiva o moralmente bueno/bien
  * **bonata** - bienvenido (_ata_ - _venir_); **bonxanse** - buena suerte (_xanse_ - _oportunidad_, _suerte_); **bonlexi** - eufemismo (_lexi_ - _palabra_); **bonmorcu** - eutanasia (_morcu_ - _muerte_); **bonoko** - observa (_oko_ - _ojo/ver/mirar_); **bonore** - escuchar (_ore_ - _oír_)

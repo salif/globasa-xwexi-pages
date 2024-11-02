@@ -4,7 +4,7 @@ title: 'Още ресурси'
 
 ## Лексика
 
-[Memrise тестета за корени и афикси](https://app.memrise.com/course/6118879/globasa-affixes-and-roots/)
+[Memrise тестета за корени и афикси](https://community-courses.memrise.com/community/course/6118879/globasa-affixes-and-roots/)
 
 ## Граматика
 

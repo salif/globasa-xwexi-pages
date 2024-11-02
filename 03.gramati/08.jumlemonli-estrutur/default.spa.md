@@ -360,14 +360,14 @@ El día _cuando llegaré_ es el lunes.
 
 En lugar de adverbios correlativos, se pueden usar sintagmas preposicionales para expresar oraciones equivalentes.
 
-**Kitabudom _hu mi ergo in da_sen day.**  
+**Kitabudom _hu mi ergo in da_ sen day.**  
 "La biblioteca _que trabajo en ella_ es grande".  
 _o_  
 **Kitabudom _hu in da mi ergo_ sen day.**  
 "La biblioteca _que en ella trabajo_ es grande".  
 La biblioteca _en la que trabajo_ es grande.  
 
-**Din _hu mi xa preata fe da_sen Lunadin.**  
+**Din _hu mi xa preata fe da_ sen Lunadin.**  
 "El día _que llego en él_ es lunes".  
 _o_  
 **Din _hu fe da mi xa preata_ sen Lunadin.**  
@@ -426,10 +426,10 @@ No me gusta _la persona a quien elegiste_.
 
 ## Cláusulas modificadoras no relativas
 
-Los sustantivos a veces se modifican con cláusulas que no son relativas, en otras palabras, cláusulas que no son de reanudación. En estas cláusulas, se puede usar ya sea **hu** o **feki** (_de que_) para introducir la cláusula.
+Los sustantivos a veces se modifican con cláusulas que no son relativas, en otras palabras, cláusulas sin ningún elemento de reanudación. En este caso, se utiliza **feki** (_de que_) para introducir dichas cláusulas.
 
-**Singa begude idey _hu/feki maux ger abil na sahay te_.**  
-Al león le hizo cosquillas la idea de que el ratón pudiera ayudarlo.
+**Singa begude idey _feki maux ger abil na sahay te_.**  
+Al león le hizo cosquillas la idea _de que el ratón pudiera ayudarlo_.
 
 ## Cláusulas con _feki_ en lugar de cláusulas relativas con _hu_
 

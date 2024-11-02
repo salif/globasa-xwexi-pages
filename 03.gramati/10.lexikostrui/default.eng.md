@@ -20,7 +20,7 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 
 ## Prefixes
 
-* **aw-:** absent, away  [**awsenti** - absent]
+* **aw-:** absent, away
  * **awidi** - leave, go away (_idi_ - _go_); **awglu** - drink up (_glu_ - _drink_); **awpel** - drive away (_pel_ - _drive/push, impulse/impetus_)
 * **awto-:** auto- (_automatic_) [**awtomati** - automatic]
  * **awtosahigi** - autocorrect (_sahi - correct, right; sahigi - correct_)
@@ -38,7 +38,7 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
  * **nenmuhim** - unimportant (_muhim_ - _important_); **nenkompleto** - incomplete (_kompleto_ - _complete_); **nenible** - impossible (_ible - possible_);  **okonenible** - invisible (_oko - see_); **imanunenible** - unbelievable, incredible (_imanu - believe_); **nensomno** - insomnia (_somno_ - _sleep_)
 * **pos-:** opposite [**opos** - opposite]
  * **possahay** - hinder (_sahay_ - _help_); **possukses** - failure/fail (_sukses_ - _success_); **posdongwi** - disagree (_dongwi_ - _agree_); **posgami** - divorce (_gami_ - _spouse/marry_)
-* **pre:** here/there, present (as opposed to _away, absent_) [**presenti** - present]
+* **pre:** here/there, present (as opposed to _away, absent_)
  * **preata** - arrive (_ata_ - _come_); **preporta** - bring, take (_porta_ - _carry_)
 * **ri-:** re- (again)
  * **rieskri** - rewrite (_eskri_ - _write_); **riadresu** - forward (_adresu_ - _address_); **ridoxo** - reread (_doxo_ - _read_)
@@ -52,7 +52,7 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 * **-do:** in an inactive state of (turns nouns into _inactive adjectives_)
  * **kasirudo** - broken (_kasiru_ - _break_); **klosido** - closed (_klosi_ - _close_); **estodo** - stopped (_esto_ - _stop_)
 * **-ne:** in the active process of (turns verbs into _active adjectives_)
- * **somnone** - sleeping (_somno_ - _sleep_); **interesne** - interesing (_interes_ - _interest_); **amusane** - amusing, fun (_amusa_ - _amuse_)
+ * **somnone** - sleeping (_somno_ - _sleep_); **interesne** - interesting (_interes_ - _interest_); **amusane** - amusing, fun (_amusa_ - _amuse_)
 * **-ple:** multiple
  * **duaple** - double (_dua_ - _two_); **tigaple** - triple (_tiga_ - _three_); **careple** - quadruple (_care_ - _four_)
 * **-yum:** _ordinal numbers_
@@ -87,7 +87,7 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 * **intre:** between, inter-
  * **intrenasyonli** - international (_nasyon_ - _nation_); **intrepala** - conversation (_pala_ - _speak, talk_); **intreaksyon** - interact/interaction (_aksyon_ - _act/action_); **intrediskusi** - dialogue (_diskusi_ - _discuss/discussion_)
 * **le:** past
- * **lefe** - before (_fe - at_)
+ * **lefe** - before (_fe - at_); **legami** - ex-spouse (_gami_ - _spouse_); **lepresidiyen** - ex-president (_presidi_ - _preside_)
 * **lefe:** pre-, fore-
  * **lefeoko** - foresee (_oko - see_); **lefeloga** - foretell, predict (_loga - say/tell_)
 * **moy:** every, all
@@ -120,8 +120,6 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 
 Many adjective/adverbs may be used to create compounds. The following list includes the most commonly used adjective/adverbs in compounds.
 
-Root adjective/adverbs are typically attached to the main root word, creating compounds. On the other hand, derived adjective/adverbs with **-li** (**leli**) are typically expressed as separate words, creating quasi-compounds.
-
 * **bon:** good; _in compounds:_ eu-, objectively or morally good/well
  * **bonata** - welcome (_ata_ - _come_); **bonxanse** - good luck (_xanse_ - _chance_, _luck_); **bonlexi** - euphemism (_lexi_ - _word_); **bonmorcu** - euthanasia (_morcu_ - _death_); **bonoko** - observe, watch (_oko_ - _eye/see/look_); **bonore** - listen (_ore_ - _ear/hear_)
 * **bur:** bad; _in compounds:_ objectively or morally bad 
@@ -144,8 +142,6 @@ Root adjective/adverbs are typically attached to the main root word, creating co
  * **lamahistori** - ancient history (_histori_ - _history_)
 * **lao:** old [_opp_ **juni**]
  * **laoatre** - ancestor, forefather, foremother (_atre_ - _parent_); **laonini** - teen, adolescent (_nini_ - _kid_, _child_); **laodaypatre**/**laodaypapa** - great grandfather/great grandpa (_daypatre_ - _grandfather_; _daypapa_ - _grandpa_)
-* **leli:** former; _in compounds:_ ex-
- * **leli gami** - ex-spouse (_gami_ - _spouse_); **leli presidiyen** - ex-president (_presidi_ - _preside_)
 * **lil:** small, little; _in compounds:_ diminutive
  * **lilhaha** - giggle (_haha_ - _laugh_); **lilbaytu** - hut, cottage (_baytu_ - _house_); **lilnahir** - stream (_nahir_ - _river_)
 * **mal:** wrong; _in compounds:_ mis- 

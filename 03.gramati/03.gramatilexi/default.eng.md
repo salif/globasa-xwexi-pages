@@ -168,14 +168,10 @@ Mary's is big.
 
 ## Function Words of Time
 
-* **[dure](https://menalari.globasa.net/eng/lexi/dure)** - (_n_) duration; (_v_) last, have a duration of
- * **fe dure** - in the meantime, meanwhile
- * **fe dure fe**; **[dur](https://menalari.globasa.net/eng/lexi/dur)** - during, for _+ noun phrase_
- <ul>
+* **[dur](https://menalari.globasa.net/eng/lexi/dur)** - during, for _+ noun phrase_
  * **dur** (**moyun**) - per
  * **dur na** - while _+ -ing verb phrase_
- </ul>
- * **fe dure ki**; **durki** - while _+ sentence_
+ * **durki** - while _+ sentence_
 * **[fin-](https://menalari.globasa.net/eng/lexi/fin-)** - (_prefix_) end, come to [**fini** - finish/end]
  * **finfe** - (_prep_) until _+ noun phrase_
  * **finki** - (_conj_) until _+ sentence_
@@ -263,7 +259,7 @@ Mary's is big.
 * **[hata](https://menalari.globasa.net/eng/lexi/hata)** - even
  * **no hata** - not even
  * **fe hataya** - even so, however, nevertheless, nonetheless, in spite of that
- * **fe hataya de** - in spite of, despite _+ noun phrase_
+ * **fe hataya fe** - in spite of, despite _+ noun phrase_
  * **fe hataya na** in spite of _+ -ing verb phrase_
  * **fe hataya ki** - even though, although, despite the fact that _+ sentence_
 * **[pia](https://menalari.globasa.net/eng/lexi/pia)** - also
@@ -275,7 +271,7 @@ Mary's is big.
 * **[denmo](https://menalari.globasa.net/eng/lexi/denmo)... kom...**  - as... as...
 * **[max](https://menalari.globasa.net/eng/lexi/max)** - more
  * **maxpul** - additional, extra, another; additionally, moreover, further, furthermore
- * **ji max to** - et cetera
+ * **ji max (o)to/(e)te** - et cetera
 * **max... kom...** - more (_a greater number of_, _a greater amount_)... + _noun/verb_ than...
 * **maxmo... kom...** - more (_to a greater degree_)... + _adj/adv_ than...
 * **[denkwanti](https://menalari.globasa.net/eng/lexi/denkwanti)... kom...** - as much as

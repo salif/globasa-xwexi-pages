@@ -184,9 +184,9 @@ visible: true
   </tr>
   <tr>
    <th><b><i>emphatic</i></b><br><br><b>he</b> -<br>any, -ever</th>
-    <td><b>he keto</b><br>whatever, whichever</td>
-    <td><b>he hinto</b><br>any of these<br>whichever</td>
-    <td><b>he dento</b><br>any of those<br>whichever</td>
+    <td><b>he keto</b><br>what ever</td>
+    <td><b>he hinto</b><br>this specific one</td>
+    <td><b>he dento</b><br>that specific one</td>
     <td><b>he banto</b><br>anything</td>
     <td><b>he moyto</b><br>everything <br>and anything</td>
 <td><b>he nilto</b><br>not any,<br>not a single one</td>
@@ -213,7 +213,7 @@ In the sentence above, **nasacu** marks the end of the noun phrase.
 
 ## _kekwanti_, _kenumer_
 
-Likewise, **kekwanti** (what quantity _of_) and **kenumer** (what number _of_) must also always be followed by a noun or otherwise **te** or **to** when a noun is understood and not specified.
+Likewise, **kekwanti** (what quantity _of_) and **kenumer** (what number _of_) must also be followed by **te** or **to** when a noun is understood and not specified.
 
 **kenumer bon lala** - how many good songs  
 vs  
@@ -340,7 +340,7 @@ I saw how much rice you bought.
 "You have how many children?"  
 How many children do you have?
 
-(2) **Mi jixipel ku yu hare kenumer bete.**    
+(2) **Mi jixivole ku yu hare kenumer bete.**    
 "I wonder this: _You have how many children?_."  
 I wonder how many children you have.  
 
@@ -380,7 +380,7 @@ I know why you didn't go to the party.
 "You fixed the car how?"  
 How did you fix the car?
 
-(2) **Mi jixipel ku yu le xuli mobil kemaner.**    
+(2) **Mi jixivole ku yu le xuli mobil kemaner.**    
 I wonder this: _You fixed the car how?_."   
 I wonder how you fixed the car.  
 
@@ -407,7 +407,7 @@ Correlative phrasal conjunctions end in **-loka**, **-watu**, **-seba** and **-m
 **Mi ergo _denloka hu yu ergo_.**    
 I work _where you work_.
 
-**Mi xa preata _denwatu hu yamsen jumbi_.** _or_ **_Denwatu hu yam sen jumbi_, mi xa preata.**    
+**Mi xa preata _denwatu hu yam sen jumbi_.** _or_ **_Denwatu hu yam sen jumbi_, mi xa preata.**    
 I will arrive _when the meal is ready_. _or_ _When the meal is ready_, I will arrive.
 
 **Mi le no idi cel parti _denseba hu yu idi_.**    

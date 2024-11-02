@@ -185,8 +185,8 @@ visible: true
   <tr>
    <th><b><i>enfático</i></b><br><br><b>él</b> -<br>cualquiera</th>
     <td><b>he keto</b><br>qué</td>
-    <td><b>he hinto</b><br>cualquiera de estos<br>lo que sea</td>
-    <td><b>he dento</b><br>cualquiera de esos<br>cualquiera</td>
+    <td><b>he hinto</b><br>éste en específico</td>
+    <td><b>he dento</b><br>ése en específico</td>
     <td><b>he banto</b><br>cualquier cosa</td>
     <td><b>he moyto</b><br>todo <br>y cada cosa</td>
 <td><b>he nilto</b><br>ninguno,<br>ni uno solo</td>
@@ -213,9 +213,9 @@ En la oración anterior, **nasacu** marca el final del sintagma nominal.
 
 ## _kekwanti_, _kenumer_
 
-Asimismo, **kekwanti** (qué cantidad _de_) y **kenumer** (qué número _de_) también deben ir siempre seguidos de un sustantivo o, en su ausencia, de **te** o **to** cuando se sobreentiende un sustantivo no especificado.
+Asimismo, **kekwanti** (qué cantidad _de_) y **kenumer** (qué número _de_) también deben ir seguidos de **te** o **to** cuando se sobreentiende un sustantivo no especificado.
 
-**kenumer bon lala** - cuantas buenas canciones  
+**kenumer bon lala** - ¿cuántas buenas canciones?  
 
 en comparación con  
 
@@ -342,7 +342,7 @@ Vi cuánto arroz compraste.
 "¿Tú tienes cuántos hijos?"  
 ¿Cuántos hijos tienes?
 
-(2) **Mi jixipel ku yu hare kenumer bete.**  
+(2) **Mi jixivole ku yu hare kenumer bete.**  
 "Me pregunto esto: _¿Tú tienes cuántos hijos?_".  
 Me pregunto cuántos hijos tienes. 
 
@@ -382,7 +382,7 @@ Yo sé por qué no fuiste a la fiesta.
 "¿Arreglaste el auto cómo?"  
 ¿Cómo arreglaste el auto?
 
-(2) **Mi jixipel ku yu le xuli mobil kemaner.**  
+(2) **Mi jixivole ku yu le xuli mobil kemaner.**  
 Me pregunto esto: _¿Arreglaste el carro cómo?_”.  
 Me pregunto cómo arreglaste el coche.
 

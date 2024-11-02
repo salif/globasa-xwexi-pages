@@ -27,7 +27,7 @@ Haz click [aquí](/gramati/pronamelexi) para ver Pronombres. Haz click [aquí](/
 **Fe** es opcional con la mayoría de las expresiones de tiempo, como se muestra en los siguientes ejemplos:
 
 (**fe**) **ban mara** - en cierta ocasión, una vez, alguna vez  
-(**fe**) **duli mara** - a veces, en ocasión
+(**fe**) **duli mara** - a veces, en ocasión  
 (**fe**) **hin mara** - esta vez  
 (**fe**) **hin momento** - en este momento  
 (**fe**) **Lunadin** - (el) lunes  
@@ -167,12 +167,10 @@ La de María es grande.
  
 ## Palabras de función de tiempo
 
-* **[dure](https://menalari.globasa.net/eng/lexi/xor-sa.net/spa/lexi/dure)** - (_n_) duración; (_v_) durar, tener una duración de
- * **fe dure** - mientras tanto
- * **fe dure fe**; **[dur](https://menalari.globasa.net/spa/lexi/dur)** - durante, por _+ sintagma nominal_
+* **[dur](https://menalari.globasa.net/spa/lexi/dur)** - durante, por _+ sintagma nominal_
  * **dur** (**moyun**) - por
  * **dur na** - mientras _+ sintagma verbal_
- * **fe dure ki**; **durki** - mientras _+ cláusula_
+ * **durki** - mientras _+ cláusula_
 * **[fin-](https://menalari.globasa.net/spa/lexi/fin-)** - (_prefijo_) hasta el fin [**fini** - terminar]
  * **finfe** - (_prep_) hasta _+ sintagma nominal_
  * **finki** - (_conj_) hasta _+ cláusula_
@@ -252,7 +250,7 @@ La de María es grande.
 * **[hata](https://menalari.globasa.net/spa/lexi/hata)** - incluso, hasta
  * **no hata** - ni siquiera
  * **fe hataya** - aun así, sin embargo, no obstante, a pesar de eso
- * **fe hataya de** - a pesar de _+ sintagma nominal_
+ * **fe hataya fe** - a pesar de _+ sintagma nominal_
  * **fe hataya na** a pesar de _+ sintagma verbal_
  * **fe hataya ki** - aunque, a pesar de que _+ cláusula_
 * **[pia](https://menalari.globasa.net/spa/lexi/pia)** - también
@@ -264,7 +262,7 @@ La de María es grande.
 * **[denmo](https://menalari.globasa.net/spa/lexi/denmo)... kom...** - tan... como...
 * **[max](https://menalari.globasa.net/spa/lexi/max)** - más
  * **maxpul** - adicional, extra, otro; además
- * **ji max to** - etcétera
+ * **ji max (o)to/(e)te** - etcétera
 * **max... kom...** - más (_un mayor número de_, _una mayor cantidad_)... + _sustantivo/verbo_ que...
 * **maxmo... kom...** - más (_en mayor grado_)... + _adj/adv_ que...
 * **[denkwanti](https://menalari.globasa.net/spa/lexi/denkwanti)... kom...** - tanto como

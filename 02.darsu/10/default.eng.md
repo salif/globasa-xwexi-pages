@@ -106,7 +106,7 @@ Everybody is dancing.
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-Plu myaw sen in ergodom de etesu matre. Matre vole na ore moy sesu bete.
+Plu myaw sen in ergodom de sesu matre. Matre vole na ore moy sesu bete.
 
 Matre loga, "Uyu le ergo fe keto?"  
 Myaw un loga, "Mi le polisi. Mi le anda ji oko moyloka."    
