@@ -212,19 +212,19 @@ Verbs are defined in the dictionary as _auxiliary_, _copula_, _transitive_, _int
 
 #### Auxiliary Verbs
 
-Auxiliary verbs are immediately followed by another verb, which may be omitted. There are only three auxiliary verbs in Globasa: **abil** (can, able to), **ingay** (should, ought to), **musi** (must, have to). 
+_Auxiliary verbs_ are immediately followed by another verb, which may be omitted. There are only three _auxiliary verbs_ in Globasa: **abil** (can, able to), **ingay** (should, ought to), **musi** (must, have to). 
 
 #### Copula Verbs
 
-Copula verbs link the subject to its complement. There are currently 12 copula verbs: **sen** (be), **xorsen** (become), **sencu** (become), **sengi** (cause to be), **kwasisen** (seem), **okocu** (look), **orecu** (sound), **nasacu** (smell), **xetocu** (taste), **pifucu** (feel to touch), **hisicu** (feel physically), **ganjoncu** (feel emotionally). 
+_Copula verbs_ link the subject to its complement. There are currently 12 _copula verbs_: **sen** (be), **xorsen** (become), **sencu** (become), **sengi** (cause to be), **kwasisen** (seem), **okocu** (look), **orecu** (sound), **nasacu** (smell), **xetocu** (taste), **pifucu** (feel to touch), **hisicu** (feel physically), **ganjoncu** (feel emotionally). 
 
 #### Transitive Verbs
 
-Transitive verbs take a direct object: **haja** (need), **bujo** (catch, capture), **gibe** (give). However, certain transitive verbs will sometimes or often omit the direct object: **doxo** (read), **yam** (eat). 
+_Transitive verbs_ take a direct object: **haja** (need), **bujo** (catch, capture), **gibe** (give). However, certain _transitive verbs_ will sometimes or often omit the direct object: **doxo** (read), **yam** (eat). 
 
 #### Intransitive Verbs
 
-Intransitive verbs do not take a direct object: **idi** (go), **konduta** (behave), **loka** (be located). However, certain verbs labeled as intransitive may be used as transitive verbs with the same noun/verb word repeated as the direct object, or likewise with a proper noun or category of said noun.
+_Intransitive verbs_ do not take a direct object: **idi** (go), **konduta** (behave), **loka** (be located). However, certain verbs labeled as intransitive may be used as _transitive verbs_ with the same noun/verb word repeated as the direct object, or likewise with a proper noun or category of said noun.
 
 **Mi le somno (lungo somno).**  
 I slept (a long sleep).
@@ -238,7 +238,7 @@ She will sing (Happy Birthday).
 **Te danse (tango).**  
 He's dancing (tango).
 
-In theory, all intransitive verbs may be used transitively with an optional use of **-gi**, although it may be a better practice to apply **-gi** in most cases.  
+In theory, all other _intransitive verbs_ may be used transitively with an optional use of **[-gi](/gramati/inharelexi#xafefikso_-gi)**, although it may be a better practice to apply **-gi** in most cases.  
 
 **Kam yu fley(gi) hawanavi?**  
 Do you fly aircraft?
@@ -248,31 +248,31 @@ I will walk the dog in the evening.
 
 #### Ambitransitive Verbs 
 
-[Ambitransitive verbs](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) in Globasa are verbs for which both the subject of the intransitive meaning and the direct object of the transitive meaning experience the same action/state of the verb. The intransitive meaning of these verbs may optionally apply **-cu** and the transitive meaning may optionally apply **-gi**. There are three subcategories of ambitransitive verbs: verbs of feeling, agentless verbs, and verbs of position/location or movement. 
+[_Ambitransitive verbs_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) in Globasa are verbs for which both the subject of the intransitive meaning and the direct object of the transitive meaning experience the same action/state of the verb. The intransitive meaning of these verbs may optionally apply **[-cu](/gramati/inharelexi#xafefikso_-cu)** and the transitive meaning may optionally apply **[-gi](/gramati/inharelexi#xafefikso_-gi)**. See **-cu** and **-gi** below under _Common Affixes_. There are four subcategories of _ambitransitive verbs_: _verbs of feeling_, _verbs of state_, _agentless verbs_, and _verbs of position/location or movement_. 
 
 _Verbs of Feeling_
 
-Ambitransitive verbs denoting a feeling mean _to feel [root noun] or cause to feel [root noun]_.  
+_Ambitransitive verbs_ denoting a feeling mean _to feel [root noun] or cause to feel [root noun]_. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root noun]_**-do**. See **[-do](/gramati/inharelexi#xafefikso_-do)** below.
 
-* **interes(cu)** - be/feel interested (feel interest)  
-**interes(gi)** - interest (cause to feel interest)
+* **interes(cu)** - be/feel interested (_feel interest_)  
+**interes(gi)** - interest (_cause to feel interest_)
 
-**Mi interes(cu) tem basalogi.**  
+**Mi interes(cu) tem basalogi.** = **Mi sen interesdo tem basalogi.**  
 I'm interested in linguistics.
 
 **Basalogi interes(gi) mi.**  
 Linguistics interests me.
   
-* **pilo(cu)** - be/feel tired (feel fatigue)   
-**pilo(gi)** - tire (cause to feel fatigue)
+* **pilo(cu)** - be/feel tired (_feel fatigue_)   
+**pilo(gi)** - tire (_cause to feel fatigue_)
 
-**Te pilo(cu).**  
+**Te pilo(cu).** = **Te sen pilodo.**  
 She is/feels tired.
 
 **Tesu ergo pilo(gi) te.**  
 Her work tires her.
 
-The prefix **xor-** may be used with verbs of feeling to express the following distinction:
+The prefix **xor-** may be used with _verbs of feeling_ to express the following distinction:
 
 **Mi le interes tem basalogi lefe multi nyan.**  
 I was interested in linguistics many years ago.
@@ -288,9 +288,48 @@ I became interested in linguistics many years ago.
 **Te le xorpilo dur na ergo.**  
 She got/became tired while working.
 
+_Verbs of State_
+
+_Ambitransitive verbs of state_ are similar _verbs of feeling_. They are _nouns of state_ that can be used as _ambitransitive verbs_ meaning _to have [noun root] or to cause to have [noun root]_. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root noun]_**-pul**. See **[-pul](/gramati/inharelexi#xafefikso_-pul)** below. 
+
+* **termo(cu)** - be hot/warm (_have heat_)  
+**termo(gi)** - heat (_cause to have heat_)  
+
+**Misu kafe no haji termo.** = **Misu kafe no haji sen termopul.**  
+My coffee isn't hot any longer.
+
+**Kam yu le termo banyo-kamer?**  
+Did you warm up the bathroom?
+
+* **cinon(cu)** - be intelligent (_have intelligence_)  
+**cinon(gi)** - make intelligent (_cause to have intelligence_)  
+
+**Syensiyen cinon.** = **Syensiyen sen cinonpul.**  
+The scientist is intelligent. 
+
+**Eskol le cinon te.**  
+The school made him smart.  
+
+* **talento(cu)** - be talented (_have talent_)  
+**talento(gi)** - make talented (_cause to have talent_)  
+
+**Lalayen talento.** = **Lalayen sen talentopul.**  
+The singer is talented.
+
+**Patre le talento lalayen.**  
+The father made the singer talented.
+
+The prefix **xor-** may be used with _verbs of state_ to express the following distinction:
+
+**Jaledin le termo.** = **Jaledin le sen termopul.**  
+Yesterday was warm
+
+**To le xortermo fe midinuru.** = **To le xorsen/sencu termopul fe midinuru.**  
+It got/became warm at noon. 
+
 _Agentless Verbs_
 
-In the intransitive meaning of agentless ambitransitive verbs, the action is something that happens to the subject rather than something the subject performs. 
+In the intransitive meaning of _agentless ambitransitive verbs_, the action is something that happens to the subject rather than something the subject performs. 
 
 * **kasiru(cu)** - break (_get broken_)  
 **kasiru(gi)** - break (_cause to break_)  
@@ -312,7 +351,7 @@ I opened the door.
 
 _Verbs of Position/Location or Movement_
 
-In the intransitive meaning of ambitransitive verbs of position/location or movement the subject is both agent and patient. 
+In the intransitive meaning of _ambitransitive verbs of position/location or movement_ the subject is both agent and patient. 
 
 * **esto(cu)** - stop (_come to a stop_)  
 **esto(gi)** - stop (_bring to a stop or cause to stop_)
@@ -334,8 +373,8 @@ I moved your chair.
 
 The following three verbs in this subcategory also use **xor-** as seen above to make a similar distinction in meaning:
 
-* **side(cu)** - sit (be seated/sitting)  
-**side(gi)** - seat (cause to sit)
+* **side(cu)** - sit (_be seated/sitting_)  
+**side(gi)** - seat (_cause to sit_)
 
 **Te side(cu) fe fronta de darsu-kamer.**   
 He's sitting at the front of the class.
@@ -348,7 +387,7 @@ Seat the baby on this chair.
 **Am xorside per sofa.**  
 Sit down on the sofa. 
   
-* **estay(cu)** - stand (be standing)  
+* **estay(cu)** - stand (_be standing_)  
 **estay(gi)** - (cause to) stand  
 
 **Yu estay(cu) per misu kamisa!**  
@@ -362,7 +401,7 @@ Stand the baby up.
 **Mi le xorestay denwatu hu te le inidi kamer.**  
 I stood up when she entered the room.
 
-* **leta(cu)** - lie (be lying)  
+* **leta(cu)** - lie (_be lying_)  
 **leta(gi)** - lay  
 
 **Myaw leta(cu) per dixan.**  
@@ -507,7 +546,7 @@ In some cases the concrete or count noun is used as a verb and the abstract or n
 Likewise, the body parts associated with the five senses denote the related action (_verb_), while **-ya** is used to derive the abstract noun.
 
 * **oko** - eye (_concrete noun_), see, look (_verb_)  
-**okoya** - sight _or_ sense of sight (_abstract noun_)
+**okoya** - view, sight _or_ sense of sight (_abstract noun_)
 
 * **ore** - ear (_concrete noun_), hear, listen (_verb_)  
 **oreya** - hearing _or_ sense of hearing (_abstract noun_)
