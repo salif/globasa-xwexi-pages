@@ -1,7 +1,7 @@
 ---
 title: Globasa-Xwexi
 permalink: /
-lang: x-glb
+lang: art-x-globasa
 ---
 
 ## basa:

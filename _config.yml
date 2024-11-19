@@ -17,9 +17,7 @@ baseurl: "/globasa-xwexi-pages"
 repository: "salif/globasa-xwexi-pages"
 lang: en
 
-author:
-  name: "Salif Mehmed"
-  url: "https://salif.eu"
+author: salif
 
 social:
   name: "Globasa-Xwexi"
@@ -37,8 +35,10 @@ defaults:
       type: "pages"
     values:
       lang: "en"
+      author: xwexi_globasa_net
   - scope:
       path: "./*.spa.md"
       type: "pages"
     values:
       lang: "es"
+      author: xwexi_globasa_net
