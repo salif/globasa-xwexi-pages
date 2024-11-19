@@ -1,9 +1,9 @@
 ---
 title: Граматика
-media_order: 'BUL_Kompleto Gramati fe Globasa_Mesi 10 2024.pdf,ENG_Kompleto Gramati fe Globasa_Mesi 10 2024.pdf,SPA_Kompleto Gramati fe Globasa_Mesi 10 2024.pdf'
+media_order: 'BUL_Kompleto Gramati fe Globasa_Mesi 11 2024.pdf,ENG_Kompleto Gramati fe Globasa_Mesi 11 2024.pdf,SPA_Kompleto Gramati fe Globasa_Mesi 11 2024.pdf'
 ---
 
-Изтеглете [Пълната граматика на глобаса](BUL_Kompleto%20Gramati%20fe%20Globasa_Mesi%2010%202024.pdf) като PDF файл.
+Изтеглете [Пълната граматика на глобаса](BUL_Kompleto%20Gramati%20fe%20Globasa_Mesi%2011%202024.pdf) като PDF файл.
 
 Пълна граматика на глобаса:
 
