@@ -724,7 +724,7 @@ _Mientras leía su libro favorito,_ el niño se quedó dormido.
 
 Naturalmente, estas frases también pueden expresarse como cláusulas completas, a diferencia de las frases preposicionales.
 
-**_Dur te le doxo (sesu preferido kitabu),_ nini le xorsomno.**  
+**_Durki te le doxo (sesu preferido kitabu),_ nini le xorsomno.**  
 _Mientras leía (su libro favorito),_ el niño se quedó dormido.
 
 ### Adjetivos pasivos

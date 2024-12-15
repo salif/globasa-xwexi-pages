@@ -214,7 +214,7 @@ The lady dance _beautifully_.
 
 * However, if the sentence contains objects, the adverb phrase must immediately follow all objects.
 
-**Mi le gibe pesa cel coriyen _volekal_ koski mi le befobi ki te xa morgi mi.**  
+**Mi le gibe pesa tas coriyen _volekal_ koski mi le befobi ki te xa morgi mi.**  
 I gave the money to the thief _involuntarily_ because I feared he would kill me.
 
 Adverbs may also be moved to the start of the sentence, so long as there is a definite pause with the comma to separate the phrase from the rest of the sentence. Without the pause, the adjective/adverb could be mistakenly interpreted as modifying the subject.
