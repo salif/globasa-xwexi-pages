@@ -208,7 +208,7 @@ Sé más, cuanto/entre más leo.
 
 ### Categorías de verbos <a id="falelexili_klase"></a>
 
-Los verbos se definen en el diccionario como _auxiliares_, _copulativos_, _transitivos_, _intransitivos_ o _ambitransitivos_.
+Los verbos se definen en el diccionario como _auxiliares_, _copulativos_, _transitivos_, _intransitivos_ o _ambitransitivos_. Los sufijos que aparecen en esta sección (**-cu**, **-gi**, **-ne**, **-do**, **-pul**) se explican en la sección de [_Afijos comunes_](/gramati/inharelexi#pimpan_fikso). El prefijo **xor-** se explica en la sección de [_Formación de palabras: Prefijos_](/gramati/lexikostrui#lefefikso).
 
 #### Verbos auxiliares
 
@@ -216,43 +216,59 @@ Los _verbos auxiliares_ van seguidos inmediatamente de otro verbo, el cual puede
 
 #### Verbos copulativos
 
-Los _verbos copulativos_ vinculan el sujeto con su complemento. Actualmente hay 12 verbos copulativos: **sen** (ser), **xorsen** (convertirse, ponerse), **sencu** (convertirse, ponerse), **sengi** (hacer que sea), **kwasisen** (parecer), **okocu** (verse), **orecu** (oírse), **nasacu** (oler), **xetocu** (saber), **pifucu** (sentirse al tacto), **hisicu** (sentirse físicamente), **ganjoncu** (sentirse emocionalmente).
+Los _verbos copulativos_ vinculan el sujeto con su complemento. Actualmente hay 12 verbos copulativos: **sen** (ser), **xorsen** (convertirse, ponerse), **sencu** (convertirse, ponerse), **sengi** (hacer que sea), **kwasisen** (parecer), **okocu** (verse), **orecu** (oírse), **nasacu** (oler), **xetocu** (saber), **pifucu** (sentirse al tacto), **hisicu** (sentirse físicamente o emocionalmente), **ganjoncu** (sentirse emocionalmente).
 
 #### Verbos transitivos
 
-Los _verbos transitivos_ llevan complemento directo: **haja** (necesitar), **bujo** (atrapar, capturar), **gibe** (dar). Sin embargo, ciertos _verbos transitivos_ a veces o con frecuencia omiten el complemento directo: **doxo** (leer), **yam** (comer).
+Los _verbos transitivos_ llevan complemento directo: **haja** (necesitar), **bujo** (atrapar, capturar), **gibe** (dar). Sin embargo, ciertos _verbos transitivos_ a veces o con frecuencia omiten el complemento directo: **doxo** (leer), **yam** (comer), **lala** (cantar), etc.
 
-#### Verbos intransitivos
-
-Los _verbos intransitivos_ no llevan complemento directo: **idi** (ir), **konduta** (comportarse), **loka** (estar situado). Sin embargo, ciertos verbos etiquetados como intransitivos pueden utilizarse como _verbos transitivos_ con la misma palabra sustantivo/verbo repetida como complemento directo, o igualmente con un nombre propio o categoría de dicho sustantivo.
+Algunos _verbos transitivos_ casi siempre aparecen sin complemento directo: **somno** (dormir), **haha** (reír), **pawbu** (correr), **fley** (volar), etc.
 
 **Mi le somno (lungo somno).**  
 Dormí (un largo sueño).
 
 **Yu le haha (sotipul haha).**  
-Te reíste (una risa fuerte).
+Reíste (una fuerte carcajada).
 
-**Te xa lala (Hox Xencudin).**  
-Ella cantará (Feliz cumpleaños).
+El sufijo **[-gi](/gramati/inharelexi#xafefikso_-gi)** puede aplicarse a los verbos transitivos con el significado _hacer [verbo raíz]_.
 
-**Te danse (tango).**  
-Él baila (tango).
-
-En teoría, todos los demás _verbos intransitivos_ pueden usarse de forma transitiva con el uso opcional de **[-gi](/gramati/inharelexi#xafefikso_-gi)**, aunque puede ser una mejor práctica aplicar **-gi** en la mayoría de los casos.
-
-**Kam yu fley(gi) hawanavi?**  
+**Kam yu fleygi hawanavi?**  
 ¿Vuelas aviones?
 
-**Mi xa sampo(gi) bwaw fe axam.**  
+**Mi xa sampogi bwaw fe axam.**  
 Pasearé al perro por la noche.
+
+**Payaco le hahagi mi.**  
+El payaso me hizo reír.
+
+#### Verbos intransitivos
+
+Los _verbos intransitivos_ no llevan complemento directo: **idi** (ir), **konduta** (comportarse), **loka** (estar situado), **side** (estar sentado), **garaku** (ahogarse, hundirse). Los verbos intransitivos pueden convertirse en verbos transitivos con el uso opcional de **[-gi](/gramati/inharelexi#xafefikso_-gi)** en presencia de un complemento directo.
+
+* **garaku** - ahogarse, hundirse  
+**garaku(gi)** - ahogar, hundir
+
+**Navikef le garaku.**  
+El capitán se ahogó.
+
+**Navikef le garaku(gi) navi.**  
+El capitán hundió el barco.
+
+Sin embargo, en la derivación de palabras, **[-gi](/gramati/inharelexi#xafefikso_-gi)** es obligatorio. Compáre los siguientes adjetivos derivados con **garaku** y el sufijo **[-ne](/gramati/inharelexi#xafefikso_-ne)**.
+
+**garakune navikef** - el capitán ahogándose
+
+**garakugine navikef** - el capitán hundiendo (el barco)
 
 #### Verbos ambitransitivos
 
-Los [_verbos ambitransitivos_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) en Globasa son verbos para los cuales tanto el sujeto del significado intransitivo como el complemento directo del significado transitivo experimentan la misma acción o el mismo estado del verbo. Al significado intransitivo de estos verbos puede aplicársele opcionalmente **[-cu](/gramati/inharelexi#xafefikso_-cu)** y el significado transitivo puede aplicársele opcionalmente **[-gi](/gramati/inharelexi#xafefikso_-gi)**. Véase **-cu** y **-gi** bajo _Afijos comunes_. Hay cuatro subcategorías de _verbos ambitransitivos_: _verbos de sentimiento_, _verbos de estado_, _verbos sin agente_, y _verbos de posición/ubicación o movimiento_.
+Los [_verbos ambitransitivos_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) en Globasa son verbos para los cuales tanto el sujeto del significado intransitivo como el complemento directo del significado transitivo experimentan la misma acción o el mismo estado del verbo. Al significado intransitivo de estos verbos puede aplicársele opcionalmente **[-cu](/gramati/inharelexi#xafefikso_-cu)** y el significado transitivo puede aplicársele opcionalmente **[-gi](/gramati/inharelexi#xafefikso_-gi)**.
+
+Existen cuatro subcategorías de _verbos ambitransitivos_: _verbos de sentimiento_, _verbos de estado_, _verbos sin agente_, y _verbos de posición/ubicación o movimiento_.
 
 _Verbos de sentimiento_
 
-Los _verbos ambitransitivos_ que denotan un sentimiento significan _sentir [raíz sustantiva] o hacer sentir [raíz sustantiva]_.  Nótese que el significado intransitivo también puede expresarse mediante una frase de cópula y adjectivo: **sen** _[raíz sustantiva]_**-do**. Véase **[-do](/gramati/inharelexi#xafefikso_-do)** bajo _Afijos comunes_.  
+Los _verbos ambitransitivos_ que denotan un sentimiento significan _sentir [raíz sustantiva] o hacer sentir [raíz sustantiva]_.  Nótese que el significado intransitivo también puede expresarse mediante una frase de cópula y adjectivo: **sen** _[raíz sustantiva]_**[-do](/gramati/inharelexi#xafefikso_-do)**.
 
 * **interes(cu)** - estar/sentirse interesado (_sentir interés_)  
 **interes(gi)** - interesar (_hacer sentir interés_)
@@ -290,7 +306,7 @@ Ella se cansó mientras trabajaba.
 
 _Verbos de estado_ 
 
-_Los verbos ambitransitivos de estado_ son similares a los _verbos de sentimiento_. Éstos son _sustantivos de estado_ que pueden utilizarse como _verbos ambitransitivos_ y que significan _tener [raíz sustantiva] o hacer que tenga [raíz sustantiva]_. Nótese que el significado intransitivo también puede expresarse mediante una frase de cópula y adjetivo: **sen** _[raíz sustantiva]_**-pul**. Véase **[-pul](/gramati/inharelexi#xafefikso_-pul)** bajo _Afijos comunes_.
+_Los verbos ambitransitivos de estado_ son similares a los _verbos de sentimiento_. Éstos son _sustantivos de estado_ que pueden utilizarse como _verbos ambitransitivos_ y que significan _tener [raíz sustantiva] o hacer que tenga [raíz sustantiva]_. Nótese que el significado intransitivo también puede expresarse mediante una frase de cópula y adjetivo: **sen** _[raíz sustantiva]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**. 
 
 * **termo(cu)** - estar caliente (_tener calor_)  
 **termo(gi)** - calentar (_hacer que tenga calor_) 
@@ -342,14 +358,23 @@ La ventana se rompió.
 **Mi le kasiru(gi) janela.**  
 Rompí la ventana.
 
-* **buka(cu)** - abrir (_abrirse_)  
-**buka(gi)** - abrir (_hacer abrir_)  
+* **boyle(cu)** - hervir  
+**boyle(gi)** - hervir (_hacer hervir_)
 
-**Dwer le buka(cu).**  
-La puerta se abrió.
+**Sui le boyle(cu).**  
+El agua hirvió.
 
-**Mi le buka(gi) dwer.**  
-Abrí la puerta.
+**Te le boyle(gi) sui.**  
+Ella hirvió el agua.
+
+* **fini(cu)** - terminarse, acabarse (_llegar a su fin_)  
+**fini(gi)** - terminar, poner fin a (_hacer que llegue a su fin_)  
+
+**Jange le fini(cu).**  
+La guerra terminó.
+
+**Ete le fini(gi) jange.**  
+Pusieron fin a la guerra.
 
 _Verbos de posición/ubicación o movimiento_
 
@@ -373,49 +398,20 @@ En la significado intransitivo de los _verbos ambitransitivos de posición/ubica
 **Mi le harka(gi) yusu kursi.**  
 He movido tu silla.
 
-Los tres verbos de esta subcategoría a continuación también utilizan **xor-** como se ha visto anteriormente para hacer una distinción similar en el significado:
+* **buka(cu)** - abrir (_abrirse_)  
+**buka(gi)** - abrir (_hacer abrir_)  
 
-* **side(cu)** - estar sentado, sentarse  
-**side(gi)** - sentar  
+**Dwer le buka(cu).**  
+La puerta se abrió.
 
-**Te side(cu) fe fronta de darsu-kamer.**  
-Está sentado al frente de la clase.  
+**Mi le buka(gi) dwer.**  
+Abrí la puerta.
 
-**Am side(gi) bebe per hin kursi.**  
-Sienta al bebé en esta silla.
+En la derivación de palabras, los verbos _ambitransitivos_ funcionan como _verbos transitivos_ sin necesidad de aplicar el sufijo **[-gi](/gramati/inharelexi#xafefikso_-gi)**. Sin embargo, cuando se utiliza el significado _intransitivo_ del verbo se requiere en la derivación de palabras, se debe aplicar el sufijo **[-cu](/gramati/inharelexi#xafefikso_-cu)**. Compáre los siguientes adjetivos derivados con **buka** y el sufijo **[-ne](/gramati/inharelexi#xafefikso_-ne)**:
 
-* **xorside(cu)** - sentarse (_tomar asiento_)
+**bukane merasem** - la ceremonia de apertura  
 
-**Am xorside per sofa.**  
-Siéntate en el sofá.
-
-* **estay(cu)** - estar de pie, estar parado  
-**estay(gi)** - poner de pie, pararse, incorporarse
-
-**Yu estay(cu) per misu kamisa.**    
-Estás parado sobre mi camisa.
-
-**Am estay(gi) bebe.**  
-Pon al bebé de pie.
-
-* **xorestay(cu)** - ponerse de pie
-
-**Mi le xorestay denwatu hu te le inidi kamer.**  
-Me puse de pie cuando ella entró al cuarto.
-
-* **leta(cu)** - estar acostado, acostarse, yacer  
-**leta(gi)** - acostar  
-
-**Myaw leta(cu) per dixan.**   
-El gato yace en el piso.
-
-**Mi xa leta(gi) bwaw per bistar.**    
-Voy a acostar al perro en la cama.
-
-* **xorleta(cu)** - acostarse
-
-**Am no xorleta per sofa.**  
-No te acuestes en el sofá. 
+**bukacune dwer** - la puerta abriéndose
 
 ## Adjetivos/Adverbios
 
@@ -501,7 +497,7 @@ Además de las palabras sustantivo/verbo y adjetivo/adverbio, Globasa tiene una 
 * **musi**: (verbo) debe, tiene que; (adj/adv) que debe, que tiene que  
 * **ingay**: (verbo) debería; (adj/adv) que debería
 
-## Afijos comunes
+## Afijos comunes <a id="pimpan_fikso"></a>
 
 ### Sufijo nominal -ya <a id="xafefikso_-ya"></a>
 
@@ -607,22 +603,16 @@ El sufijo **-gi** significa _hacer, transformar en_ cuando se añade a los susta
 * **korbani** - victima   
 **korbanigi** - victimizar
 
+#### Verbos
+
+El sufijo **-gi** también se utiliza para convertir verbos intransitivos y transitivos en verbos causativos, o se utiliza opcionalmente en verbos ambitransitivos, como se ha visto anteriormente en [_Categorías de verbos_](/gramati/inharelexi#falelexili_klase).
+
 _El sufijo **-gi** se trunca de **gibe** (dar).  
 Etimología de **gibe**: inglés (give), alemán (geben, gibt) y mandarín (给 “gěi”)_
 
-#### Verbos
-
-El sufijo **-gi** también se utiliza para convertir los verbos intransitivos, transitivos o ambitransitivos agentivos en verbos causativos (como se ve abajo) o se utiliza opcionalmente en verbos ambitransitivos pacientes (como se ve arriba, en [Categorías verbales](/gramati/inharelexi#falelexili_klase)).
-
-* **haha** - reír  
-**hahagi** - hacer reír (_hacer reír, causar/provocar risa_)
-
-* **yam** - comer  
-**yamgi** - alimentar (_hacer comer_)
-
 ### Sufijo nominal/verbal -cu <a id="xafefikso_-cu"></a>
 
-El sufijo **-cu** puede aplicarse a adjetivos y sustantivos, además de a verbos, como se ha visto anteriormente en [Categorías de verbos](/gramati/inharelexi#falelexili_klase).
+El sufijo **-cu** puede aplicarse a adjetivos y sustantivos, además de a verbos, como se ha visto anteriormente en [_Categorías de verbos_](/gramati/inharelexi#falelexili_klase).
 
 #### Adjetivos
 

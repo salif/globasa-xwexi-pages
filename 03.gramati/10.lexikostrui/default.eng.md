@@ -18,7 +18,7 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 * **[be-](/gramati/falelexili-morfo#be-):** passive voice
 * **[du-](/gramati/inharelexi#lefefikso_du-):** gerund; _habitual/continuous verb aspect_
 
-## Prefixes
+## Prefixes <a id="lefefikso"></a>
 
 * **aw-:** absent, away
  * **awidi** - leave, go away (_idi_ - _go_); **awglu** - drink up (_glu_ - _drink_); **awpel** - drive away (_pel_ - _drive/push, impulse/impetus_)
