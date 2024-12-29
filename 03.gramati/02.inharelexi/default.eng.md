@@ -726,7 +726,7 @@ _Active adjectives_ may be rendered passive by adding the passive prefix **be-**
 
 The suffix **-do** means _in an inactive state of_. Words with this suffix are known in Globasa as _inactive adjectives_ and are typically translated as the _past participle_ in English. However, unlike in English, _inactive adjectives_ are not used to generate _perfect_ or _passive verb_ forms (_I have worked_, _It was/got stolen_, etc.). Instead, they function only as adjectives.
 
-It is worth noting that, technically speaking, the suffix **-do** is added to the _noun_ aspect of noun/verbs. For this reason, **-do** may be added to transitive, intransitive or ambitransitive verbs noun/verbs.
+It is worth noting that, technically speaking, the suffix **-do** is added to the _noun_ aspect of noun/verbs. For this reason, **-do** may be added to transitive, intransitive or ambitransitive noun/verbs.
 
 #### With transitive verbs
 

@@ -728,7 +728,7 @@ Los adjetivos activos pueden convertirse en pasivos añadiendo el prefijo pasivo
 
 El sufijo **-do** significa _en estado inactivo de_. Las palabras con este sufijo se conocen en Globasa como _adjetivos inactivos_ y suelen traducirse como el _participio pasado_ en español. Sin embargo, a diferencia del español, los adjetivos inactivos no se utilizan para generar formas verbales _perfectas_ o _pasivas_ (_he trabajado_, _ha sido o fue robado_, etc.). En cambio, sólo funcionan como adjetivos.
 
-Cabe señalar que, técnicamente hablando, el sufijo **-do** se añade al aspecto _nominal_ de los sustantivos/verbos. Por esta razón, **-do** puede añadirse sustantivos/verbos a los verbos transitivos, intransitivos o ambitransitivos.
+Cabe señalar que, técnicamente hablando, el sufijo **-do** se añade al aspecto _nominal_ de los sustantivos/verbos. Por esta razón, **-do** puede añadirse a sustantivos/verbos transitivos, intransitivos o ambitransitivos.
 
 #### Con verbos transitivos
 
