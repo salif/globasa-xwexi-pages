@@ -542,7 +542,7 @@ In some cases the concrete or count noun is used as a verb and the abstract or n
 Likewise, the body parts associated with the five senses denote the related action (_verb_), while **-ya** is used to derive the abstract noun.
 
 * **oko** - eye (_concrete noun_), see, look (_verb_)  
-**okoya** - view, sight _or_ sense of sight (_abstract noun_)
+**okoya** - viewing, sight _or_ sense of sight (_abstract noun_)
 
 * **ore** - ear (_concrete noun_), hear, listen (_verb_)  
 **oreya** - hearing _or_ sense of hearing (_abstract noun_)

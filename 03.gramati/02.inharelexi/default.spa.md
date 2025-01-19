@@ -452,7 +452,7 @@ _Primero_, ella fue al banco.
 
 Los siguientes son adjetivos/adverbios comúnmente utilizados en frases iniciales seguidas de una clara pausa antes del resto de la oración.
 
-* **Ripul** - De nuevo, Otra vez  
+* **Ripul**, **Rili**, **Rimarali** - De nuevo, Otra vez  
 * **Ible** - Tal vez, Quizás  
 * **Maxpul** - Además  
 * **Pia** - También  
@@ -465,6 +465,7 @@ Los siguientes son adjetivos/adverbios comúnmente utilizados en frases iniciale
 * **Sipul** - En efecto  
 * **Fori** - Inmediatamente  
 * **Pimpan** - Frecuentemente, A menudo  
+* **Dumarali** - A veces  
 * **Sati** - Verdaderamente  
 * **Umumi** - En general, Generalmente  
 * **Nerleli** - Recientemente  
@@ -547,13 +548,13 @@ Asimismo, las partes del cuerpo asociadas a los cinco sentidos denotan la acció
 **okoya** - vista _o_ sentido de la vista (_sustantivo abstracto_)
 
 * **ore** - oído (_sustantivo concreto_), oír, escuchar (_verbo_)  
-**oreya** - oído _o_ sentido de la audición (_sustantivo abstracto_)
+**oreya** - oído _o_ sentido del oído (_sustantivo abstracto_)
 
 * **nasa** - nariz (_sustantivo concreto_), oler (_verbo_)  
-**nasaya** - olor _o_ sentido del olfato (_sustantivo abstracto_)
+**nasaya** - olfato _o_ sentido del olfato (_sustantivo abstracto_)
 
-* **xeto** - lengua (_concreto_), saber a, tener gusto a (_verbo_)  
-**xetoya** - sabor _o_ sentido del gusto (_sustantivo abstracto_)
+* **xeto** - lengua (_concreto_), probar (_verbo_)  
+**xetoya** - gusto _o_ sentido del gusto (_sustantivo abstracto_)
 
 * **pifu** - piel (_sustantivo concreto_), tocar (_verbo_)  
 **pifuya** - tacto _o_ sentido del tacto (_sustantivo abstracto_)
