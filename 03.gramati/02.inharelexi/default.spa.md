@@ -69,6 +69,8 @@ _Nota: La palabra de género neutro para padre(s) es **atre**. La palabra de gé
 * **Fe misal** - Por ejemplo  
 * **Fe xugwan** - Generalmente, Usualmente  
 * **Fe benji** - En esencia, Básicamente   
+* **Fe dumara** - A veces
+* **Fe rimara** - Otra vez, De nuevo
 * **Fe moy kaso** - En cualquier caso, De todos modos   
 * **Fe alo kaso** - De no ser así, De otra manera, Caso contrario  
 * **Fe nunya** - En este momento, Ahora  
@@ -222,7 +224,7 @@ Los _verbos copulativos_ vinculan el sujeto con su complemento. Actualmente hay 
 
 Los _verbos transitivos_ llevan complemento directo: **haja** (necesitar), **bujo** (atrapar, capturar), **gibe** (dar). Sin embargo, ciertos _verbos transitivos_ a veces o con frecuencia omiten el complemento directo: **doxo** (leer), **yam** (comer), **lala** (cantar), etc.
 
-Algunos _verbos transitivos_ casi siempre aparecen sin complemento directo: **somno** (dormir), **haha** (reír), **pawbu** (correr), **fley** (volar), etc.
+Algunos _verbos transitivos_ a menudo o casi siempre aparecen sin complemento directo: **somno** (dormir), **haha** (reír), **pawbu** (correr), **fley** (volar), etc. Estos se conocen en Globasa como _verbos transitivos de complemento reflejado_ ya que el complemento directo opcional es la misma palabra que el verbo.
 
 **Mi le somno (lungo somno).**  
 Dormí (un largo sueño).
@@ -453,6 +455,8 @@ _Primero_, ella fue al banco.
 Los siguientes son adjetivos/adverbios comúnmente utilizados en frases iniciales seguidas de una clara pausa antes del resto de la oración.
 
 * **Ripul**, **Rili**, **Rimarali** - De nuevo, Otra vez  
+* **Dumarali** - A veces
+* **Pimpan** - Frecuentemente, A menudo  
 * **Ible** - Tal vez, Quizás  
 * **Maxpul** - Además  
 * **Pia** - También  
@@ -463,9 +467,7 @@ Los siguientes son adjetivos/adverbios comúnmente utilizados en frases iniciale
 * **Mimbay** - Obviamente, Por supuesto  
 * **Mingu** - Claramente, Evidentemente  
 * **Sipul** - En efecto  
-* **Fori** - Inmediatamente  
-* **Pimpan** - Frecuentemente, A menudo  
-* **Dumarali** - A veces  
+* **Fori** - Inmediatamente    
 * **Sati** - Verdaderamente  
 * **Umumi** - En general, Generalmente  
 * **Nerleli** - Recientemente  

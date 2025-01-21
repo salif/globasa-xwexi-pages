@@ -69,6 +69,8 @@ _Note: The gender-neutral word for parent(s) is **atre**. The gender-neutral wor
 * **Fe misal,** - For example  
 * **Fe xugwan,** - Usually  
 * **Fe benji,** - In essence, Basically  
+* **Fe durama,** - Sometimes  
+* **Fe rimara,** - Again  
 * **Fe moy kaso,** - In any case, At any rate  
 * **Fe alo kaso,** - Otherwise  
 * **Fe nunya,** - At present, Now  
@@ -222,7 +224,7 @@ _Copula verbs_ link the subject to its complement. There are currently 12 _copul
 
 _Transitive verbs_ take a direct object: **haja** (need), **bujo** (catch, capture), **gibe** (give). However, certain _transitive verbs_ will sometimes or often omit the direct object: **doxo** (read), **yam** (eat), **lala** (sing), etc. 
 
-Some _transitive verbs_ are almost always used without a direct object: **somno** (sleep), **haha** (laugh), **pawbu** (run), **fley** (fly), etc.
+Some _transitive verbs_ are often or almost always used without a direct object: **somno** (sleep), **haha** (laugh), **pawbu** (run), **fley** (fly), etc. These are known in Globasa as _echo-object transitive verbs_ since the optional direct object is the same word as the verb. 
 
 **Mi le somno (lungo somno).**  
 I slept (a long sleep).
@@ -230,7 +232,7 @@ I slept (a long sleep).
 **Yu le haha (sotipul haha).**  
 You laughed (a loud laugh). 
 
-The suffix **[-gi](/gramati/inharelexi#xafefikso_-gi)** may be applied to _transitive verbs_ with the meaning _to cause (direct object) to [root verb], to make (direct object) [root verb].
+The suffix **[-gi](/gramati/inharelexi#xafefikso_-gi)** may be applied to _transitive verbs_ with the meaning _to cause (direct object) to [root verb], to make (direct object) [root verb]_.
 
 **Kam yu fleygi hawanavi?**  
 Do you fly aircraft?
@@ -450,7 +452,9 @@ _First_, she went to the bank.
 
 The following are adjective/adverbs commonly used in sentence-initial phrases followed by a clear pause before the rest of the sentence.
 
-* **Ripul,** - Again  
+* **Ripul, Rili, Rimarali,** - Again  
+* **Dumarali,** - Sometimes
+* **Pimpan,** - Often, Oftentimes
 * **Ible,** - Maybe, Perhaps  
 * **Maxpul,** - Moreover, Furthermore  
 * **Pia,** - Also  
@@ -461,8 +465,7 @@ The following are adjective/adverbs commonly used in sentence-initial phrases fo
 * **Mimbay,** - Obviously, Of course  
 * **Mingu,** - Clearly, Evidently  
 * **Sipul,** - Indeed  
-* **Fori,** - Immediately  
-* **Pimpan,** - Often, Oftentimes  
+* **Fori,** - Immediately    
 * **Sati,** - Truly  
 * **Umumi,** - In general, Generally  
 * **Nerleli,** - Recently  

@@ -11,6 +11,9 @@ slug: clases-de-palabras
 * **[falelexi](/gramati/inharelexi#falelexili_klase)** _(f)_ - verbo  _(v)_
  * **linkuli falelexi** _(b.lin)_ - verbo copulativo _(v.cop)_
  * **ojetoli falelexi** _(b.oj)_ - verbo transitivo _(v.tr)_
+ <ul>
+ * **rusoti-ojetoli falelexi** _(b.oj.ru)_ - verbo transitivo de complemento reflejado _(v.tr.re)_
+</ul>
  * **nenojetoli falelexi** _(b.nenoj)_ - verbo intransitivo _(v.intr)_
  * **oroojetoli falelexi** _(b.oro)_ - [verbo ambitransitivo](https://globalwikionline.com/detial/en/Ambitransitive_verb) (paciente) _(v.ambi)_
  * **sahayli falelexi** _(b.sah)_ - verbo auxiliar _(v.aux)_
