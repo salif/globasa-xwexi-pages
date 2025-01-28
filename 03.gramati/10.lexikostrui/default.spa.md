@@ -18,7 +18,7 @@ Los prefijos no modifican la clase de palabra en las palabra con afijos. En camb
 * **[be-](/gramati/falelexili-morfo#be-):** voz pasiva
 * **[du-](/gramati/inharelexi#lefefikso_du-):** _aspecto verbal habitual/continuo_
 
-## Prefijos
+## Prefijos <a id="lefefikso"></a>
 
 * **aw-:** no aquí o no allí
  * **awidi** - irse (_idi_ - _ir_); **awglu** - bebérse (_glu_ - _beber_); **awpel** - ahuyentar (_pel_ - _impulsar/empujar, impulso/ímpetu_)

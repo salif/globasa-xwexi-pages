@@ -214,7 +214,7 @@ La dama baila _bonito_.
 
 * Sin embargo, si la oración contiene objetos, la frase adverbial debe seguir inmediatamente a todos los objetos.
 
-**Mi le gibe pesa cel coriyen _volekal_ koski mi le befobi ki te xa morgi mi.**  
+**Mi le gibe pesa tas coriyen _volekal_ koski mi le befobi ki te xa morgi mi.**  
 Le di el dinero al ladrón _involuntariamente_ porque temía que me matara.
 
 Los adverbios también se pueden mover al inicio de la oración, siempre que haya una pausa clara mediante el uso de la coma para separar la frase del resto de la oración. Sin la pausa, el adjetivo/adverbio podría interpretarse erróneamente como un modificador del sujeto.

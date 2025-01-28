@@ -9,6 +9,9 @@ visible: true
 * **[falelexi](/gramati/inharelexi#falelexili_klase)** _(f)_ - verb _(v)_
  * **linkuli falelexi** _(b.lin)_ - copula _(v.cop)_
  * **ojetoli falelexi** _(b.oj)_ - transitive verb _(v.tr)_
+ <ul>
+ * **rusoti-ojetoli falelexi** _(b.oj.ru)_ - echo-object transitive verb _(v.tr.e)_
+</ul>
  * **nenojetoli falelexi** _(b.nenoj)_ - intransitive verb _(v.intr)_
  * **oroojetoli falelexi** _(b.oro)_ - (patientive) ambitransitive verb _(v.ambi)_
  * **sahayli falelexi** _(b.sah)_ - auxiliary verb _(v.aux)_
