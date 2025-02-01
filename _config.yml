@@ -30,15 +30,3 @@ defaults:
       type: "pages"
     values:
       image: "assets/icon-1000x1000.png"
-  - scope:
-      path: "./*.eng.md"
-      type: "pages"
-    values:
-      lang: "en"
-      author: xwexi_globasa_net
-  - scope:
-      path: "./*.spa.md"
-      type: "pages"
-    values:
-      lang: "es"
-      author: xwexi_globasa_net

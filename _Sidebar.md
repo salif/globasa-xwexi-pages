@@ -23,3 +23,9 @@
 1. [О глобаса](./01.default.default.rus.md)
 2. [Уроки для начинающих](./02.darsu.default.rus.md)
 3. [Грамматика](https://salif.github.io/gramati-fe-globasa/ru-gemini/)
+
+### 日本語
+1. [グロバサ](./01.default.default.jpn.md)
+2. [初心者向けレッスン](./02.darsu.default.jpn.md)
+3. [文法](https://salif.github.io/gramati-fe-globasa/ja-gemini/)
+4. [原点](https://dlt.kitetu.com/?fg=KNo.7D71/E420)

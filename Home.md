@@ -10,6 +10,7 @@ lang: art-x-globasa
 ### [español 🇪🇸](./01.default.default.spa.md)
 ### [български 🇧🇬](./01.default.default.bul.md)
 ### [русский 🇷🇺](./01.default.default.rus.md)
+### [日本語 🇯🇵](./01.default.default.jpn.md)
 
 ***
 
