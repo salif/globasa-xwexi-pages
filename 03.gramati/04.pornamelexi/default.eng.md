@@ -53,12 +53,12 @@ The gender-neutral **te** and **ete** are used for all living forms and personif
 * **mante** - he
 * **femete**/**manete** - they
 
-### seli
+### he
 
-The adjective **seli** is used with subject pronouns to express emphasis of self.
+The particle **he** is used with subject pronouns to express emphasis.
 
-**seli mi** - I myself  
-**seli yu** - you yourself  
+**he mi** - I myself  
+**he yu** - you yourself  
 etc.
 
 ## Possessive Adjectives <a id="suyali_sifalexi"></a>

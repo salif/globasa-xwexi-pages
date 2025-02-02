@@ -53,12 +53,12 @@ Los adjetivos de género neutro **te** y **ete** se utilizan para todas los sere
 * **mante** - él
 * **femete**/**manete** - ellas / ellos
 
-### seli
+### he
 
-El adjetivo **seli** se utiliza con pronombres de sujeto para expresar énfasis en uno mismo.
+La partícula **he** se usa con pronombres personales para expresar énfasis.
 
-**seli mi** - yo mismo 
-**seli yu** - tú mismo
+**he mi** - yo mismo  
+**he yu** - tú mismo  
 etc.
 
 ## Adjetivos posesivos <a id="suyali_sifalexi"></a>
