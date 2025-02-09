@@ -231,7 +231,7 @@ Los números también se pueden usar para crear palabras compuestas.
 * **krasi:** gobierno
  * **demokrasi** - democracia (_demo - pueblo_)
 * **kumax:** (pedazo de) tela
- * **banyokumax** - toalla (_banyo_ - _baño_); **mesakumax** - mantel (_mesa_ - _mesa_); **nasakumax** - pañuelo (_nasa_ - _nariz_); **muntekumax** - servilleta (_munte_ - _boca_)
+ * **mesakumax** - mantel (_mesa_ - _mesa_); **nasakumax** - pañuelo (_nasa_ - _nariz_); **muntekumax** - servilleta (_munte_ - _boca_)
 * **lari:** grupo colectivo
  * **drevolari** - bosque (_drevo_ - _árbol_); **insanlari** - humanidad (_insan_ - _ser humano_); **darsulari** - curso (_darsu_ - _lección/clase_); **mumulari** - manada de ganado (_mumu_ - _toro/vaca, ganado_); **lexilari** - vocabulario (_lexi_ - _palabra_); **menalari** - diccionario (_mena_ - _significado_); **navilari** - flota de barcos (_navi_ - _nave, barco_); **yumawlari** - plumaje (_yumaw_ - _pluma_)
 * **lexi:** palabra
@@ -285,7 +285,7 @@ Los nombres propios también se pueden unir para crear palabras compuestas. Se p
 
 Del mismo modo, los nombres propios con **utara**, **sude**, **dongu**, **garebi** y **centro** también se pueden escribir de tres maneras.
 
-**Sudehangu** o **SudeHangu** o **Sude-Hangu** - Corea del Sur
+**Sudekorea** o **SudeKorea** o **Sude-Korea** - Corea del Sur
 
 Los nombres propios con **ji** también se pueden unir alternativamente de la siguiente manera.
 
