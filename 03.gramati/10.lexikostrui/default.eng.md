@@ -229,7 +229,7 @@ Numerals may also be used to create compounds.
 * **krasi:** government
  * **demokrasi** - democracy (_demo - people, public_)
 * **kumax:** (piece of) cloth 
- * **banyokumax** - towel (_banyo_ - _bath_); **mesakumax** - tablecloth (_mesa_ - _table_); **nasakumax** - handkerchief (_nasa_ - _nose_); **muntekumax** - napkin (_munte_ - _mouth_)
+ * **mesakumax** - tablecloth (_mesa_ - _table_); **nasakumax** - handkerchief (_nasa_ - _nose_); **muntekumax** - napkin (_munte_ - _mouth_)
 * **lari:** collective group 
  * **drevolari** - forest (_drevo_ - _tree_); **insanlari** - humanity (_insan_ - _human being_); **darsulari** - course (_darsu_ - _lesson/class_); **mumulari** - herd of cattle (_mumu_ - _bull/cow, cattle_); **lexilari** - vocabulary (_lexi_ - _word_); **menalari** - dictionary (_mena_ - _meaning_, _definition_); **navilari** - fleet of ships (_navi_ - _ship_); **yumawlari** - plumage (_yumaw_ - _feather_)
 * **lexi:** word
@@ -283,7 +283,7 @@ Proper nouns may also be joined to create compounds. They may be spelled in one 
 
 Likewise, proper nouns with **utara**, **sude**, **dongu**, **garebi** and **centro** may also be spelled in one of three ways. 
 
-**Sudehangu** or **SudeHangu** or **Sude-Hangu** - South Korea
+**Sudekorea** or **SudeKorea** or **Sude-Korea** - South Korea
 
 Proper nouns with **ji** may also be alternatively joined as follows.
 

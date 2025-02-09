@@ -255,7 +255,7 @@ La siguiente convención ortográfica se aplica sólo a lexemas y no a las palab
 En los siguientes lexemas, _i_ y _u_ son tónicas:
 
 **maux** (ratón) se pronuncia _ma-<u>**u**</u>x_ [[ma.'uʃ]](maux.mp3)  
-**daif** (débil) se pronuncia _da-<u>**i**</u>f_ [[da.'if]](daif.mp3)
+**daifu** (débil) se pronuncia _da-<u>**i**</u>-fu_ [da.'i.fu]
 
 En los siguientes lexemas, las reglas fonotácticas sólo permiten _i_ y _u_:
 

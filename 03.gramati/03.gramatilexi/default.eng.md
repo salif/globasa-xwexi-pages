@@ -3,7 +3,7 @@ title: 'Function Words: Conjunctions, Prepositions and Function Adverbs'
 visible: true
 ---
 
-Click [here](/gramati/pronamelexi) to see Pronouns. Click [here](/gramati/tabellexi) to see Correlatives. Click [here](/gramati/numer-ji-mesi) to see Numbers.
+See also the following separate chapters: [Pronouns](/gramati/pronamelexi), [Correlatives](/gramati/tabellexi) and [Numbers](/gramati/numer-ji-mesi)
 
 ## Conjunctions
 
@@ -297,3 +297,51 @@ Mary's is big.
  * **minusli** - (_adj/adv_) negative (-1, -2, etc.), except for that
  * **fe minusya** - except for that
  * **minus eger** - unless
+
+## Contrastive Emphasis
+
+The particle **he** may be used to express contrastive emphasis on most words: determiners (See [Correlatives](/gramati/tabellexi)), content words, function adverbs and verb particles. It appears right before the word being emphasized. Compare the following set of sentences:
+
+**He _mi_ le nilwatu loga ki te le cori misu pesa.**
+
+_I_ (myself) never said she stole my money. (Someone else said that she stole the money.)
+
+**Mi le he _nilwatu_ loga ki te le cori misu pesa.**
+
+ I _never_ (ever) said she stole my money. (I definitely did not, and would not, say that she stole my money.)
+
+**Mi le nilwatu he _loga_ ki te le cori misu pesa.**
+
+I never (even/actually) _said_ she stole my money. (Verbally, it was not said that she stole my money, but it was implied.)
+
+**Mi le nilwatu loga ki he _te_ le cori misu pesa.**
+
+I never said (it was) _she_ (who) stole my money. (I said that someone else stole my money.)
+
+**Mi le nilwatu loga ki te le he _cori_ misu pesa.**
+
+I never said she (actually) _stole_ my money. (I said that she took my money, but I wouldn't describe it as stealing.)
+
+**Mi le nilwatu loga ki te le cori he _misu_ pesa.**
+
+I never said she stole _my_ money. Or, I never said the money she stole was mine. (I said that she stole someone else's money.)
+
+**Mi le nilwatu loga ki te le cori misu he _pesa_.**
+
+I never said she stole my _money_. Or, I never said it was money that she stole from me. (She stole something else from me.)
+
+For greater emphasis, it's also possible to move the emphasized word to the front, along with **he**, followed by a comma and the entire sentence without **he**. For example:
+
+**He nilwatu, mi le nilwatu loga ki te le cori misu pesa.**
+
+_Never ever_, I _never_ said she stole my money.
+
+**He cori, mi le nilwatu loga ki te le cori misu pesa.**
+
+_Stole_? I never said she _stole_ my money.
+
+## Other Function Words
+
+[Pronouns](/gramati/pronamelexi)  
+[Correlatives](/gramati/tabellexi)  
+[Numbers](/gramati/numer-ji-mesi)  

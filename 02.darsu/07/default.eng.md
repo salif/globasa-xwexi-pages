@@ -73,9 +73,9 @@ What/which book will you read?
 
 The word **cel** is used only for denoting _movement _, _destination_, _target_ or _purpose_, never as the _recipient_ (commonly known as the _indirect object_) marker. In a subsequent lesson, you will learn the word that marks the _recipient_.  
 
-The phrase **cel na** means _in order to_. Much like in English, since **na** (seen in Lesson 4) marks verb phrases, it may be used alone to introduce purpose.
+The phrase **cel na** means _in order to_.  
 
-**Polisiyen le idi cel kitabudom (cel) na doxo kitabu.**  
+**Polisiyen le idi cel kitabudom cel na doxo kitabu.**  
 The police officer went to the library (in order) to read a book. 
 
 The word **cel** may be paired with other prepositions: **cel in** (_into_) and **cel ex** (_out from, out of_). 
