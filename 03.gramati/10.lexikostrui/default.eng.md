@@ -21,21 +21,21 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 ## Prefixes <a id="lefefikso"></a>
 
 * **aw-:** absent, away
- * **awidi** - leave, go away (_idi_ - _go_); **awglu** - drink up (_glu_ - _drink_); **awpel** - drive away (_pel_ - _drive/push, impulse/impetus_)
-* **awto-:** auto- (_automatic_) [**awtomati** - automatic]
+ * **awidi** - leave, go away (_idi_ - _go_); **awglu** - drink up (_glu_ - _drink_); **awpel** - drive away (_pel_ - _drive/push_)
+* **awto-:** auto- (_automatic, by itsef_) [**awtomati** - automatic, **awtonom** - autonomous]
  * **awtosahigi** - autocorrect (_sahi - correct, right; sahigi - correct_)
 * **dis-:** disperse, scatter
  * **disgibe** - distribute (_gibe_ - _give_)
 * **eko-:** eco-
  * **ekologi** - ecology (_logi - specialty, discipline_), **ekosistema** - ecosystem (_sistema - system_)
-* **fin-:** finish, to the end
- * **findoxo** - end of, finish reading to the end (_doxo_ - _read_); **finyam** - finish eating everything (_yam_ - _eat_)
+* **fin-:** - end of, finish to the end
+ * **findoxo** - finish reading to the end (_doxo_ - _read_); **finyam** - finish eating everything (_yam_ - _eat_)
 * **fron-:** forwards [**fronta** - forehead, front]
- * **fronkadam** - progress (_kadam_ - _step_)
+ * **fronkadam** - progress, advance (_kadam_ - _step_)
 * **ja-:** immediately adjacent [**jara** - neighbor]
  * **jale** - just (have) (_le - past tense verb particle_); **jaxa** - about to (_xa - future tense verb particle_); **jaledin** - yesterday (_din - day_); **jaxadin** - tomorrow (_din - day_)
 * **nen-:** un-, in-, im-, ir-
- * **nenmuhim** - unimportant (_muhim_ - _important_); **nenkompleto** - incomplete (_kompleto_ - _complete_); **nenible** - impossible (_ible - possible_);  **okonenible** - invisible (_oko - see_); **imanunenible** - unbelievable, incredible (_imanu - believe_); **nensomno** - insomnia (_somno_ - _sleep_)
+ * **nenmuhim** - unimportant (_muhim_ - _important_); **nenkompleto** - incomplete (_kompleto_ - _complete_); **nenible** - impossible (_ible - possible_);  **okonenible** - invisible (_oko - see_); **imanunenible** - unbelievable, incredible (_imanu - believe_)
 * **pos-:** opposite [**opos** - opposite]
  * **possahay** - hinder (_sahay_ - _help_); **possukses** - failure/fail (_sukses_ - _success_); **posdongwi** - disagree (_dongwi_ - _agree_); **posgami** - divorce (_gami_ - _spouse/marry_)
 * **pre:** here/there, present (as opposed to _away, absent_)
@@ -60,7 +60,7 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 
 ## Noun Suffixes
 
-* **-gon:** -agon (_geometric figure_) [**gono** - angle]
+* **-gon:** -agon (_geometric figure_) [**gona** - angle]
  * **tigagon** - triangle (_tiga - three_); **limagon** - pentagon (_lima - five_); **ocogon** - octagon (_oco - eight_); **ortogon** - rectangle (_orto - upright_) 
 * **-ina:** -ine
  * **kafeina** - caffeine (_kafe - coffee_)
@@ -179,7 +179,7 @@ Numerals may also be used to create compounds.
 * **fil:** inclined to, prone
  * **ergofil** - diligent, industrious (_ergo_ - _work_); **fobifil** - fear-prone (_fobi_ - _fear_); **dinifil** - religious (_dini_ - _religion_)
 * **kal:** empty; _in compounds:_ -less
- * **legakal** - illegal, lawless (_lega_ - _law_); **ergokal** - unemployed (_ergo_ - _work_); **pesakal** - poor (_pesa_ - _money_); **luminkal** - dark (_lumin_ - _light_); **yamkal** - hungry (_yam_ - _eat/meal_); **suikal** - thirsty (_sui_ - _water_)
+ * **legakal** - illegal, lawless (_lega_ - _law_); **ergokal** - unemployed (_ergo_ - _work_); **pesakal** - poor (_pesa_ - _money_); **luminkal** - dark (_lumin_ - _light_)
 * **kolordo (_kolor-do_):** shade, colored (See also **-sim**.)
  * **asmankolordo** - sky blue (_asman_ - _sky_)
 * **laye:** worthy
@@ -188,11 +188,11 @@ Numerals may also be used to create compounds.
  * active: **triunfamusi** - who must win (_triunfa_ - _win/triumph_)
  * passive: **beokomusi** - must-see (_oko - see; beoko - be seen_)
 * **peldo (_pel-do_):** driven
- * **somnopeldo** - sleepy (_somno_ - _sleep_)
+ * **somnopeldo** - sleepy (_somno_ - _sleep_); **yampeldo** - hungry (_yam_ - _eat_)
 * **pul:** full; _in compounds:_ -ful 
- * **kimapul** - costly, pricey, expensive (_kima_ - _price_); **yampul** - full, satiated (_yam - eat/meal_); **jawgupul** - careful (_jawgu_ - _take care_); **brilapul** - shiny (_brila_ - _shine_); **pesapul** - rich (_pesa_ - _money_); **hataripul** - dangerous (_hatari_ - _danger_); **legapul** - legal, lawful (_lega_ - _law_); **bawlupul** - violent (_bawlu_ - _violence_)
+ * **kimapul** - costly, pricey, expensive (_kima_ - _price_); **juipul** - careful (_jui_ - _attention_); **brilapul** - shiny (_brila_ - _shine_); **pesapul** - rich (_pesa_ - _money_); **hataripul** - dangerous (_hatari_ - _danger_); **legapul** - legal, lawful (_lega_ - _law_); **bawlupul** - violent (_bawlu_ - _violence_)
 * **sim:** similar; _in compounds:_ -like, -ish, shade of color
- * **dostesim** - friendly (_doste_ - _friend_); **ninisim** - childish (_nini_ - _child_); **dahabusim** - golden (_dahabu - gold_); **realsim** - realistic (_real_ - _real_); **femsim** - female-like (_fem_ - _feminine_)
+ * **dostesim** - friendly (_doste_ - _friend_); **ninisim** - childish (_nini_ - _child_); **dahabusim** - golden (_dahabu - gold_); **realsim** - realistic (_real_ - _real_)
 
 ## Nouns as Quasi-Suffixes in Compound Words
 
@@ -221,7 +221,7 @@ Numerals may also be used to create compounds.
 * **itis:** inflammation (-itis)
  * **artroitis** - arthritis (_artro_ - _joint_); **mogeitis** - encephalitis (_moge_ - _brain_)
 * **kaxa:** container 
- * **anjenkaxa** - safebox (_anjen_ - _safe_); **pesakaxa** - purse (_pesa_ - _money_); **bezekaxa** - beehive (_beze_ - _bee_)
+ * **anjenkaxa** - safebox (_anjen_ - _safe_); **bezekaxa** - beehive (_beze_ - _bee_)
 * **kamer:** room
  * **banyokamer** - bathroom (_banyo_ - _bath_); **somnokamer** - bedroom (_somno - sleep_); **darsukamer** - classroom (_darsu_ - _lesson, class_)
 * **kef:** boss, leader, chief
@@ -231,7 +231,7 @@ Numerals may also be used to create compounds.
 * **kumax:** (piece of) cloth 
  * **mesakumax** - tablecloth (_mesa_ - _table_); **nasakumax** - handkerchief (_nasa_ - _nose_); **muntekumax** - napkin (_munte_ - _mouth_)
 * **lari:** collective group 
- * **drevolari** - forest (_drevo_ - _tree_); **insanlari** - humanity (_insan_ - _human being_); **darsulari** - course (_darsu_ - _lesson/class_); **mumulari** - herd of cattle (_mumu_ - _bull/cow, cattle_); **lexilari** - vocabulary (_lexi_ - _word_); **menalari** - dictionary (_mena_ - _meaning_, _definition_); **navilari** - fleet of ships (_navi_ - _ship_); **yumawlari** - plumage (_yumaw_ - _feather_)
+ * **insanlari** - humanity (_insan_ - _human being_); **darsulari** - course (_darsu_ - _lesson/class_); **mumulari** - herd of cattle (_mumu_ - _bull/cow, cattle_); **lexilari** - vocabulary (_lexi_ - _word_); **menalari** - dictionary (_mena_ - _meaning_, _definition_); **navilari** - fleet of ships (_navi_ - _ship_); **yumawlari** - plumage (_yumaw_ - _feather_)
 * **lexi:** word
  * **namelexi** - noun (_name_ - _name_); **falelexi** - verb (_fale_ - _do_); **sifalexi** - adjective (_sifa_ - _characteristic_); **manerlexi** - adverb (_maner_ - _manner_)
 * **logi:** specialty, study of 
@@ -248,8 +248,8 @@ Numerals may also be used to create compounds.
  * **bardimosem** - winter (_bardi_ - _cold_); **bijamosem** - spring (_bija_ - _seed/sow_); **termomosem** - summer (_termo_ - _heat_); **xuhamosem** - autumn (_xuha_ - _reap/harvest_)
 * **osis:** pathology 
  * **sikoosis** - psychosis (_siko_ - _mind_)
-* **pel:** drive, push
- * **seksopel** - sex drive, libido (_sekso - sex_); **amirupel** - control (_amiru - command_); **tehdidupel** - coerce (_tehdidu - threat_)
+* **pel:** (extrinsic) drive, push; cause to want (to)
+ * **seksopel** - sexiness, sex appeal (_sekso - sex_); **jixipel** - make (one) wonder
 * **tim:** team; _in compounds:_ team, body 
  * **asosyatim** - association (_asosya_ - _associate_); **komuntim** - community (_komun_ - _communal_); **organisatim** - organization (_organisa_ - _organize_); **jangetim** - military (_jange_ - _war_); **krasitim** - government (_krasi_ - _rule/govern_); **ergotim** - staff (_ergo_ - _work_); **oretim** - audience (_ore_ - _ear/hear_)
 * **tora:** machine, device, apparatus; _in compounds:_ -ator, machine, device, apparatus
@@ -266,7 +266,7 @@ Numerals may also be used to create compounds.
 
 ## Other Compounds with Content Words
 
-The nouns and adjectives listed above as _quasi-affixes_ are the most frequently used content words used in compound words. However, the list is not exhaustive, since _any_ content word may be used freely to derive compound words. A hyphen may be optionally added to separate any two morphemes within any compound word. However, it is suggested that as a rule of thumb, hyphens be used only to separate morphemes that are less commonly used in compounds, such as those in the words below.
+The nouns and adjectives listed above as _quasi-affixes_ are the most frequently used content words appearing in compound words. However, the list is not exhaustive, since _any_ content word may be used freely to derive compound words. A hyphen may be optionally added to separate any two morphemes within any compound word. However, it is suggested that as a rule of thumb, hyphens be used only to separate morphemes that are less commonly used in compounds, such as those in the words below.
 
 **rukebao** or **ruke-bao** - backpack  
 **familname** or **famil-name** - last name  

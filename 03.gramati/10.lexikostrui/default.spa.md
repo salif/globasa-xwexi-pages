@@ -21,8 +21,8 @@ Los prefijos no modifican la clase de palabra en las palabra con afijos. En camb
 ## Prefijos <a id="lefefikso"></a>
 
 * **aw-:** no aquí o no allí
- * **awidi** - irse (_idi_ - _ir_); **awglu** - bebérse (_glu_ - _beber_); **awpel** - ahuyentar (_pel_ - _impulsar/empujar, impulso/ímpetu_)
-* **awto-:** auto- (_automático_) [**awtomati** - automático]
+ * **awidi** - irse (_idi_ - _ir_); **awglu** - bebérse (_glu_ - _beber_); **awpel** - ahuyentar (_pel_ - _impulsar/empujar_)
+* **awto-:** auto- (_automático, por sí solo_) [**awtomati** - automático, **awtonom** - autónomo]
  * **awtosahigi** - autocorrección (_sahi - correcto; sahigi - corregir_)
 * **dis-:** dispersar
  * **disgibe** - distribuir (_gibe_ - _dar_)
@@ -31,11 +31,11 @@ Los prefijos no modifican la clase de palabra en las palabra con afijos. En camb
 * **fin-:** final de, terminar hasta el final
  * **findoxo** - terminar de leer hasta el final (_doxo_ - _read_); **finyam** - terminar de comer todo (_yam_ - _eat_)
 * **frente-:** adelante [**fronta** - frente]
- * **fronkadam** - progreso (_kadam_ - _paso_)
+ * **fronkadam** - progreso, avanzar (_kadam_ - _paso_)
 * **ja-:** inmediatamente adyacente [**jara** - vecino/-a]
  * **jale** - acabar de (_le - partícula de verbo del tiempo pasado_); **jaxa** - a punto de (_xa - partícula verbal del tiempo futuro_); **jaledin** - ayer (_din - día_); **jaxadin** - mañana (_din - día_)
 * **nen-:** des-, in-/im-/ir-
- * **nenmuhim** - sin importancia (_muhim_ - _importante_); **nenkompleto** - incompleto (_kompleto_ - _completo_); **nenible** - imposible (_ible - posible_); **okonenible** - invisible (_oko - ver_); **imanunenible** - increíble (_imanu - creer_); **nensomno** - insomnio (_somno_ - _sleep_)
+ * **nenmuhim** - sin importancia (_muhim_ - _importante_); **nenkompleto** - incompleto (_kompleto_ - _completo_); **nenible** - imposible (_ible - posible_); **okonenible** - invisible (_oko - ver_); **imanunenible** - increíble (_imanu - creer_)
 * **pos-:** opuesto [**opos** - opuesto]
  * **possahay** - obstaculizar (_sahay_ - _ayuda_); **possukses** - fracaso (_sukses_ - _éxito_); **posdongwi** - no estar de acuerdo (_dongwi_ - _estar de acuerdo_); **posgami** - divorcio (_gami_ - _cónyuge/casarse_)
 * **pre:** aquí/allí, presente (lo opuesto de _ausente_)
@@ -60,7 +60,7 @@ Los prefijos no modifican la clase de palabra en las palabra con afijos. En camb
 
 ## Sufijos nominales
 
-* **-gon:** -agon (_figura geométrica_) [**gono** - ángulo]
+* **-gon:** -agon (_figura geométrica_) [**gona** - ángulo]
  * **tigagon** - triángulo (_tiga - tres_); **limagon** - pentágono (_lima - cinco_); **ocogon** - octágono (_oco - ocho_); **ortogon** - rectángulo (_orto - recto_)
 * **-ina:** -ina
  * **kafeina** - cafeína (_kafe - café_)
@@ -181,7 +181,7 @@ Los números también se pueden usar para crear palabras compuestas.
 * **fil:** con tendencia a, propenso
  * **ergofil** - diligente, industrioso (_ergo_ - _trabajo_); **fobifil** - propenso al miedo (_fobi_ - _miedo_); **dinifil** - religioso (_dini_ - _religión_)
 * **kal:** vacío; _en palabras compuestas:_ sin
- * **legakal** - ilegal (_lega_ - _law_); **ergokal** - desempleado (_ergo_ - _trabajo_); **pesakal** - pobre (_pesa_ - _dinero_); **luminkal** - oscuro (_lumin_ - _luz_); **yamkal** - hambriento (_yam_ - _comida_); **suikal** - sediento (_sui_ - _agua_)
+ * **legakal** - ilegal (_lega_ - _law_); **ergokal** - desempleado (_ergo_ - _trabajo_); **pesakal** - pobre (_pesa_ - _dinero_); **luminkal** - oscuro (_lumin_ - _luz_)
 * **kolordo (_kolor-do_):** matiz de color, coloreado (Véase también **-sim**.)
  * **asmankolordo** - azul cielo (_asman_ - _cielo_)
 * **laye:** digno
@@ -190,11 +190,11 @@ Los números también se pueden usar para crear palabras compuestas.
  * activo: **triunfamusi** - que debe ganar (_triunfa_ - _ganar, triunfar_)
  * pasivo: **beokomusi** - que debe ser visto (_oko - ver; beoko - ser visto_)
 * **peldo (_pel-do_):** con ganas de
- * **somnopeldo** - soñoliento/-a (_somno_ - _dormir_)
+ * **somnopeldo** - soñoliento/-a (_somno_ - _dormir_); **yampeldo** - con hambre, hambriento/-a (_yam_ - _comer_)
 * **pul:** lleno/-a; _en palabras compuestas:_ -oso/-a
- * **kimapul** - costoso/-a, caro/-a (_kima_ - _precio_); **yampul** - lleno, saciado (_yam - comer_); **jawgupul** - cuidadoso/-a (_jawgu_ - _cuidar_); **brilapul** - brillante (_brila_ - _brillar_); **pesapul** - rico/-a (_pesa_ - _dinero_); **hataripul** - peligroso (_hatari_ - _peligro_); **legapul** - legal (_lega_ - _ley_); **bawlupul** - violento (_bawlu_ - _violencia_)
+ * **kimapul** - costoso/-a, caro/-a (_kima_ - _precio_); **juipul** - cuidadoso/-a (_jui_ - _atención_); **brilapul** - brillante (_brila_ - _brillar_); **pesapul** - rico/-a (_pesa_ - _dinero_); **hataripul** - peligroso (_hatari_ - _peligro_); **legapul** - legal (_lega_ - _ley_); **bawlupul** - violento (_bawlu_ - _violencia_)
 * **sim:** similar; _en palabras compuestas:_ similar a, matiz de color
- * **dostesim** - amistoso (_doste_ - _amigo_); **ninisim** - infantil (_nini_ - _niño_); **dahabusim** - dorado (_dahabu - dorado_); **realsim** - realista (_real_ - _real_);  **femsim** - de aspecto/manera femenina (_fem_ - _feminino_)
+ * **dostesim** - amistoso (_doste_ - _amigo_); **ninisim** - infantil (_nini_ - _niño_); **dahabusim** - dorado (_dahabu - oro_); **realsim** - realista (_real_ - _real_)
 
 ## Sustantivos como cuasisufijos en palabras compuestas
 
@@ -233,7 +233,7 @@ Los números también se pueden usar para crear palabras compuestas.
 * **kumax:** (pedazo de) tela
  * **mesakumax** - mantel (_mesa_ - _mesa_); **nasakumax** - pañuelo (_nasa_ - _nariz_); **muntekumax** - servilleta (_munte_ - _boca_)
 * **lari:** grupo colectivo
- * **drevolari** - bosque (_drevo_ - _árbol_); **insanlari** - humanidad (_insan_ - _ser humano_); **darsulari** - curso (_darsu_ - _lección/clase_); **mumulari** - manada de ganado (_mumu_ - _toro/vaca, ganado_); **lexilari** - vocabulario (_lexi_ - _palabra_); **menalari** - diccionario (_mena_ - _significado_); **navilari** - flota de barcos (_navi_ - _nave, barco_); **yumawlari** - plumaje (_yumaw_ - _pluma_)
+ * **insanlari** - humanidad (_insan_ - _ser humano_); **darsulari** - curso (_darsu_ - _lección/clase_); **mumulari** - manada de ganado (_mumu_ - _toro/vaca, ganado_); **lexilari** - vocabulario (_lexi_ - _palabra_); **menalari** - diccionario (_mena_ - _significado_); **navilari** - flota de barcos (_navi_ - _nave, barco_); **yumawlari** - plumaje (_yumaw_ - _pluma_)
 * **lexi:** palabra
  * **namelexi** - sustantivo (_name_ - _nombre_); **falelexi** - verbo (_fale_ - _hacer_); **sifalexi** - adjetivo (_sifa_ - _característica_); **manerlexi** - adverbio (_maner_ - _manera_)
 * **logi:** especialidad, estudio de
@@ -250,8 +250,8 @@ Los números también se pueden usar para crear palabras compuestas.
  * **bardimosem** - invierno (_bardi_ - _frío_); **bijamosem** - primavera (_bija_ - _semilla/sembrar_); **termomosem** - verano (_termo_ - _calor_); **xuhamosem** - otoño (_xuha_ - _cosecha_)
 * **osis:** patología
  * **sikoosis** - psicosis (_siko_ - _mente_)
-* **pel:** ímpetu, impulso
- * **seksopel** - libido (_sekso - sexo_); **amirupel** - controlar (_amiru - mandar, ordenar_); **tehdidupel** - obligar, forzar (_tehdidu - amenazar_)
+* **pel:** impulso (extrínseco), empuje; hacer (a alguien) querer  
+* **seksopel** - sensualidad, atractivo sexual (_sekso - sexo_); **jixipel** - hacer que (uno) se pregunte  
 * **tim:** equipo; _en palabras compuestas:_ equipo, cuerpo
  * **asosyatim** - asociación (_asosya_ - _asociado_); **komuntim** - comunidad (_komun_ - _comunal_); **organisatim** - organización (_organisa_ - _organizar_); **jangetim** - fuerzas armadas (_jange_ - _guerra_); **krasitim** - gobierno (_krasi_ - _gobierno_); **ergotim** - personal (_ergo_ - _trabajo_); **oretim** - audiencia (_ore_ - _oído/oír_)
 * **tora:** máquina, dispositivo, aparato; _en palabras compuestas:_ -ador, máquina, dispositivo, aparato
